@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    environment:
+      SANJAYA_OPS_DB_PATH: /app/data/ops/sanjaya_ops.db
+      SANJAYA_CHROMA_DIR: /app/data/chroma
+      SANJAYA_ANALYTICS_DIR: /app/data/analytics
+      SANJAYA_ADMIN_TOKEN: dev-admin-token
+      SANJAYA_ADMIN_USER: advisor
+      SANJAYA_ADMIN_PASSWORD: advisor123
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8000/health || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    environment:
+      SANJAYA_BACKEND_URL: http://backend:8000
+      NEXT_PUBLIC_API_BASE_URL: http://backend:8000
+      SANJAYA_ADMIN_TOKEN: dev-admin-token
+    ports:
+      - "3000:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
