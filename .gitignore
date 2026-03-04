@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.venv*/
+venv/
+
+# Node / Next.js
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+backend/.env
+frontend/.env.local
+
+# Data artifacts / local runtime stores
+data/chroma/
+data/analytics/*.jsonl
+data/ops/*.db
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
