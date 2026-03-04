@@ -1,0 +1,140 @@
+[
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "title": "Software Engineer",
+    "summary": "Builds and maintains software systems, APIs, and applications.",
+    "required_skills": [
+      {"skill_id": "SK_PYTHON", "importance": 4},
+      {"skill_id": "SK_JS_TS", "importance": 3},
+      {"skill_id": "SK_ALGO_DS", "importance": 5},
+      {"skill_id": "SK_OOP", "importance": 5},
+      {"skill_id": "SK_BACKEND_DEV", "importance": 5},
+      {"skill_id": "SK_APIS", "importance": 4},
+      {"skill_id": "SK_VERSION_CONTROL", "importance": 4},
+      {"skill_id": "SK_TESTING", "importance": 4},
+      {"skill_id": "SK_SYSTEMS_DESIGN", "importance": 4}
+    ],
+    "portfolio_expectations": [
+      "Backend API project with tests",
+      "Full-stack capstone with deployment"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "title": "Data Analyst",
+    "summary": "Turns data into insights using statistics, SQL, and visualization.",
+    "required_skills": [
+      {"skill_id": "SK_SQL", "importance": 5},
+      {"skill_id": "SK_PYTHON", "importance": 4},
+      {"skill_id": "SK_STATISTICS", "importance": 5},
+      {"skill_id": "SK_PROBABILITY", "importance": 4},
+      {"skill_id": "SK_DATA_VIZ", "importance": 5},
+      {"skill_id": "SK_BI_TOOLS", "importance": 4},
+      {"skill_id": "SK_BUSINESS_ANALYSIS", "importance": 4},
+      {"skill_id": "SK_EXPERIMENTATION", "importance": 3}
+    ],
+    "portfolio_expectations": [
+      "Dashboard project with business KPI analysis",
+      "Statistical analysis notebook using real dataset"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "title": "Data Engineer",
+    "summary": "Builds reliable data pipelines, storage, and serving systems.",
+    "required_skills": [
+      {"skill_id": "SK_SQL", "importance": 5},
+      {"skill_id": "SK_PYTHON", "importance": 4},
+      {"skill_id": "SK_ETL", "importance": 5},
+      {"skill_id": "SK_DB_DESIGN", "importance": 5},
+      {"skill_id": "SK_DATA_WAREHOUSE", "importance": 4},
+      {"skill_id": "SK_DISTRIBUTED_DATA", "importance": 4},
+      {"skill_id": "SK_DATA_GOVERNANCE", "importance": 3},
+      {"skill_id": "SK_CLOUD", "importance": 4},
+      {"skill_id": "SK_DEVOPS", "importance": 3}
+    ],
+    "portfolio_expectations": [
+      "End-to-end ETL pipeline",
+      "Data warehouse modeling + analytics layer"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "title": "ML Engineer",
+    "summary": "Develops, deploys, and monitors machine learning systems.",
+    "required_skills": [
+      {"skill_id": "SK_PYTHON", "importance": 5},
+      {"skill_id": "SK_SQL", "importance": 3},
+      {"skill_id": "SK_LINEAR_ALG", "importance": 4},
+      {"skill_id": "SK_STATISTICS", "importance": 4},
+      {"skill_id": "SK_ML_FUND", "importance": 5},
+      {"skill_id": "SK_FEATURE_ENGINEERING", "importance": 4},
+      {"skill_id": "SK_MODEL_EVAL", "importance": 5},
+      {"skill_id": "SK_MLOPS", "importance": 4},
+      {"skill_id": "SK_CLOUD", "importance": 3}
+    ],
+    "portfolio_expectations": [
+      "Model training and evaluation project",
+      "Deployed model with monitoring"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "title": "AI Engineer",
+    "summary": "Builds AI-powered applications using ML/LLM components and production software practices.",
+    "required_skills": [
+      {"skill_id": "SK_PYTHON", "importance": 5},
+      {"skill_id": "SK_SQL", "importance": 3},
+      {"skill_id": "SK_ML_FUND", "importance": 5},
+      {"skill_id": "SK_MODEL_EVAL", "importance": 4},
+      {"skill_id": "SK_MLOPS", "importance": 4},
+      {"skill_id": "SK_GENAI_BASICS", "importance": 5},
+      {"skill_id": "SK_BACKEND_DEV", "importance": 4},
+      {"skill_id": "SK_APIS", "importance": 4},
+      {"skill_id": "SK_CLOUD", "importance": 3},
+      {"skill_id": "SK_AI_ETHICS", "importance": 3}
+    ],
+    "portfolio_expectations": [
+      "AI-enabled app with retrieval or model API integration",
+      "Evaluation report with quality/safety tradeoffs"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "title": "Cybersecurity Analyst",
+    "summary": "Protects systems by monitoring risks, investigating threats, and improving controls.",
+    "required_skills": [
+      {"skill_id": "SK_SECURITY_FUND", "importance": 5},
+      {"skill_id": "SK_NETWORKS", "importance": 4},
+      {"skill_id": "SK_NETWORK_SECURITY", "importance": 5},
+      {"skill_id": "SK_APP_SECURITY", "importance": 4},
+      {"skill_id": "SK_CRYPTO", "importance": 3},
+      {"skill_id": "SK_INCIDENT_RESPONSE", "importance": 5},
+      {"skill_id": "SK_RISK_MGMT", "importance": 4},
+      {"skill_id": "SK_GRC", "importance": 3},
+      {"skill_id": "SK_LINUX", "importance": 3}
+    ],
+    "portfolio_expectations": [
+      "Threat detection and response case study",
+      "Security audit report for an application"
+    ],
+    "evidence": [
+      {"url": "https://catalog.udel.edu/", "snippet": "Role-skill map curated for Sanjaya AI; courses are grounded to UD catalog entries."}
+    ]
+  }
+]

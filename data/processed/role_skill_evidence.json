@@ -1,0 +1,1350 @@
+[
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_BLS_ACTUARIES",
+      "SRC_ONET_ACTUARIES"
+    ],
+    "evidence_note": "Actuarial analysis is fundamentally probability-driven risk estimation."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.93,
+    "evidence_sources": [
+      "SRC_BLS_ACTUARIES",
+      "SRC_ONET_ACTUARIES"
+    ],
+    "evidence_note": "Statistical modeling is central to actuarial forecasting and pricing."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "confidence": 0.78,
+    "evidence_sources": [
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Responsible model use and risk-aware deployment are increasingly expected."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.86,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ],
+    "evidence_note": "AI products are commonly built as service-backed applications."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_GENAI_BASICS",
+    "confidence": 0.87,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "AI application engineering combines modern model use with robust software delivery."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_AI_ETHICS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes AI Ethics and Responsible AI in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_APIS",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes API Design and Integration in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_EXPERIMENTATION",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Experiment Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_GENAI_BASICS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Generative AI Basics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_ML_FUND",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Machine Learning Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "AI Product Manager work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_LINEAR_ALG",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_RESEARCH_SCIENTISTS",
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "Mathematical depth is critical for research-grade model design and optimization."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_RESEARCH_SCIENTISTS",
+      "SRC_ONET_COMPUTER_RESEARCH_SCIENTISTS"
+    ],
+    "evidence_note": "AI research roles are centered on novel machine learning and computational methods."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "confidence": 0.84,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS",
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "Warehouse-centric modeling is central to scalable analytics delivery."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_SQL",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ],
+    "evidence_note": "Analytics engineering relies heavily on transforming data into analysis-ready models."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_BIO_STATS",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Statistical methods are needed for robust biological data interpretation."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_GENOMICS",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS"
+    ],
+    "evidence_note": "Genomic and sequence data analysis is a defining part of bioinformatics roles."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.88,
+    "evidence_sources": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Programming is routinely required for computational biology workflows."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "confidence": 0.93,
+    "evidence_sources": [
+      "SRC_BLS_NETWORK_ARCHITECTS",
+      "SRC_ONET_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud infrastructure design and operations are central to modern network roles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "confidence": 0.84,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_WEF_FUTURE_OF_JOBS_2025"
+    ],
+    "evidence_note": "Automation and deployment workflows are key to cloud platform reliability."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Application Security in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Cloud Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Containerization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes DevOps Practices in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Incident Response in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Linux and Command Line in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Network Security in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Cloud Security Engineer work consistently emphasizes Cybersecurity Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_APIS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes API Design and Integration in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Backend Development in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_CLOUD",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Cloud Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Database Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Computer Networks in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Cybersecurity Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+      "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "evidence_note": "Computer Systems Analyst work consistently emphasizes Systems Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_GRC",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Risk and compliance alignment is required in many security analyst roles."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ],
+    "evidence_note": "Detection and response workflows are central in cyber operations."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.96,
+    "evidence_sources": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Security monitoring, protection, and assessment are core duties."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DB_DESIGN",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS",
+      "SRC_ONET_DATABASE_ARCHITECTS"
+    ],
+    "evidence_note": "Database architect roles are centered on schema and storage architecture design."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SQL",
+    "confidence": 0.9,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS",
+      "SRC_ONET_DATABASE_ARCHITECTS"
+    ],
+    "evidence_note": "Structured querying and relational data operations remain fundamental in this role."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.86,
+    "evidence_sources": [
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Communicating findings through visual methods is a common expectation."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Data-focused occupations emphasize querying and managing structured data."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Statistical analysis is central to extracting insights and supporting decisions."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "confidence": 0.85,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ],
+    "evidence_note": "Analytical data platforms and enterprise data organization are key responsibilities."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "confidence": 0.93,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ],
+    "evidence_note": "Architecting data models and storage structures is a core duty."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_ETL",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ],
+    "evidence_note": "Database and platform-focused roles center on reliable data movement and storage."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Data scientist roles center on statistical and machine learning methods."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Inference and model validation are core expectations in data science work."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "confidence": 0.86,
+    "evidence_sources": [
+      "SRC_BLS_NETWORK_ARCHITECTS",
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ],
+    "evidence_note": "Container-based deployment and platform standardization are common role requirements."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_WEF_FUTURE_OF_JOBS_2025"
+    ],
+    "evidence_note": "DevOps engineering roles prioritize release automation and system operability."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Application Security in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Cryptography Basics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Incident Response in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_LINUX",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Linux and Command Line in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Network Security in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Digital Forensics Analyst work consistently emphasizes Cybersecurity Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Financial Accounting in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_MARKETS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Financial Markets in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PROBABILITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Probability in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Risk Analytics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+      "SRC_BLS_FINANCIAL_EXAMINERS"
+    ],
+    "evidence_note": "Financial Risk Specialist work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.84,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "Production fintech systems require robust backend services and integrations."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_FIN_MARKETS",
+    "confidence": 0.9,
+    "evidence_sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025"
+    ],
+    "evidence_note": "Fintech engineering intersects financial domain expertise and software execution."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Database Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Cybersecurity Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ],
+    "evidence_note": "Health Informatics Analyst work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Business Intelligence Tools in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Experiment Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Probability in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+      "SRC_ONET_MARKET_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Market Research Analyst work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "confidence": 0.84,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Productionization requires software engineering and deployment discipline."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "confidence": 0.95,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Model development and machine learning methods are central to this pathway."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "confidence": 0.9,
+    "evidence_sources": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "evidence_note": "Evaluation and validation methods are needed for reliable model performance."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORKS",
+    "confidence": 0.96,
+    "evidence_sources": [
+      "SRC_BLS_NETWORK_ARCHITECTS",
+      "SRC_ONET_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Network architecture roles directly center on design and implementation of networks."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "confidence": 0.86,
+    "evidence_sources": [
+      "SRC_ONET_NETWORK_ARCHITECTS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Secure network design is a recurring requirement in architecture responsibilities."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Experiment Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Optimization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Probability in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Operations Research Analyst work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes AI Ethics and Responsible AI in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Application Security in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Backend Development in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_CRYPTO",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Cryptography Basics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_GRC",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Governance, Risk, and Compliance in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Incident Response in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Privacy Engineer work consistently emphasizes Cybersecurity Fundamentals in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_FIN_MARKETS",
+    "confidence": 0.92,
+    "evidence_sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS"
+    ],
+    "evidence_note": "Financial market understanding is foundational for risk and quant analysis roles."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "confidence": 0.86,
+    "evidence_sources": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Optimization methods are a core technique in quantitative analysis workflows."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "evidence_note": "Risk assessment and model-based decision support are recurring role requirements."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "confidence": 0.9,
+    "evidence_sources": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ],
+    "evidence_note": "Security engineering emphasizes secure software and application-layer defenses."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_ONET_INFOSEC_ANALYSTS"
+    ],
+    "evidence_note": "Core security analysis and control implementation remain foundational requirements."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "confidence": 0.87,
+    "evidence_sources": [
+      "SRC_BLS_NETWORK_ARCHITECTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ],
+    "evidence_note": "SRE responsibilities include reliability operations and production incident handling."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "confidence": 0.85,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_NETWORK_ARCHITECTS"
+    ],
+    "evidence_note": "Reliability engineering depends on robust architecture and capacity planning."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_ALGO_DS",
+    "confidence": 0.9,
+    "evidence_sources": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ],
+    "evidence_note": "Software engineering roles consistently emphasize programming and computational problem-solving."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.88,
+    "evidence_sources": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ],
+    "evidence_note": "Occupation profile highlights designing and developing software systems and services."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "confidence": 0.84,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ],
+    "evidence_note": "BLS role description includes testing and maintenance responsibilities."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_CALCULUS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Calculus in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_EXPERIMENTATION",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Experiment Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_LINEAR_ALG",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Linear Algebra in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PROBABILITY",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Probability in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_SQL",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.94,
+    "evidence_sources": [
+      "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+      "SRC_ONET_STATISTICIANS"
+    ],
+    "evidence_note": "Statistician work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Business Analysis in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_DATA_VIZ",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Data Visualization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Experiment Design in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Optimization in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Python Programming in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "confidence": 0.83,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Risk Management in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes SQL in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "confidence": 0.89,
+    "evidence_sources": [
+      "SRC_BLS_LOGISTICIANS",
+      "SRC_ONET_LOGISTICIANS"
+    ],
+    "evidence_note": "Supply Chain Analytics Specialist work consistently emphasizes Statistics in cited labor-market profiles."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "confidence": 0.88,
+    "evidence_sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_WEB_DEVELOPERS_DESIGNERS"
+    ],
+    "evidence_note": "Modern web application delivery requires dependable backend services and APIs."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_FRONTEND_DEV",
+    "confidence": 0.91,
+    "evidence_sources": [
+      "SRC_BLS_WEB_DEVELOPERS_DESIGNERS",
+      "SRC_ONET_WEB_DEVELOPERS"
+    ],
+    "evidence_note": "Web application engineering requires strong client-side implementation and interface work."
+  }
+]

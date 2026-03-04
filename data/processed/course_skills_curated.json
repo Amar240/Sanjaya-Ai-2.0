@@ -1,0 +1,4510 @@
+[
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "course_id": "ACCT-207",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Accounting I aligns with Financial Accounting for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "course_id": "ACCT-600",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Financial Reporting and Analysis provides GR-level coverage for Financial Accounting for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-230",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Finite Mathematics with Applications aligns with Optimization for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-243",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Analytic Geometry and Calculus C aligns with Optimization for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computational Methods for Equation Solving and Function Min provides GR-level coverage for Optimization for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I aligns with Probability for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Probability for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Probability for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-642",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Foundations of Financial Economics and Machine Learning aligns with Risk Analytics for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-413",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Capstone: Advanced Corporate Finance aligns with Risk Analytics for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation provides GR-level coverage for SQL for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ACTUARIAL_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics provides GR-level coverage for Statistics for Actuarial Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "ECON-370",
+    "strength": 5,
+    "rationale": "Focused economics/ethics implications of AI."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "MISY-455",
+    "strength": 4,
+    "rationale": "Technology ethics, policy, and governance considerations."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "BINF-601",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Bio Data Sciences provides GR-level coverage for AI Ethics and Responsible AI for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Software engineering practices for system interfaces/APIs."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 3,
+    "rationale": "Distributed/cloud service integration patterns."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices provides GR-level coverage for API Design and Integration for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Software engineering and service-oriented backend foundations."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-375",
+    "strength": 4,
+    "rationale": "Production-grade software delivery and maintainability."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices provides GR-level coverage for Backend Development for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Direct cloud computing platform and infrastructure exposure."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MISY-450",
+    "strength": 4,
+    "rationale": "Enterprise cloud architecture context."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_GENAI_BASICS",
+    "course_id": "MISY-408",
+    "strength": 4,
+    "rationale": "Data/analytics framing for modern AI/GenAI use cases."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_GENAI_BASICS",
+    "course_id": "CISC-334",
+    "strength": 3,
+    "rationale": "Applied AI systems development exposure."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_GENAI_BASICS",
+    "course_id": "BINF-610",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Applied Machine Learning provides GR-level coverage for Generative AI Basics for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-375",
+    "strength": 5,
+    "rationale": "DevOps lifecycle and testing/deployment practices."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-362",
+    "strength": 4,
+    "rationale": "Cloud/distributed platform operations for AI pipelines."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-614",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering provides GR-level coverage for MLOps for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-331",
+    "strength": 5,
+    "rationale": "Dedicated ML course focused on supervised/unsupervised methods."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics provides GR-level coverage for Machine Learning Fundamentals for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 4,
+    "rationale": "Applied analytics and ML decision support context."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Statistical foundations for model assessment."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "MATH-201",
+    "strength": 4,
+    "rationale": "Intro statistical methods supporting model evaluation."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-408",
+    "strength": 4,
+    "rationale": "Research methods and inference quality evaluation."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-657",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Statistics for Earth Sciences provides GR-level coverage for Model Evaluation for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 5,
+    "rationale": "Core Python programming foundation for building AI workflows."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics provides GR-level coverage for Python Programming for AI Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-181",
+    "strength": 4,
+    "rationale": "Strengthens Python/software fluency for applied AI development."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "ECON-370",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Economics of Artificial Intelligence provides UG-level coverage for AI Ethics and Responsible AI for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "BUAD-651",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Generative AI for Business Analytics aligns with AI Ethics and Responsible AI for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "MISY-670",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Generative AI aligns with AI Ethics and Responsible AI for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_APIS",
+    "course_id": "MISY-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with API Design and Integration for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "BUAD-622",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling aligns with Business Analysis for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Computing Fundamentals provides UG-level coverage for Business Analysis for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Decision Analytics and Visualization aligns with Data Visualization for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression and Experimental Design aligns with Experiment Design for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis aligns with Experiment Design for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_GENAI_BASICS",
+    "course_id": "ECON-370",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Economics of Artificial Intelligence aligns with Generative AI Basics for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_GENAI_BASICS",
+    "course_id": "STAT-603",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Statistical Computing and Optimization aligns with Generative AI Basics for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics aligns with Machine Learning Fundamentals for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics aligns with Machine Learning Fundamentals for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for AI Product Manager. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "ECON-370",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Economics of Artificial Intelligence provides UG-level coverage for AI Ethics and Responsible AI for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "BINF-601",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Bio Data Sciences aligns with AI Ethics and Responsible AI for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "MATH-349",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Elementary Linear Algebra aligns with Linear Algebra for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "STAT-617",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Multivariate Methods and Statistical Learning aligns with Linear Algebra for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics aligns with Machine Learning Fundamentals for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics aligns with Machine Learning Fundamentals for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-471",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Mathematical Statistics provides UG-level coverage for Model Evaluation for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-657",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Statistics for Earth Sciences aligns with Model Evaluation for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-671",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Mathematical Statistics aligns with Model Evaluation for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-230",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Finite Mathematics with Applications provides UG-level coverage for Optimization for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "BINF-685",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Modeling and Simulation for Bioinformatics Systems aligns with Optimization for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computational Methods for Equation Solving and Function Min aligns with Optimization for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I provides UG-level coverage for Probability for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "BINF-684",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Machine Learning aligns with Probability for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Probability for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for AI Research Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Business Intelligence Tools for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with Business Intelligence Tools for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-448",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Intelligence and Analytics provides UG-level coverage for Business Intelligence Tools for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Computing Fundamentals provides UG-level coverage for Business Analysis for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Visualization for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Data Warehousing for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Warehousing for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for Database Design for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with Database Design for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Database Design for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with ETL Pipelines for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-402",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Big Data Technologies provides UG-level coverage for ETL Pipelines for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "BINF-640",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with ETL Pipelines for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for SQL for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ANALYTICS_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Analytics Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_BIO_FUND",
+    "course_id": "BISC-205",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Biology for Health Sciences aligns with Biology Fundamentals for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_BIO_FUND",
+    "course_id": "BISC-609",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Molecular Biology of the Cell aligns with Biology Fundamentals for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_BIO_STATS",
+    "course_id": "BINF-605",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Biostatistics with Biomedical Applications aligns with Biostatistics for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_BIO_STATS",
+    "course_id": "STAT-656",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Biostatistics aligns with Biostatistics for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_GENOMICS",
+    "course_id": "CISC-436",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computational Biology and Bioinformatics aligns with Genomics and Sequence Analysis for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_GENOMICS",
+    "course_id": "CISC-636",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computational Biology and Bioinformatics aligns with Genomics and Sequence Analysis for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics provides UG-level coverage for Machine Learning Fundamentals for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "BINF-610",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Applied Machine Learning aligns with Machine Learning Fundamentals for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for SQL for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for Bioinformatics Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering provides UG-level coverage for Backend Development for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-405",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Current Issues in Management Information Systems aligns with Containerization for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Enterprise Architecture and Business Strategy aligns with Containerization for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with DevOps Practices for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-415",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for DevOps Practices for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with DevOps Practices for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-450",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks I provides UG-level coverage for Computer Networks for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Computer Networks for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "MISY-610",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Telecommunications and Networking aligns with Computer Networks for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Cybersecurity Fundamentals for Cloud Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "ACCT-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Application Security for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-405",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Current Issues in Management Information Systems aligns with Containerization for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Enterprise Architecture and Business Strategy aligns with Containerization for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with DevOps Practices for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-415",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for DevOps Practices for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with DevOps Practices for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Incident Response for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-455",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Incident Response for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Cloud Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_APIS",
+    "course_id": "MISY-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with API Design and Integration for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Backend Development for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "CISC-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Business Analysis for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Computing Fundamentals provides UG-level coverage for Business Analysis for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for Database Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with Database Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Database Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-450",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks I provides UG-level coverage for Computer Networks for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Computer Networks for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "MISY-610",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Telecommunications and Networking aligns with Computer Networks for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-430",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions provides UG-level coverage for Systems Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "CISC-662",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Computer Systems: Architecture aligns with Systems Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions aligns with Systems Design for Computer Systems Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Application/system security practices and controls."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 4,
+    "rationale": "Practical hands-on security labs and safeguards."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Application Security for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MISY-465",
+    "strength": 4,
+    "rationale": "Includes cryptographic principles and usage."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MATH-549",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Coding Theory and Cryptography provides GR-level coverage for Cryptography Basics for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MISY-403",
+    "strength": 3,
+    "rationale": "Covers technical topics including cryptography."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Governance/compliance/risk principles in security."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-455",
+    "strength": 4,
+    "rationale": "Ethics/compliance and technology governance context."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-655",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Governance, Risk, and Compliance for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Security incidents, risk response, and recovery context."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-403",
+    "strength": 4,
+    "rationale": "Operational defensive mindset and incident case exposure."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-361",
+    "strength": 5,
+    "rationale": "Operating systems and systems-level Linux-relevant concepts."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice provides GR-level coverage for Linux and Command Line for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-450",
+    "strength": 5,
+    "rationale": "Core TCP/IP and network architecture foundations."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Computer Networks for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "MISY-250",
+    "strength": 4,
+    "rationale": "Business network infrastructure and data communications."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Explicit network security controls and methods."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Network Security for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Security controls, threats, and vulnerabilities."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Direct risk management in information security."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management provides GR-level coverage for Risk Management for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-403",
+    "strength": 4,
+    "rationale": "Management of enterprise cyber risk tradeoffs."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Security/risk fundamentals in organizational context."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Direct introduction to cybersecurity foundations."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-403",
+    "strength": 4,
+    "rationale": "Managerial security perspective and threat mindset."
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Cybersecurity Fundamentals for Cybersecurity Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Data Warehousing for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Warehousing for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for Database Design for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with Database Design for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Database Design for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with ETL Pipelines for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-402",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Big Data Technologies provides UG-level coverage for ETL Pipelines for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_ETL",
+    "course_id": "BINF-640",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with ETL Pipelines for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Cybersecurity Fundamentals for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for SQL for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATABASE_ARCHITECT",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Database Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Business Intelligence Tools for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with Business Intelligence Tools for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-448",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Intelligence and Analytics provides UG-level coverage for Business Intelligence Tools for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "CISC-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Business Analysis for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-407",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Data-Driven Causal Inference provides UG-level coverage for Business Analysis for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Visualization for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression and Experimental Design aligns with Experiment Design for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis provides GR-level coverage for Experiment Design for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I aligns with Probability for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Probability for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "BINF-684",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Machine Learning provides GR-level coverage for Probability for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for Data Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Direct cloud and big-data infrastructure experience."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MISY-450",
+    "strength": 4,
+    "rationale": "Enterprise cloud platform architecture."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "CISC-362",
+    "strength": 4,
+    "rationale": "Big data platforms and distributed storage concepts."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-450",
+    "strength": 4,
+    "rationale": "Enterprise data architecture and governance."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation provides GR-level coverage for Data Warehousing for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Conceptual/logical/physical DB design."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "CISC-437",
+    "strength": 5,
+    "rationale": "Database architecture and integrity/concurrency."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics provides GR-level coverage for Database Design for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-375",
+    "strength": 5,
+    "rationale": "Continuous delivery and operational automation."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-362",
+    "strength": 4,
+    "rationale": "Cloud ops and distributed deployment context."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices provides GR-level coverage for DevOps Practices for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Distributed data processing and cloud systems."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "course_id": "CISC-637",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Database Systems provides GR-level coverage for Distributed Data Processing for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "course_id": "CISC-450",
+    "strength": 3,
+    "rationale": "Networked systems foundations for distributed data flows."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-408",
+    "strength": 4,
+    "rationale": "Data preparation and transformation workflows."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-441",
+    "strength": 4,
+    "rationale": "Data mining pipelines and structured transformations."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_ETL",
+    "course_id": "MISY-604",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Database Design and Implementation provides GR-level coverage for ETL Pipelines for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 5,
+    "rationale": "Core scripting language for data pipelines."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics provides GR-level coverage for Python Programming for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-181",
+    "strength": 4,
+    "rationale": "Programming depth for data tooling."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Hands-on SQL and enterprise database querying."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics provides GR-level coverage for SQL for Data Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "CISC-437",
+    "strength": 4,
+    "rationale": "Relational data retrieval and DB internals."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Visualization for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "course_id": "CISC-442",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Computer Vision provides UG-level coverage for Feature Engineering for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "course_id": "BINF-815",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics, Business and Communication aligns with Feature Engineering for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "course_id": "BINF-816",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Systems Biology of Cells in Engineered Environments aligns with Feature Engineering for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-414",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering provides UG-level coverage for MLOps for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-614",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering aligns with MLOps for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics aligns with Machine Learning Fundamentals for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics aligns with Machine Learning Fundamentals for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-471",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Mathematical Statistics provides UG-level coverage for Model Evaluation for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-657",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Statistics for Earth Sciences aligns with Model Evaluation for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-671",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Mathematical Statistics aligns with Model Evaluation for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I provides UG-level coverage for Probability for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "BINF-684",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Machine Learning aligns with Probability for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Probability for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for SQL for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for Data Scientist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Backend Development for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-405",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Current Issues in Management Information Systems aligns with Containerization for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_CONTAINERIZATION",
+    "course_id": "MISY-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Enterprise Architecture and Business Strategy aligns with Containerization for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with DevOps Practices for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-415",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for DevOps Practices for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with DevOps Practices for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-415",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for Software Testing for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-615",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with Software Testing for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Version Control for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DEVOPS_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-650",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Version Control for DevOps Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "ACCT-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Application Security for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MATH-549",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Coding Theory and Cryptography aligns with Cryptography Basics for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MISY-465",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides UG-level coverage for Cryptography Basics for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Incident Response for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-455",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Incident Response for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Digital Forensics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "course_id": "ACCT-207",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Accounting I aligns with Financial Accounting for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "course_id": "ACCT-315",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Intermediate Accounting I aligns with Financial Accounting for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "course_id": "ACCT-600",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Financial Reporting and Analysis provides GR-level coverage for Financial Accounting for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "FINC-412",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Capital Markets & Financial Institutions aligns with Financial Markets for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "ECON-814",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Macroeconomic Theory II aligns with Financial Markets for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I aligns with Probability for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Probability for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Probability for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-642",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Foundations of Financial Economics and Machine Learning aligns with Risk Analytics for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-413",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Capstone: Advanced Corporate Finance aligns with Risk Analytics for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "ACCT-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "FINC-320",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Principles of Financial Planning aligns with Risk Management for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management provides GR-level coverage for Risk Management for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics provides GR-level coverage for Statistics for Financial Risk Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "MISY-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with API Design and Integration for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Backend Development for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_CORP_FINANCE",
+    "course_id": "FINC-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Finance aligns with Corporate Finance for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_CORP_FINANCE",
+    "course_id": "FINC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Financial Management provides GR-level coverage for Corporate Finance for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Decision Analytics and Visualization provides UG-level coverage for Data Visualization for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "FINC-412",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Capital Markets & Financial Institutions provides UG-level coverage for Financial Markets for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "ECON-814",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Macroeconomic Theory II aligns with Financial Markets for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "FINC-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Capital Markets & Financial Institutions aligns with Financial Markets for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics aligns with Machine Learning Fundamentals for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics aligns with Machine Learning Fundamentals for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-642",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Foundations of Financial Economics and Machine Learning aligns with Risk Analytics for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-413",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Capstone: Advanced Corporate Finance provides UG-level coverage for Risk Analytics for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-672",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Financial Data Analytics aligns with Risk Analytics for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for FinTech Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "CISC-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Business Analysis for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Computing Fundamentals provides UG-level coverage for Business Analysis for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming aligns with Data Visualization for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for Database Design for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with Database Design for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_DB_DESIGN",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with Database Design for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management provides UG-level coverage for SQL for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics aligns with SQL for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for Health Informatics Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Business Intelligence Tools for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-675",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with Business Intelligence Tools for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BI_TOOLS",
+    "course_id": "MISY-448",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Intelligence and Analytics provides UG-level coverage for Business Intelligence Tools for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "BUAD-622",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling aligns with Business Analysis for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-407",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Data-Driven Causal Inference provides UG-level coverage for Business Analysis for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Decision Analytics and Visualization aligns with Data Visualization for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression and Experimental Design aligns with Experiment Design for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis aligns with Experiment Design for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I aligns with Probability for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Probability for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Probability for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics provides GR-level coverage for Statistics for Market Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "course_id": "CISC-442",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Computer Vision aligns with Feature Engineering for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "course_id": "BINF-815",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics, Business and Communication aligns with Feature Engineering for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "MATH-349",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Elementary Linear Algebra aligns with Linear Algebra for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "STAT-617",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Multivariate Methods and Statistical Learning aligns with Linear Algebra for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-414",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering aligns with MLOps for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MLOPS",
+    "course_id": "CISC-614",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering aligns with MLOps for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-408",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data & Analytics aligns with Machine Learning Fundamentals for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_ML_FUND",
+    "course_id": "MISY-608",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Data and Analytics aligns with Machine Learning Fundamentals for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-471",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Mathematical Statistics aligns with Model Evaluation for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_MODEL_EVAL",
+    "course_id": "STAT-657",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Statistics for Earth Sciences aligns with Model Evaluation for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_SQL",
+    "course_id": "BINF-640",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Databases for Bioinformatics provides GR-level coverage for SQL for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_ML_ENGINEER",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for ML Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-450",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks I provides UG-level coverage for Computer Networks for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Computer Networks for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "MISY-610",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Telecommunications and Networking aligns with Computer Networks for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management provides UG-level coverage for Risk Management for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Cybersecurity Fundamentals for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-430",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions provides UG-level coverage for Systems Design for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "CISC-662",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Computer Systems: Architecture aligns with Systems Design for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_NETWORK_ARCHITECT",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions aligns with Systems Design for Network Architect. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-261",
+    "strength": 5,
+    "rationale": "Business systems understanding for decision modeling."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 4,
+    "rationale": "Foundational business computing context."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "BUAD-622",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling provides GR-level coverage for Business Analysis for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 5,
+    "rationale": "Decision analytics and visualization coursework."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 5,
+    "rationale": "Regression and experimental design methods."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-408",
+    "strength": 4,
+    "rationale": "Applied statistical research methods."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis provides GR-level coverage for Experiment Design for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-230",
+    "strength": 5,
+    "rationale": "Finite optimization methods and applications."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computational Methods for Equation Solving and Function Min provides GR-level coverage for Optimization for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-243",
+    "strength": 4,
+    "rationale": "Advanced calculus support for optimization thinking."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Probability fundamentals for uncertainty modeling."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Advanced probability and simulation methods."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Probability for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 4,
+    "rationale": "Intro methods with probabilistic reasoning."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 4,
+    "rationale": "Programming for analytics and modeling scripts."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "SQL for data extraction and operational analysis."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Core statistical analysis foundations."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-408",
+    "strength": 5,
+    "rationale": "Research methods and statistical rigor."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics provides GR-level coverage for Statistics for Operations Research Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "MISY-262",
+    "strength": 4,
+    "rationale": "Applied analytics/statistics for decisions."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "ECON-370",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Economics of Artificial Intelligence provides UG-level coverage for AI Ethics and Responsible AI for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "BINF-601",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Bio Data Sciences aligns with AI Ethics and Responsible AI for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_AI_ETHICS",
+    "course_id": "MISY-670",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Generative AI aligns with AI Ethics and Responsible AI for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "ACCT-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Application Security for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Backend Development for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MATH-549",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Coding Theory and Cryptography aligns with Cryptography Basics for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MISY-465",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides UG-level coverage for Cryptography Basics for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-455",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Governance, Risk, and Compliance for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-655",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Governance, Risk, and Compliance for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Incident Response for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-455",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Incident Response for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_PRIVACY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Privacy Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Decision Analytics and Visualization provides UG-level coverage for Data Visualization for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "FINC-412",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Capital Markets & Financial Institutions provides UG-level coverage for Financial Markets for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "ECON-814",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Macroeconomic Theory II aligns with Financial Markets for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_FIN_MARKETS",
+    "course_id": "FINC-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Capital Markets & Financial Institutions aligns with Financial Markets for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-230",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Finite Mathematics with Applications provides UG-level coverage for Optimization for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "BUAD-622",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling aligns with Optimization for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computational Methods for Equation Solving and Function Min aligns with Optimization for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I provides UG-level coverage for Probability for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Probability for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-684",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Machine Learning aligns with Probability for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-642",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Foundations of Financial Economics and Machine Learning aligns with Risk Analytics for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-413",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Capstone: Advanced Corporate Finance provides UG-level coverage for Risk Analytics for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "course_id": "FINC-672",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Financial Data Analytics aligns with Risk Analytics for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics aligns with Statistics for Quant / Risk Analyst. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "ACCT-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "MISY-305",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Application Security for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_APP_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides GR-level coverage for Application Security for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MATH-549",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Coding Theory and Cryptography aligns with Cryptography Basics for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_CRYPTO",
+    "course_id": "MISY-465",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity provides UG-level coverage for Cryptography Basics for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-455",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Governance, Risk, and Compliance for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_GRC",
+    "course_id": "MISY-655",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Governance, Risk, and Compliance for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Incident Response for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-455",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Incident Response for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "MISY-465",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "course_id": "CISC-665",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Network Security for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "MISY-305",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Cybersecurity Fundamentals for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SECURITY_ENGINEER",
+    "skill_id": "SK_SECURITY_FUND",
+    "course_id": "CISC-665",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Cybersecurity aligns with Cybersecurity Fundamentals for Security Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-350",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Cloud Fundamentals for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with DevOps Practices for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-415",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for DevOps Practices for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_DEVOPS",
+    "course_id": "CISC-615",
+    "strength": 1,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with DevOps Practices for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-305",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Incident Response for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-455",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management aligns with Incident Response for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "course_id": "MISY-655",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Ethics in Technology Management provides GR-level coverage for Incident Response for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-669",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Security Principles and Practice aligns with Linux and Command Line for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-303",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Automata Theory provides UG-level coverage for Linux and Command Line for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_LINUX",
+    "course_id": "CISC-650",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Linux and Command Line for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-450",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks I provides UG-level coverage for Computer Networks for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Computer Networks for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_NETWORKS",
+    "course_id": "MISY-610",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Telecommunications and Networking aligns with Computer Networks for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics aligns with Python Programming for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-430",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions provides UG-level coverage for Systems Design for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "CISC-662",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Computer Systems: Architecture aligns with Systems Design for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions aligns with Systems Design for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-415",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides UG-level coverage for Software Testing for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-615",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with Software Testing for Site Reliability Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_ALGO_DS",
+    "course_id": "CISC-220",
+    "strength": 5,
+    "rationale": "Primary data structures requirement for SWE."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_ALGO_DS",
+    "course_id": "CISC-320",
+    "strength": 5,
+    "rationale": "Algorithmic analysis and design."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_ALGO_DS",
+    "course_id": "CISC-621",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Algorithm Design and Analysis provides GR-level coverage for Data Structures and Algorithms for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "System integration and software interface practices."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 3,
+    "rationale": "Distributed/cloud API-oriented system exposure."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices provides GR-level coverage for API Design and Integration for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Software engineering and backend system design patterns."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-375",
+    "strength": 4,
+    "rationale": "Production software lifecycle and delivery."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices provides GR-level coverage for Backend Development for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Cloud architecture and deployment fundamentals."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_OOP",
+    "course_id": "CISC-108",
+    "strength": 5,
+    "rationale": "Object-oriented programming fundamentals."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_OOP",
+    "course_id": "CISC-181",
+    "strength": 4,
+    "rationale": "OOP practice at CS II depth."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_OOP",
+    "course_id": "CISC-686",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Multi-Agent Systems provides GR-level coverage for Object-Oriented Programming for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 5,
+    "rationale": "Core programming for software development."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "BINF-690",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Programming for Bioinformatics provides GR-level coverage for Python Programming for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-181",
+    "strength": 4,
+    "rationale": "Advanced CS programming practice."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "CISC-414",
+    "strength": 4,
+    "rationale": "Specification and formal reasoning for system quality."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-430",
+    "strength": 4,
+    "rationale": "Formal systems analysis/design process."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "course_id": "MISY-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Analyzing and Designing IT Solutions provides GR-level coverage for Systems Design for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-375",
+    "strength": 5,
+    "rationale": "Explicit testing and quality engineering workflows."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-615",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance provides GR-level coverage for Software Testing for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-275",
+    "strength": 4,
+    "rationale": "Software engineering QA practices in team projects."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Team workflow and source-control tooling in software projects."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-375",
+    "strength": 4,
+    "rationale": "DevOps toolchain and collaborative engineering workflow."
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-650",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Version Control for Software Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_CALCULUS",
+    "course_id": "MATH-231",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Integrated Calculus IA aligns with Calculus for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_CALCULUS",
+    "course_id": "CISC-414",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering aligns with Calculus for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_CALCULUS",
+    "course_id": "CISC-614",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Formal Methods in Software Engineering provides GR-level coverage for Calculus for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "ECON-626",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Generative AI for Data Visualization aligns with Data Visualization for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-225",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Programming provides UG-level coverage for Data Visualization for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression and Experimental Design aligns with Experiment Design for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis aligns with Experiment Design for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "MATH-349",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Elementary Linear Algebra aligns with Linear Algebra for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_LINEAR_ALG",
+    "course_id": "STAT-617",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Multivariate Methods and Statistical Learning aligns with Linear Algebra for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-201",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Statistical Methods I aligns with Probability for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "MATH-350",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Probability Theory and Simulation Methods aligns with Probability for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PROBABILITY",
+    "course_id": "CISC-650",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computer Networks II provides GR-level coverage for Probability for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-475",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Environmental Statistics aligns with Statistics for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_STATISTICIAN",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python provides GR-level coverage for Statistics for Statistician. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "BUAD-622",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling aligns with Business Analysis for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-606",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Object-oriented Systems Analysis, Design and Implementation aligns with Business Analysis for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "course_id": "MISY-160",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Business Computing Fundamentals provides UG-level coverage for Business Analysis for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "BUAD-345",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Decision Analytics and Visualization aligns with Data Visualization for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_DATA_VIZ",
+    "course_id": "MISY-635",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Visual Analytics aligns with Data Visualization for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-409",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression and Experimental Design aligns with Experiment Design for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_EXPERIMENTATION",
+    "course_id": "STAT-611",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Regression Analysis aligns with Experiment Design for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-230",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Finite Mathematics with Applications provides UG-level coverage for Optimization for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "BUAD-622",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Optimization and Spreadsheet Modelling aligns with Optimization for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_OPTIMIZATION",
+    "course_id": "MATH-612",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Computational Methods for Equation Solving and Function Min aligns with Optimization for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "MISY-636",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Unstructured Data Analytics aligns with Python Programming for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "STAT-631",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Python aligns with Python Programming for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_PYTHON",
+    "course_id": "CISC-104",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Programming in Games provides UG-level coverage for Python Programming for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "MISY-305",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Information Security and Risk Management aligns with Risk Management for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_RISK_MGMT",
+    "course_id": "CISC-611",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Process Management aligns with Risk Management for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-330",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Management aligns with SQL for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_SQL",
+    "course_id": "MISY-604",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Database Design and Implementation aligns with SQL for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "STAT-200",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Basic Statistical Practice aligns with Statistics for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "skill_id": "SK_STATISTICS",
+    "course_id": "BUAD-620",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Fundamentals of Analytics aligns with Statistics for Supply Chain Analytics Specialist. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-362",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data provides UG-level coverage for API Design and Integration for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "CISC-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with API Design and Integration for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_APIS",
+    "course_id": "MISY-675",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Dashboard Design and Storytelling aligns with API Design and Integration for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Backend Development for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_BACKEND_DEV",
+    "course_id": "CISC-675",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Software Engineering Principles and Practices aligns with Backend Development for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "CISC-362",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Cloud Computing and Big Data aligns with Cloud Fundamentals for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_CLOUD",
+    "course_id": "MATH-630",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Probability Theory and Applications provides GR-level coverage for Cloud Fundamentals for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_FRONTEND_DEV",
+    "course_id": "CISC-275",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Frontend Development for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_OOP",
+    "course_id": "CISC-108",
+    "strength": 4,
+    "rationale": "Auto-curated seed: Introduction to Computer Science I aligns with Object-Oriented Programming for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_OOP",
+    "course_id": "CISC-686",
+    "strength": 2,
+    "rationale": "Auto-curated seed: Introduction to Multi-Agent Systems provides GR-level coverage for Object-Oriented Programming for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-415",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with Software Testing for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_TESTING",
+    "course_id": "CISC-615",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Software Testing and Maintenance aligns with Software Testing for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-275",
+    "strength": 5,
+    "rationale": "Auto-curated seed: Introduction to Software Engineering aligns with Version Control for Web Application Engineer. Review recommended."
+  },
+  {
+    "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+    "skill_id": "SK_VERSION_CONTROL",
+    "course_id": "CISC-650",
+    "strength": 3,
+    "rationale": "Auto-curated seed: Computer Networks II aligns with Version Control for Web Application Engineer. Review recommended."
+  }
+]

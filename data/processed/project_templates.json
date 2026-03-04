@@ -1,0 +1,803 @@
+[
+  {
+    "template_id": "PT_SK_ALGO_DS_BEGINNER_001",
+    "skill_id": "SK_ALGO_DS",
+    "level": "beginner",
+    "title": "Data Structures and Algorithms Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Data Structures and Algorithms"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_APIS_BEGINNER_001",
+    "skill_id": "SK_APIS",
+    "level": "beginner",
+    "title": "REST API for Course Planner Notes",
+    "time_hours": 14,
+    "prerequisites": [
+      "Basic Python web framework familiarity"
+    ],
+    "deliverables": [
+      "CRUD API with request validation",
+      "OpenAPI docs and example requests"
+    ],
+    "rubric": [
+      "Status codes and validation behavior are consistent",
+      "Basic auth or token protection included",
+      "API docs match implementation"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_APP_SECURITY_BEGINNER_001",
+    "skill_id": "SK_APP_SECURITY",
+    "level": "beginner",
+    "title": "Application Security Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Application Security"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_BACKEND_DEV_INTERMEDIATE_001",
+    "skill_id": "SK_BACKEND_DEV",
+    "level": "intermediate",
+    "title": "Service Layer with Deterministic Validation",
+    "time_hours": 22,
+    "prerequisites": [
+      "REST API fundamentals"
+    ],
+    "deliverables": [
+      "Backend service with rule-based validators",
+      "Integration tests for critical paths"
+    ],
+    "rubric": [
+      "Validation logic is deterministic and test-covered",
+      "Error codes are stable and structured",
+      "No hidden side effects in request handling"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_BIO_FUND_BEGINNER_001",
+    "skill_id": "SK_BIO_FUND",
+    "level": "beginner",
+    "title": "Biology Fundamentals Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Biology Fundamentals"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_BIO_STATS_BEGINNER_001",
+    "skill_id": "SK_BIO_STATS",
+    "level": "beginner",
+    "title": "Biostatistics Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Biostatistics"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_BUSINESS_ANALYSIS_BEGINNER_001",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "level": "beginner",
+    "title": "Business Analysis Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Business Analysis"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_CLOUD_BEGINNER_001",
+    "skill_id": "SK_CLOUD",
+    "level": "beginner",
+    "title": "Cloud Cost-Aware Web Service Deployment",
+    "time_hours": 16,
+    "prerequisites": [],
+    "deliverables": [
+      "Small web service deployed to a cloud platform",
+      "Cost estimate and architecture diagram"
+    ],
+    "rubric": [
+      "Service is reachable and documented",
+      "Architecture decisions are justified",
+      "Cost estimate assumptions are explicit"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_CORP_FINANCE_BEGINNER_001",
+    "skill_id": "SK_CORP_FINANCE",
+    "level": "beginner",
+    "title": "Corporate Finance Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Corporate Finance"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_CRYPTO_BEGINNER_001",
+    "skill_id": "SK_CRYPTO",
+    "level": "beginner",
+    "title": "Cryptography Basics Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Cryptography Basics"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_DATA_VIZ_BEGINNER_001",
+    "skill_id": "SK_DATA_VIZ",
+    "level": "beginner",
+    "title": "Role Outcomes Dashboard",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Dashboard with 4 charts and filters",
+      "Narrative summary of observed trends"
+    ],
+    "rubric": [
+      "Charts are correctly labeled and readable",
+      "Filter interactions are intuitive",
+      "Narrative avoids unsupported claims"
+    ],
+    "links": [],
+    "notes": "Use ranges and cited sources for compensation visuals."
+  },
+  {
+    "template_id": "PT_SK_DATA_WAREHOUSE_BEGINNER_001",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "level": "beginner",
+    "title": "Data Warehousing Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Data Warehousing"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_DB_DESIGN_BEGINNER_001",
+    "skill_id": "SK_DB_DESIGN",
+    "level": "beginner",
+    "title": "Database Design Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Database Design"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_DEVOPS_INTERMEDIATE_001",
+    "skill_id": "SK_DEVOPS",
+    "level": "intermediate",
+    "title": "CI Pipeline with Lint/Test Gates",
+    "time_hours": 14,
+    "prerequisites": [
+      "Version control workflow"
+    ],
+    "deliverables": [
+      "CI workflow file",
+      "Passing lint and test checks on PR"
+    ],
+    "rubric": [
+      "Pipeline steps are deterministic",
+      "Failures are actionable",
+      "Repository docs include CI usage"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_DISTRIBUTED_DATA_BEGINNER_001",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "level": "beginner",
+    "title": "Distributed Data Processing Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Distributed Data Processing"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_ETL_BEGINNER_001",
+    "skill_id": "SK_ETL",
+    "level": "beginner",
+    "title": "ETL Pipelines Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied ETL Pipelines"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_FEATURE_ENGINEERING_BEGINNER_001",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "level": "beginner",
+    "title": "Feature Engineering Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Feature Engineering"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_FIN_MARKETS_BEGINNER_001",
+    "skill_id": "SK_FIN_MARKETS",
+    "level": "beginner",
+    "title": "Financial Markets Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Financial Markets"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_GENOMICS_BEGINNER_001",
+    "skill_id": "SK_GENOMICS",
+    "level": "beginner",
+    "title": "Genomics and Sequence Analysis Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Genomics and Sequence Analysis"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_GRC_BEGINNER_001",
+    "skill_id": "SK_GRC",
+    "level": "beginner",
+    "title": "Governance, Risk, and Compliance Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Governance, Risk, and Compliance"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_INCIDENT_RESPONSE_BEGINNER_001",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "level": "beginner",
+    "title": "Incident Response Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Incident Response"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_LINUX_BEGINNER_001",
+    "skill_id": "SK_LINUX",
+    "level": "beginner",
+    "title": "Linux and Command Line Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Linux and Command Line"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_MLOPS_ADVANCED_001",
+    "skill_id": "SK_MLOPS",
+    "level": "advanced",
+    "title": "Model Deployment and Monitoring Mini-Stack",
+    "time_hours": 30,
+    "prerequisites": [
+      "ML basics",
+      "API development"
+    ],
+    "deliverables": [
+      "Containerized inference service",
+      "Monitoring dashboard for latency and drift proxies"
+    ],
+    "rubric": [
+      "Deployment is reproducible",
+      "Monitoring captures key health signals",
+      "Rollback procedure is documented"
+    ],
+    "links": [],
+    "notes": "Keep scope small but production-like."
+  },
+  {
+    "template_id": "PT_SK_ML_BASIC_INTERMEDIATE_001",
+    "skill_id": "SK_ML_FUND",
+    "level": "intermediate",
+    "title": "Binary Classifier Baseline Project",
+    "time_hours": 24,
+    "prerequisites": [
+      "Python and basic statistics"
+    ],
+    "deliverables": [
+      "Model training pipeline",
+      "Evaluation report with confusion matrix and ROC-AUC"
+    ],
+    "rubric": [
+      "Train/validation split is deterministic",
+      "Metrics are interpreted correctly",
+      "Model limitations are explicitly documented"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_MODEL_EVAL_BEGINNER_001",
+    "skill_id": "SK_MODEL_EVAL",
+    "level": "beginner",
+    "title": "Model Evaluation Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Model Evaluation"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_NETWORKS_BEGINNER_001",
+    "skill_id": "SK_NETWORKS",
+    "level": "beginner",
+    "title": "Computer Networks Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Computer Networks"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_NETWORK_SECURITY_BEGINNER_001",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "level": "beginner",
+    "title": "Network Security Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Network Security"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_OOP_BEGINNER_001",
+    "skill_id": "SK_OOP",
+    "level": "beginner",
+    "title": "Object-Oriented Programming Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Object-Oriented Programming"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_OPTIMIZATION_BEGINNER_001",
+    "skill_id": "SK_OPTIMIZATION",
+    "level": "beginner",
+    "title": "Optimization Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Optimization"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_PROBABILITY_BEGINNER_001",
+    "skill_id": "SK_PROBABILITY",
+    "level": "beginner",
+    "title": "Probability Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Probability"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_PYTHON_BEGINNER_001",
+    "skill_id": "SK_PYTHON",
+    "level": "beginner",
+    "title": "Python Data Cleanup CLI",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Command-line script that ingests CSV and cleans null/duplicate rows",
+      "README with run instructions and sample input/output"
+    ],
+    "rubric": [
+      "Correct parsing and transformation logic",
+      "Input validation and basic error handling",
+      "Clear README with examples"
+    ],
+    "links": [
+      {
+        "label": "Python argparse docs",
+        "url": "https://docs.python.org/3/library/argparse.html"
+      }
+    ],
+    "notes": "Focus on reliability and readability over scale."
+  },
+  {
+    "template_id": "PT_SK_PYTHON_INTERMEDIATE_001",
+    "skill_id": "SK_PYTHON",
+    "level": "intermediate",
+    "title": "Feature Engineering Notebook to Script",
+    "time_hours": 20,
+    "prerequisites": [
+      "Basic pandas and numpy usage"
+    ],
+    "deliverables": [
+      "Notebook exploring transformations",
+      "Production-style Python module with unit tests"
+    ],
+    "rubric": [
+      "Deterministic preprocessing pipeline",
+      "Tests cover edge cases",
+      "Notebook and module outputs are consistent"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_RISK_ANALYTICS_BEGINNER_001",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "level": "beginner",
+    "title": "Risk Analytics Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Risk Analytics"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_RISK_MGMT_BEGINNER_001",
+    "skill_id": "SK_RISK_MGMT",
+    "level": "beginner",
+    "title": "Risk Management Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Risk Management"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_SECURITY_INTERMEDIATE_001",
+    "skill_id": "SK_SECURITY_FUND",
+    "level": "intermediate",
+    "title": "Application Threat Modeling + Fixes",
+    "time_hours": 18,
+    "prerequisites": [
+      "Basic web/backend development"
+    ],
+    "deliverables": [
+      "Threat model document",
+      "Implemented remediations for top risks"
+    ],
+    "rubric": [
+      "Threat model has realistic attack paths",
+      "Fixes are validated with tests or checks",
+      "Residual risks are documented"
+    ],
+    "links": [],
+    "notes": "Do not include exploit code beyond defensive proof points."
+  },
+  {
+    "template_id": "PT_SK_SQL_ADVANCED_001",
+    "skill_id": "SK_SQL",
+    "level": "advanced",
+    "title": "SQL Performance Tuning Lab",
+    "time_hours": 18,
+    "prerequisites": [
+      "Relational schema design basics"
+    ],
+    "deliverables": [
+      "Slow query benchmark and optimized version",
+      "Short tuning report with index strategy"
+    ],
+    "rubric": [
+      "Measured latency improvements",
+      "Indexes justified by query plans",
+      "Tradeoffs documented"
+    ],
+    "links": [],
+    "notes": "Use explain plans as evidence."
+  },
+  {
+    "template_id": "PT_SK_SQL_BEGINNER_001",
+    "skill_id": "SK_SQL",
+    "level": "beginner",
+    "title": "Retail SQL Analytics Starter",
+    "time_hours": 10,
+    "prerequisites": [],
+    "deliverables": [
+      "Schema with at least 4 related tables",
+      "10 analytical queries with comments"
+    ],
+    "rubric": [
+      "Joins and aggregations are correct",
+      "Query naming and formatting are consistent",
+      "At least one query uses window functions"
+    ],
+    "links": [],
+    "notes": null
+  },
+  {
+    "template_id": "PT_SK_STATISTICS_BEGINNER_001",
+    "skill_id": "SK_STATISTICS",
+    "level": "beginner",
+    "title": "Statistics Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Statistics"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_SYSTEMS_DESIGN_BEGINNER_001",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "level": "beginner",
+    "title": "Systems Design Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Systems Design"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_TESTING_BEGINNER_001",
+    "skill_id": "SK_TESTING",
+    "level": "beginner",
+    "title": "Software Testing Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Software Testing"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  },
+  {
+    "template_id": "PT_SK_VERSION_CONTROL_BEGINNER_001",
+    "skill_id": "SK_VERSION_CONTROL",
+    "level": "beginner",
+    "title": "Version Control Portfolio Project",
+    "time_hours": 12,
+    "prerequisites": [],
+    "deliverables": [
+      "Project repository with README",
+      "Demo artifact linked to role skill"
+    ],
+    "rubric": [
+      "Clear problem framing",
+      "Working implementation",
+      "Evidence of applied Version Control"
+    ],
+    "links": [],
+    "notes": "Deterministic starter template for gap closure."
+  }
+]

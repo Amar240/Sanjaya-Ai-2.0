@@ -1,0 +1,143 @@
+{
+  "summary": {
+    "total_courses_in_scope": 768,
+    "unique_missing_prereq_ids": 14,
+    "total_missing_prereq_references": 18,
+    "malformed_missing_ids": 0
+  },
+  "missing_by_department": [
+    {
+      "department": "CHEM",
+      "unique_missing_ids": 4
+    },
+    {
+      "department": "PHYS",
+      "unique_missing_ids": 4
+    },
+    {
+      "department": "MATH",
+      "unique_missing_ids": 2
+    },
+    {
+      "department": "CPEG",
+      "unique_missing_ids": 1
+    },
+    {
+      "department": "EVNT",
+      "unique_missing_ids": 1
+    },
+    {
+      "department": "OR",
+      "unique_missing_ids": 1
+    },
+    {
+      "department": "THE",
+      "unique_missing_ids": 1
+    }
+  ],
+  "malformed_missing_ids": [],
+  "top_missing_prereqs": [
+    {
+      "missing_course_id": "MATH-222",
+      "referenced_by_count": 4,
+      "referenced_by_examples": [
+        "ECON-251",
+        "ECON-255",
+        "ECON-300",
+        "ECON-301"
+      ]
+    },
+    {
+      "missing_course_id": "CHEM-105",
+      "referenced_by_count": 2,
+      "referenced_by_examples": [
+        "CHEM-213",
+        "CHEM-215"
+      ]
+    },
+    {
+      "missing_course_id": "CHEM-357",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-457"
+      ]
+    },
+    {
+      "missing_course_id": "CHEM-418",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-457"
+      ]
+    },
+    {
+      "missing_course_id": "CHEM-443",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-457"
+      ]
+    },
+    {
+      "missing_course_id": "CPEG-202",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CPEG-222"
+      ]
+    },
+    {
+      "missing_course_id": "EVNT-215",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "HOSP-364"
+      ]
+    },
+    {
+      "missing_course_id": "MATH-341",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "MATH-549"
+      ]
+    },
+    {
+      "missing_course_id": "OR-403",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "MATH-660"
+      ]
+    },
+    {
+      "missing_course_id": "PHYS-202",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-444"
+      ]
+    },
+    {
+      "missing_course_id": "PHYS-208",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-444"
+      ]
+    },
+    {
+      "missing_course_id": "PHYS-222",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-444"
+      ]
+    },
+    {
+      "missing_course_id": "PHYS-228",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "CHEM-444"
+      ]
+    },
+    {
+      "missing_course_id": "THE-300",
+      "referenced_by_count": 1,
+      "referenced_by_examples": [
+        "BISC-675"
+      ]
+    }
+  ]
+}

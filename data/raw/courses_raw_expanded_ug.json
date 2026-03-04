@@ -1,0 +1,1079 @@
+{
+  "meta": {
+    "base_url": "https://catalog.udel.edu/",
+    "courses_index_url": "https://catalog.udel.edu/content.php?catoid=94&navoid=34643",
+    "departments": [
+      "CISC",
+      "BINF",
+      "ACCT",
+      "SCEN",
+      "MATH",
+      "STAT",
+      "MISY",
+      "FINC",
+      "BUAD",
+      "ECON",
+      "CHEM",
+      "BISC",
+      "EDUC",
+      "APEC",
+      "CIEG",
+      "CPEG",
+      "PHYS",
+      "ELEG",
+      "MSEG",
+      "BMEG"
+    ],
+    "total_unique_courses": 138,
+    "department_stats": {
+      "CISC": {
+        "discovered": 72,
+        "scraped": 45
+      },
+      "BINF": {
+        "discovered": 0,
+        "scraped": 0
+      },
+      "ACCT": {
+        "discovered": 42,
+        "scraped": 42
+      },
+      "SCEN": {
+        "discovered": 27,
+        "scraped": 27
+      },
+      "MATH": {
+        "discovered": 55,
+        "scraped": 24
+      },
+      "STAT": {
+        "discovered": 17,
+        "scraped": 0
+      },
+      "MISY": {
+        "discovered": 37,
+        "scraped": 0
+      },
+      "FINC": {
+        "discovered": 38,
+        "scraped": 0
+      },
+      "BUAD": {
+        "discovered": 70,
+        "scraped": 0
+      },
+      "ECON": {
+        "discovered": 57,
+        "scraped": 0
+      },
+      "CHEM": {
+        "discovered": 58,
+        "scraped": 0
+      },
+      "BISC": {
+        "discovered": 70,
+        "scraped": 0
+      },
+      "EDUC": {
+        "discovered": 72,
+        "scraped": 0
+      },
+      "APEC": {
+        "discovered": 35,
+        "scraped": 0
+      },
+      "CIEG": {
+        "discovered": 105,
+        "scraped": 0
+      },
+      "CPEG": {
+        "discovered": 39,
+        "scraped": 0
+      },
+      "PHYS": {
+        "discovered": 49,
+        "scraped": 0
+      },
+      "ELEG": {
+        "discovered": 68,
+        "scraped": 0
+      },
+      "MSEG": {
+        "discovered": 30,
+        "scraped": 0
+      },
+      "BMEG": {
+        "discovered": 42,
+        "scraped": 0
+      }
+    }
+  },
+  "courses": [
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682083",
+      "department_hint": "CISC",
+      "raw_header": "CISC 101\u00a0-\u00a0Principles of Computing",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 101\u00a0-\u00a0Principles of Computing Credit(s): 3 PRINCIPLES OF COMPUTING Component: Lecture Introduces students to the central ideas of computing and computer science including programs, algorithms, abstraction, the internet, and information systems. Instills ideas and practices of computational thinking and engages students in activities that show how computing and computer science change the world. Explores computing as a creative activity and empowers students to apply computational thinking to all disciplines including the arts, humanities, business, social and physical sciences, health, and entertainment. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Verify offering with Dept. General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682084",
+      "department_hint": "CISC",
+      "raw_header": "CISC 103\u00a0-\u00a0Introduction to Computer Science with Web Applications",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 103\u00a0-\u00a0Introduction to Computer Science with Web Applications Credit(s): 3 INTRO COMP SCI WITH WEB APPS Component: Lecture Principles of computer science illustrated through programming in scripting languages such as JavaScript and VBScript. Topics include control structures, arrays, functions, and procedures. Programming projects illustrate web-based applications. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Open to non-majors. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Verify offering with Dept. General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685096",
+      "department_hint": "CISC",
+      "raw_header": "CISC 104\u00a0-\u00a0Introduction to Programming in Games",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 104\u00a0-\u00a0Introduction to Programming in Games Credit(s): 3 INTRO TO PROGRAMMING IN GAMES Component: Lecture Principles of computer science illustrated through programming in the domain of game design and development to the fundamentals of computing through problem solving, abstraction, and algorithmic design. Topics include control structures, arrays, functions, and procedures. Programming projects illustrate the design and implementation of game applications. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Students who received credit in CISC 103 , CISC 106 , or CISC 108 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682085",
+      "department_hint": "CISC",
+      "raw_header": "CISC 106\u00a0-\u00a0General Computer Science for Engineers",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 106\u00a0-\u00a0General Computer Science for Engineers Credit(s): 3 GEN COMPUTER SCIEN FOR ENGNR Component: Lecture Principles of computer science illustrated and applied through programming in a general-purpose language. Programming projects illustrate computational problems, styles, and issues that arise in engineering. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option COREQ: MATH 231 or MATH 241 or any MATH course higher than MATH 241 . ANTIREQ: Students who received credit in CISC 108 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Summer and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682917",
+      "department_hint": "CISC",
+      "raw_header": "CISC 108\u00a0-\u00a0Introduction to Computer Science I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 108\u00a0-\u00a0Introduction to Computer Science I Credit(s): 3 INTRO TO COMPUTER SCIENCE I Component: Lecture Computing and principles of programming with an emphasis on systematic program design. Topics include functional programming, data abstraction, procedural abstraction, use of control and state, recursion, testing, and object-oriented programming concepts. Requires no prior programming experience, open to any major, but intended primarily for majors and minors in computer science or mathematics. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option COREQ: MATH 115 , MATH 117 , or higher math course or math placement. RESTRICTIONS: Students who received credit in CISC 106 are not eligible to take this course without permission University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation       GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682086",
+      "department_hint": "CISC",
+      "raw_header": "CISC 166\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 166\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684005",
+      "department_hint": "CISC",
+      "raw_header": "CISC 167\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 167\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682087",
+      "department_hint": "CISC",
+      "raw_header": "CISC 181\u00a0-\u00a0Introduction to Computer Science II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 181\u00a0-\u00a0Introduction to Computer Science II Credit(s): 3 INTRO TO COMPUTER SCIENCE II Component: Lecture Principles of computer science illustrated and applied through programming in an object oriented language. Programming projects illustrate computational problems, styles and issues that arise in computer systems development and in all application areas of computation. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Grade of C- or better in CISC 108 or CISC 106 . COREQ: MATH 221 , MATH 231 , MATH 241 , a math course higher than MATH 221 , or math placement. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Grade of C- or better in CISC 108 or CISC 106 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684774",
+      "department_hint": "CISC",
+      "raw_header": "CISC 187\u00a0-\u00a0Vertically Integrated Projects I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 187\u00a0-\u00a0Vertically Integrated Projects I Credit(s): 1 VIP I Component: Lecture The Vertically-Integrated Projects (VIP) Program operates in a research and development context. Undergraduate students that join VIP teams earn academic credit for their participation in design/discovery efforts that assist faculty and graduate students with research and development issues in their areas of expertise. Repeatable for Credit: Y Allowed Units: 2 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with ELEG 187 . Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685097",
+      "department_hint": "CISC",
+      "raw_header": "CISC 204\u00a0-\u00a0Introduction to Game Development",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 204\u00a0-\u00a0Introduction to Game Development Credit(s): 3 INTRO TO GAME DEVELOPMENT Component: Lecture Introduction to Game Development builds on previous programming experiences to have students build simple but functional games to get a thorough grounding in the basics of real game design. Via lectures and hands-on projects, the course explores principles of 2D and 3D graphics, animation, sound, user interaction, menus, data organization, physics, and collision detection. Students will work in small teams and collaborate meaningfully. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: GAME 201 , and one of CISC 104 , CISC 106 , or CISC 108 . Course Typically Offered: Verify offering with Dept General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: GAME 201 , and one of CISC 104 , CISC 106 , or CISC 108 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684467",
+      "department_hint": "CISC",
+      "raw_header": "CISC 210\u00a0-\u00a0Introduction to Systems Programming",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 210\u00a0-\u00a0Introduction to Systems Programming Credit(s): 3 INTRO TO SYSTEMS PROGRAMMING Component: Lecture Principles of computer systems programming for software and hardware\u00a0platforms to achieve efficient resource usage. Topics include the C\u00a0programming language, memory management, and\u00a0awareness of system constraints and interfacing. Projects\u00a0include programming embedded systems and interactive objects. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A grade of C- or better in CISC 106 or CISC 108 . COREQ: MATH 221, MATH231, MATH 241, a math course higher than MATH 221 , or a math placement. Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A grade of C- or better in CISC 106 or CISC 108 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682088",
+      "department_hint": "CISC",
+      "raw_header": "CISC 220\u00a0-\u00a0Data Structures",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 220\u00a0-\u00a0Data Structures Credit(s): 3 DATA STRUCTURES Component: Lecture Review of data type abstraction, recursion, arrays, stacks, queues, multiple stacks and linked lists. Emphasis on dynamic storage management, garbage collection, trees, graphs, tables, sorting and searching. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in CISC 210 . COREQ: MATH 210 or MATH 241, or MATH 231 .or MATH 221 . Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation       GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in CISC 210 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682089",
+      "department_hint": "CISC",
+      "raw_header": "CISC 250\u00a0-\u00a0Business Telecommunication Networks",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 250\u00a0-\u00a0Business Telecommunication Networks Credit(s): 3 BUSINESS TELECOMM NETWORKS Component: Lecture Examines technologies of information transmission currently utilized in the business environments and the implications of these technologies upon the development and implementation of information systems. Provides a basic background in the convergence of voice, data and video services into common digital networks. Security issues also considered. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 181 or MISY 160 . Course Typically Offered: Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 181 or MISY 160 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682090",
+      "department_hint": "CISC",
+      "raw_header": "CISC 260\u00a0-\u00a0Machine Organization and Assembly Language",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 260\u00a0-\u00a0Machine Organization and Assembly Language Credit(s): 3 MACH ORGANZTN & ASSEMBLY LANG Component: Lecture Introduction to the basics of machine organization. Programming tools and techniques at the machine and assembly levels. Assembly language programming and computer arithmetic techniques. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in CISC 210 . Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in CISC 210 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682091",
+      "department_hint": "CISC",
+      "raw_header": "CISC 266\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 266\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684006",
+      "department_hint": "CISC",
+      "raw_header": "CISC 267\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 267\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682916",
+      "department_hint": "CISC",
+      "raw_header": "CISC 275\u00a0-\u00a0Introduction to Software Engineering",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 275\u00a0-\u00a0Introduction to Software Engineering Credit(s): 3 INTRO TO SOFTWARE ENGINEERING Component: Lecture Object oriented software design and development through use of an object oriented programming language. Topics include team programming, design patterns, graphical user interfaces, software engineering tools (e.g., integrated development environments, version control, build management, bug tracking, automated testing). Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Minimum grade of C- in CISC 181 and CISC 220 . Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally GE2C: Communicate Through Creative Expression    GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Minimum grade of C- in CISC 181 and CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684775",
+      "department_hint": "CISC",
+      "raw_header": "CISC 287\u00a0-\u00a0Vertically Integrated Projects II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 287\u00a0-\u00a0Vertically Integrated Projects II Credit(s): 1-2 VIP II Component: Lecture The Vertically-Integrated Projects (VIP) Program operates in a research and development context. Undergraduate students that join VIP teams earn academic credit for their participation in design/discovery efforts that assist faculty and graduate students with research and development issues in their areas of expertise. Repeatable for Credit: Y Allowed Units: 2 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with ELEG 287 . Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682092",
+      "department_hint": "CISC",
+      "raw_header": "CISC 303\u00a0-\u00a0Automata Theory",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 303\u00a0-\u00a0Automata Theory Credit(s): 3 AUTOMATA THEORY Component: Lecture Automata and formal language theory. Background for advanced applications in compilers, computer networks, operating systems, and natural language processing. Finite automata and regular languages. Push down automata and context free grammars. Turing machines. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in both MATH 210 and CISC 220 . Course Typically Offered: Fall and Spring General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in both MATH 210 and CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682093",
+      "department_hint": "CISC",
+      "raw_header": "CISC 304\u00a0-\u00a0Logic for Programming",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 304\u00a0-\u00a0Logic for Programming Credit(s): 3 LOGIC FOR PROGRAMMING Component: Lecture Propositional and predicate logic for general reasoning and advanced applications in knowledge representation in artificial intelligence and database, program correctness and programming semantics. Models, resolution, logic programming, and natural deduction. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 , MATH 210 (with minimum C- grade in both). Course Typically Offered: Fall and Spring General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 , MATH 210 (with minimum C- grade in both)."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682094",
+      "department_hint": "CISC",
+      "raw_header": "CISC 320\u00a0-\u00a0Introduction to Algorithms",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 320\u00a0-\u00a0Introduction to Algorithms Credit(s): 3 INTRODUCTION TO ALGORITHMS Component: Lecture Design and analysis of algorithms: worst/average case analysis, proofs for correctness and performance of algorithms. Algorithmic strategies (divide and conquer, greedy methods, dynamic programming, etc.). Algorithms for searching, forming and traversal of strings, trees and graphs. Categorization of computational problems: classes P and NP. NP completeness. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 210 and a minimum grade of C- in CISC 220 . Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing      GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 210 and a minimum grade of C- in CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685578",
+      "department_hint": "CISC",
+      "raw_header": "CISC 334\u00a0-\u00a0Development of Assistive Technology",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 334\u00a0-\u00a0Development of Assistive Technology Credit(s): 3 DEVELOPMENT OF ASSISTIVE TECH Component: Lecture Introduction to and development of Assistive Technology for users with disabilities/differing abilities.\u00a0 A project based course in which students will be learning about the state of the art in Assistive Technology, where general technology currently stands (including successes and failures) and the current needs and desires of people with disabilities/differing abilities in order to develop solutions that address accessibility issues. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682115",
+      "department_hint": "CISC",
+      "raw_header": "CISC 355\u00a0-\u00a0Computers, Ethics and Society",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 355\u00a0-\u00a0Computers, Ethics and Society Credit(s): 3 COMPUTERS, ETHICS AND SOCIETY Component: Lecture Explains relationships among information technology, society and ethics by examining issues raised by increasingly widespread use of computers. Topics include ethics for computer professionals, computer impact on factory work, office work, personal privacy and social power distribution. Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Cannot be used as a technical elective for CISC or INSY majors or minors. University Breadth: Creative Arts and Humanities College of Arts and Sciences Breadth: GROUP A: A&S Creative Arts & Humanities Sustainability Sustainability Investigations Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally   GE3B: Work Independently Across Cultures GE4: Critically Evaluate Ethical Implications Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682920",
+      "department_hint": "CISC",
+      "raw_header": "CISC 356\u00a0-\u00a0Intellectual Property in the Digital Age",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 356\u00a0-\u00a0Intellectual Property in the Digital Age Credit(s): 3 DIGITAL INTELLECTUAL PROPERTY Component: Lecture Explore economic, philosophical, social, and technical approaches to intellectual property (1500 BCE to present) then will research contemporary IP issues in software, entertainment, the Internet, and biotechnology. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Junior or Senior standing. Cannot be used as a technical elective for CISC or INSY majors or minors. University Breadth: Social and Behavioral Sciences College of Arts and Sciences Breadth: GROUP C: A&S Social & Behavioral Sci Course Typically Offered: Spring General Education Objectives: GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing     GE4: Critically Evaluate Ethical Implications Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682923",
+      "department_hint": "CISC",
+      "raw_header": "CISC 357\u00a0-\u00a0Engaging Youth in Computing",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 357\u00a0-\u00a0Engaging Youth in Computing Credit(s): 1-3 ENGAGING YOUTH IN COMPUTING Component: Lecture Develop communication, leadership, and teaching skills while working with youth to broaden participation in computing. With training, student teams assist in after-school programs and K-12 classes to engage youth in computational thinking. Focus on low-entry technologies for creating interactive stories, games, websites, and robotics projects. Repeatable for Credit: Y Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 101 or CISC 103 or CISC 106 or CISC 108 . RESTRICTIONS: Student must have sufficient time in their schedule to visit schools weekly between 9am and 3pm. Students must pass a background check that clears them for teaching. Cannot be used as a technical elective by CISC or INSY majors. Requirement Designations: Discovery Learning Experience Course Typically Offered: Fall and Spring General Education Objectives: GE2B: Communicate Orally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 101 or CISC 103 or CISC 106 or CISC 108 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685092",
+      "department_hint": "CISC",
+      "raw_header": "CISC 358\u00a0-\u00a0Introduction to Computer Science Research",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 358\u00a0-\u00a0Introduction to Computer Science Research Credit(s): 3 INTRO TO COMP SCIENCE RESEARCH Component: Lecture Prepares students to conduct computer science research. Topics: research methodology: literature reviews; identifying important research problems; problem solving/progress tracking; designing/conducting evaluation studies; oral/written communications of research; and research ethics. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 . Course Typically Offered: Verify offering with Dept General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally GE2C: Communication Through Creative Expression GE3A: Work Collaboratively Across Cultures   GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682095",
+      "department_hint": "CISC",
+      "raw_header": "CISC 360\u00a0-\u00a0Computer Architecture",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 360\u00a0-\u00a0Computer Architecture Credit(s): 3 COMPUTER ARCHITECTURE Component: Lecture Principles and techniques used in the architecture of digital computers. Machine elements and their interrelation. Instruction sets, risc vs cisc, registers, busses and switches. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in CISC 220 and CISC 260 (or equivalent courses). Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in CISC 220 and CISC 260 (or equivalent courses)."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682096",
+      "department_hint": "CISC",
+      "raw_header": "CISC 361\u00a0-\u00a0Operating Systems",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 361\u00a0-\u00a0Operating Systems Credit(s): 3 OPERATING SYSTEMS Component: Lecture Principles and techniques employed in the development of operating systems and their control programs. Includes management of memory, processors, I/O devices. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in both CISC 220 and CISC 260 . CPEG 222 may be substituted for CISC 260 . RESTRICTIONS: CISC 360 recommended as a prerequisite. Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation       GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in both CISC 220 and CISC 260 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685093",
+      "department_hint": "CISC",
+      "raw_header": "CISC 362\u00a0-\u00a0Cloud Computing and Big Data",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 362\u00a0-\u00a0Cloud Computing and Big Data Credit(s): 3 CLOUD COMPUTING AND BIG DATA Component: Lecture Covers the core concepts of cloud computing and distributed systems. Gain the foundational knowledge required for understanding cloud computing\u00a0and big data, various cloud services (IaaS, PaaS, SaaS), and the key components of a cloud infrastructure (Virtualization, Distributed File Systems, MapReduce, Resource Management such as YARN, and more).\u00a0 Includes hands-on tutorials on prominent cloud providers (e.g., AWS, Microsoft Azure, Google Cloud, Oracle Cloud). Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 . Course Typically Offered: Verify offering with Dept General Education Objectives: GE1B: Analyze Arguments and Information         GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682097",
+      "department_hint": "CISC",
+      "raw_header": "CISC 366\u00a0-\u00a0Independent Study",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 366\u00a0-\u00a0Independent Study Credit(s): 1-6 INDEPENDENT STUDY Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684007",
+      "department_hint": "CISC",
+      "raw_header": "CISC 367\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 367\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682098",
+      "department_hint": "CISC",
+      "raw_header": "CISC 372\u00a0-\u00a0Parallel Computing",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 372\u00a0-\u00a0Parallel Computing Credit(s): 3 PARALLEL COMPUTING Component: Lecture Introduction to parallel computing concepts, methodologies, and tools. Programming and algorithmic techniques for code that will run simultaneously on parallel computing architectures. Topics include: single and multi-core parallelism, shared and distributed memory architectures, concurrency, program decomposition, data distribution, communication, load balancing, scalability, locality, granularity, debugging, performance evaluation. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: C- or better in both CISC 220 and CISC 260 . Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: C- or better in both CISC 220 and CISC 260 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682921",
+      "department_hint": "CISC",
+      "raw_header": "CISC 374\u00a0-\u00a0Educational Game Development",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 374\u00a0-\u00a0Educational Game Development Credit(s): 3 EDUCATIONAL GAME DEVELOPMENT Component: Lecture Experience the software engineering process through creating educational games for youth; open-ended, project-oriented team learning while assisting regional teachers in integrating computing and computational thinking into the classroom; interact with teachers as clients, hone communication skills and experience design-studio-based critiques of your ideas. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 . Requirement Designations: Discovery Learning Experience Course Typically Offered: Spring General Education Objectives: GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally GE2C: Communicate Through Creative Expression GE3A: Work Collaboratively Across Cultures    GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685535",
+      "department_hint": "CISC",
+      "raw_header": "CISC 375\u00a0-\u00a0DevOps & Software Engineering",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 375\u00a0-\u00a0DevOps & Software Engineering Credit(s): 3 DEVOPS & SOFT+WARE ENGINEERING Component: Lecture DevOps & Software Engineering bridges the gap between CISC275: Software Engineering I and CISC498: Senior Design I, focusing on advanced software engineering principles and the challenges of inheriting and managing large, complex, and poorly documented codebases. Students will learn to organize, document, and improve such codebases while applying test-driven design using various testing suites and solutions. The course introduces DevOps concepts, particularly in continuous delivery (CD) environments, and incorporates industry-standard tools for enhanced project management, code review, and documentation. By emphasizing practical skills and industry tools, this course prepares students for the complexities of real-world software development. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 275 Course Typically Offered: Verify offering with Dept General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 275 Course Typically Offered: Verify offering with Dept General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)"
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684776",
+      "department_hint": "CISC",
+      "raw_header": "CISC 387\u00a0-\u00a0Vertically Integrated Projects III",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 387\u00a0-\u00a0Vertically Integrated Projects III Credit(s): 1-3 VIP III Component: Lecture The Vertically-Integrated Projects (VIP) Program operates in a research and development context. Undergraduate students that join VIP teams earn academic credit for their participation in design/discovery efforts that assist faculty and graduate students with research and development issues in their areas of expertise. Repeatable for Credit: Y Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with ELEG 387 . Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682099",
+      "department_hint": "CISC",
+      "raw_header": "CISC 401\u00a0-\u00a0Elements of the Theory of Computation",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 401\u00a0-\u00a0Elements of the Theory of Computation Credit(s): 3 ELEMENTS OF THRY OF COMPUTATN Component: Lecture General models of computation, formal languages and automata theory and algorithmic unsolvability. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 303 . RESTRICTIONS: Students who received credit in CISC601 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept. General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation       GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 303 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682101",
+      "department_hint": "CISC",
+      "raw_header": "CISC 404\u00a0-\u00a0Logic in Computer Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 404\u00a0-\u00a0Logic in Computer Science Credit(s): 3 LOGIC IN COMPUTER SCIENCE Component: Lecture Formal introduction to first-order logic with emphasis on its relevance to computer science. Syntax, semantics, models, formal proofs and results on soundness, consistency, completeness, compactness and undecidability. Automated theorem proving also covered. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 304 . RESTRICTIONS: Students who received credit in CISC604 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept. General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 304 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680971",
+      "department_hint": "CISC",
+      "raw_header": "CISC 410\u00a0-\u00a0Computational Mathematics I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 410\u00a0-\u00a0Computational Mathematics I Credit(s): 3 COMPUTATIONAL MATHEMATICS I Component: Lecture Floating point numbers; conditioning and stability; LU, Cholesky, and QR factorizations; square and overdetermined linear systems; Newton and quasi- Newton rootfinding methods; piecewise polynomials for interpolation, integration, and finite differences; explicit methods for initial-value problems. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with MATH 426 . PREREQ: MATH 305 or MATH 351 or MATH 349 . RESTRICTIONS: Requires familiarity with computing (e.g., programming language).\u00a0Students may not receive credit for both MATH 353 and MATH 426 . General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 305 or MATH 351 or MATH 349 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680973",
+      "department_hint": "CISC",
+      "raw_header": "CISC 411\u00a0-\u00a0Computational Mathematics II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 411\u00a0-\u00a0Computational Mathematics II Credit(s): 3 COMPUTATIONAL MATHEMATICS II Component: Lecture Eigenvalue and singular-value decompositions; power and Krylov subspace iterations; global interpolation and quadrature; methods for boundary-value problems and Poisson\u2019s equation; implicit solvers for stiff problems; method of lines for partial differential equations; diffusion and advection problems. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with MATH 428 . PREREQ: MATH 426 or CISC 410 or MATH 353 . General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 426 or CISC 410 or MATH 353 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682100",
+      "department_hint": "CISC",
+      "raw_header": "CISC 414\u00a0-\u00a0Formal Methods in Software Engineering",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 414\u00a0-\u00a0Formal Methods in Software Engineering Credit(s): 3 FORMAL METHODS SOFTWARE ENG Component: Lecture Formal approaches to the specification, verification, and design of software systems. Topics include representing programs as transition systems; liveness and safety properties; state space reachability; explicit, symbolic and automata-based model checking; temporal logics; symbolic execution; automated theorem-proving; and relational calculus. Learn to use state-of-the-art tools based on these methods, such as the model checker Spin. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 304 or equivalent course. RESTRICTIONS: Students who received credit in CISC614 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept. General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing       GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 304 or equivalent course."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685099",
+      "department_hint": "CISC",
+      "raw_header": "CISC 415\u00a0-\u00a0Software Testing and Maintenance",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 415\u00a0-\u00a0Software Testing and Maintenance Credit(s): 3 SOFTWARE TESTING AND MAINT Component: Lecture Study of software testing and maintenance methodologies for modern software. Topics include approaches to automatic test case generation, test oracles, test coverage analysis, regression testing, program understanding, and software maintenance tools. A primary focus will be automation in software testing and maintenance approaches. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 275 . RESTRICTIONS: Students who received credit in CISC615\u00a0are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 275 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682914",
+      "department_hint": "CISC",
+      "raw_header": "CISC 436\u00a0-\u00a0Computational Biology and Bioinformatics",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 436\u00a0-\u00a0Computational Biology and Bioinformatics Credit(s): 3 COMP BIOL AND BIOINFORMATICS Component: Lecture Concepts, methodologies, and tools in bioinformatics. Abstraction of biological problems for computational solutions. Genome sequencing and assembly, bio-sequence analysis and comparison and database search, dynamics programming, hidden Markov models, and phylogenetic trees. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 . ANTIREQ: Students who received credit in CISC 636\u00a0are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682102",
+      "department_hint": "CISC",
+      "raw_header": "CISC 437\u00a0-\u00a0Database Systems",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 437\u00a0-\u00a0Database Systems Credit(s): 3 DATABASE SYSTEMS Component: Lecture Physical and logical organization of databases. Data retrieval languages, relational database languages, security and integrity, concurrency, distributed databases. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: A minimum grade of C- in CISC 220 . RESTRICTIONS: Students who received credit in CISC637 are not eligible to take this course without permission. Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing    GE3B: Work Independently Across Cultures  GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: A minimum grade of C- in CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682103",
+      "department_hint": "CISC",
+      "raw_header": "CISC 440\u00a0-\u00a0Computer Graphics",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 440\u00a0-\u00a0Computer Graphics Credit(s): 3 COMPUTER GRAPHICS Component: Lecture Computer graphics technology, two- and three-dimensional systems, graphics software systems, modeling and object hierarchy, and animation. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 and MATH 241 . RESTRICTIONS: Students who received credit in CISC640 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept. General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 and MATH 241 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682919",
+      "department_hint": "CISC",
+      "raw_header": "CISC 442\u00a0-\u00a0Introduction to Computer Vision",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) CISC 442\u00a0-\u00a0Introduction to Computer Vision Credit(s): 3 INTRO TO COMPUTER VISION Component: Lecture Analysis of images and video to recognize, reconstruct, model, and otherwise infer static and dynamic properties of objects in the three-dimensional world. Geometry of image formation; image processing such as smoothing, edge and feature detection, color, and texture; segmentation; shape representation including deformable templates; stereo vision; motion estimation and tracking; techniques for 3-D reconstruction; image registration methods. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: CISC 220 . RESTRICTIONS: Students who received credit in CISC642 are not eligible to take this course without permission. Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: CISC 220 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681568",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 166\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 166\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681569",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 200\u00a0-\u00a0Survey of Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 200\u00a0-\u00a0Survey of Accounting Credit(s): 4 SURVEY OF ACCOUNTING Component: Lecture Survey of financial and managerial accounting concepts for the non-business major. Students learn about financial statements for merchandising, manufacturing, and service companies. Topics include: accounting cycle, budgeting, standard costing, contribution margins, cost-volume-profit analysis, and decision making. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Students within accounting and/or business degree programs who\u00a0have received credit for ACCT 207 are not eligible to take this course without permission. Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685082",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 201\u00a0-\u00a0The Accounting Experience",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 201\u00a0-\u00a0The Accounting Experience Credit(s): 1 ACCOUNTING EXPERIENCE Component: Lecture How do you know whether the job you seek is a good match when you don\u2019t completely understand what the job entails? It may be three years before you have the opportunity to take a tax class, but you may be selected to interview with a firm\u2019s tax practice. Do you want a big firm or a small firm? Does the position require technology skills you currently possess or plan on acquiring? At the end of this class, you should be equipped to make well-informed choices during that first round of interviews, which will lead to initial internship and subsequent job offers that fit your goals, your preferences, and your skills. Repeatable for Credit: N Allowed Units: 1 Multiple Term Enrollment: N Grading Basis: Pass/Not Pass Course Typically Offered: Fall General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681570",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 207\u00a0-\u00a0Accounting I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 207\u00a0-\u00a0Accounting I Credit(s): 3 ACCOUNTING I Component: Lecture An introduction to financial accounting. Topics: the accounting cycle, merchandise accounting, accounting procedures for cash, receivables, payables, inventories, plant and equipment, stocks and bonds. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Sustainability Sustainability Connections Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681571",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 208\u00a0-\u00a0Accounting II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 208\u00a0-\u00a0Accounting II Credit(s): 3 ACCOUNTING II Component: Lecture Introduction to managerial accounting. Topics: manufacturing accounting, cost-volume-profit analysis, job-order accounting, budgeting, standard costs and variance analysis, contribution approach to decision analysis, absorption and variable costing. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 207 . RESTRICTIONS: Not open to freshmen. Requires a grade of C- or better in ACCT 207 . Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information      GE3B: Work Independently Across Cultures   GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 207 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685257",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 235\u00a0-\u00a0Community Audit",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 235\u00a0-\u00a0Community Audit Credit(s): 3 COMMUNITY AUDIT Component: Field Studies This course exposes students\u00a0to small audit projects while serving not-for-profits in our area. Students plan and execute\u00a0the audit and share their results with clients. This practical experience reinforces basic accounting concepts and motivates the students to consider careers in auditing. Repeatable for Credit: Y Allowed Units: 6 Multiple Term Enrollment: Y Grading Basis: Student Option COREQ: ACCT 207 RESTRICTIONS: Accounting majors (or those with intention to declare accounting major). Must be available for travel in DE during the summer. Course Typically Offered: Spring and Summer General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally  GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681572",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 266\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 266\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683878",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 267\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 267\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681573",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 302\u00a0-\u00a0Accounting Information Systems",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 302\u00a0-\u00a0Accounting Information Systems Credit(s): 3 ACCOUNTING INFORMATION SYSTEMS Component: Lecture Accounting information and its place within an organization\u2019s overall management information system. Emphasis on information and document flow, internal control, data organization, and analysis, design, development, and audit of computer-based accounting systems. Includes some computer work. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 208 , MISY 160 or CISC 101 . RESTRICTIONS: Requires sophomore status. Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information   GE2B: Communicate Orally   GE3B: Work Independently Across Cultures   GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 208 , MISY 160 or CISC 101 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683879",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 305\u00a0-\u00a0Information Security and Risk Management",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 305\u00a0-\u00a0Information Security and Risk Management Credit(s): 3 INFORMTN SECURITY & RISK MGMT Component: Lecture This course introduces the fundamental concepts of information and cybersecurity. It covers how to protect the confidentiality, integrity, and availability of data and information systems that modern organizations depend upon. The domains examined include network security, risk management, governance, physical security, cryptography, business continuity, and legal issues. Special consideration is given to studying major information security incidents and cybersecurity trends. You will learn about the threats and vulnerabilities facing computer systems and tools and techniques used to secure them. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with MISY 305 . PREREQ: MISY 160 . General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MISY 160 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684356",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 313\u00a0-\u00a0Taxation for Business and Investment Planning",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 313\u00a0-\u00a0Taxation for Business and Investment Planning Credit(s): 3 TAX FOR BUSINESS INVESTMT PLAN Component: Lecture Explores taxable entities, tax aspects of selecting a business form, incomeconcepts, business deductions, tax factors in the acquisition, use, anddisposition of fixed assets, nontaxable transactions, capital gains andlosses, and tax planning. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 200 or ACCT 207 . RESTRICTIONS: Not open to accounting majors. General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 200 or ACCT 207 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681574",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 315\u00a0-\u00a0Intermediate Accounting I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 315\u00a0-\u00a0Intermediate Accounting I Credit(s): 3 INTERMEDIATE ACCOUNTING I Component: Lecture In-depth coverage of financial accounting. Topics include: environment and conceptual framework of financial accounting; review of the accounting process; preparation of financial statements; recognition and measurement of current assets, property, plant and equipment and current liabilities. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 207 , ACCT 208 . RESTRICTIONS: Requires sophomore status. Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 207 , ACCT 208 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681575",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 316\u00a0-\u00a0Intermediate Accounting II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 316\u00a0-\u00a0Intermediate Accounting II Credit(s): 3 INTERMEDIATE ACCOUNTING II Component: Lecture Continuation of ACCT 315 . Topics include: recognition and measurement of investments, long-term liabilities and stockholders\u2019 equity; dilutive securities and earning per share calculations; revenue recognition; accounting for income taxes, pensions and leases; accounting changes and error analysis; financial reporting and changing prices; preparation of the statement of cash flows; and disclosure requirements in financial reporting. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 315 . RESTRICTIONS: Requires junior status and a grade of C- or better in ACCT 315 . Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information      GE3B: Work Independently Across Cultures  GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 315 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684658",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 320\u00a0-\u00a0Professional Ethics and Responsibility",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 320\u00a0-\u00a0Professional Ethics and Responsibility Credit(s): 3 PROF ETHICS & RESPONSIBILITY Component: Lecture Expose students to personal responsibilities and\u00a0need for integrity. Provide a philosophical framework for ethical analysis. Review the ethical obligations of accountants. Discuss situations that present ethical conflicts and determine morally appropriate resolutions. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 315 RESTRICTIONS: Course does not count as professional (ACCT/FINC/MISY) elective for accounting majors. Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing     GE4: Critically Evaluate Ethical Implications Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 315 RESTRICTIONS: Course does not count as professional (ACCT/FINC/MISY) elective for accounting majors."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681576",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 327\u00a0-\u00a0Cost Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 327\u00a0-\u00a0Cost Accounting Credit(s): 3 COST ACCOUNTING Component: Lecture Process, job order and standard costing; variable and absorption costing; budgeting, decentralization, and transfer pricing; and cost analysis for managerial applications. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 208 . RESTRICTIONS: Requires sophomore status. Sustainability Sustainability Connections Course Typically Offered: Fall and Spring General Education Objectives: GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 208 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681577",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 350\u00a0-\u00a0Business Law I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 350\u00a0-\u00a0Business Law I Credit(s): 3 BUSINESS LAW I Component: Lecture Formation, use and performance of contracts, including both Common Law and the Uniform Commercial Code (Article 2, Sales). Other topics covered include product liability, negotiable instruments and accountants\u2019 legal liability. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Requires junior status. Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally   GE3B: Work Independently Across Cultures  GE5A: Reason Quantitatively Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681578",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 351\u00a0-\u00a0Business Law II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 351\u00a0-\u00a0Business Law II Credit(s): 3 BUSINESS LAW II Component: Lecture Covers variety of areas of law, including agency, partnerships, corporations, unfair competition, debtor-creditor relationships, bankruptcy, secured transactions, real and personal property, wills and trusts. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 350 . RESTRICTIONS: Requires junior status. Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally   GE3B: Work Independently Across Cultures  GE5A: Reason Quantitatively Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 350 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681579",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 352\u00a0-\u00a0Law and Social Issues in Business",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 352\u00a0-\u00a0Law and Social Issues in Business Credit(s): 3 LAW AND SOCIAL ISSUES IN BUS Component: Lecture Focuses on the legal environment of business, including objectives of the law, sources of the law, regulatory and judicial process, and effect of government and society on the formation and evolution of the law. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Not open to accounting majors. Requires\u00a0sophomore status. College of Engineering Breadth: EG PREP: COE Pro & Career Prep Req Sustainability Sustainability Connections Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information      GE3B: Work Independently Across Cultures Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682620",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 363\u00a0-\u00a0Service Learning and Earned Income Tax Credit",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 363\u00a0-\u00a0Service Learning and Earned Income Tax Credit Credit(s): 1-3 SERVICE LEARNING & EITC Component: Independent Study Requires 8-12 hours of training in tax preparation for people with incomes low enough to qualify for the EITC (Earned Income Tax Credit). In addition, at least 34 hours of service preparing returns for this type of taxpayer is expected. Repeatable for Credit: Y Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Requirement Designations: Discovery Learning Experience Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682618",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 364\u00a0-\u00a0Accounting in Practice",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 364\u00a0-\u00a0Accounting in Practice Credit(s): 1-3 ACCOUNTING IN PRACTICE Component: Independent Study Requires at least 120 hours of an accounting-related internship with verification by the hiring company. Term paper relating the real-world duties and experiences of the internship to principles learned in traditional accounting classes also required. Repeatable for Credit: Y Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 315 , ACCT 327 . RESTRICTIONS: Requires permission of instructor. Requirement Designations: Discovery Learning Experience Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 315 , ACCT 327 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681580",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 366\u00a0-\u00a0Independent Study",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 366\u00a0-\u00a0Independent Study Credit(s): 1-6 INDEPENDENT STUDY Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option Course Typically Offered: Fall and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683880",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 367\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 367\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681582",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 395\u00a0-\u00a0Seminar: International Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 395\u00a0-\u00a0Seminar: International Accounting Credit(s): 3 SEM:INTERNATIONAL ACCOUNTING Component: Lecture Seminar on selected topics in international accounting. Combines lectures and visits to local organizations. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 207 . RESTRICTIONS: Taught abroad. Course Typically Offered: Verify offering with Dept General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally  GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures  GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 207 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684655",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 402\u00a0-\u00a0Big Data Technologies",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 402\u00a0-\u00a0Big Data Technologies Credit(s): 3 BIG DATA TECHNOLOGIES Component: Lecture Exposes students to the different phases of big data projects: discovery, collection, enrichment, analysis, and decision making. Students learn how to\u00a0implement Big Data solutions. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: May be crosslisted with MISY 402 . Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally     GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684660",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 405\u00a0-\u00a0Current Issues in Management Information Systems",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 405\u00a0-\u00a0Current Issues in Management Information Systems Credit(s): 3 CURRENT ISSUES IN MIS Component: Lecture Addresses current information technology challenges in today\u2019s business environment. Although content will constantly change to reflect current technology and emerging issues, topics include: big data, openness in today\u2019s information systems, the cloud computing environment, the role of XML, digital financial reporting, ERP and Web services, the interoperability of information systems, and the Resource Description Framework. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: May be crosslisted with\u200b MISY 405 Course Typically Offered: Fall General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally     GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681583",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 410\u00a0-\u00a0Theory of External Reporting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 410\u00a0-\u00a0Theory of External Reporting Credit(s): 3 THEORY OF EXTERNAL REPORTING Component: Lecture Covers the traditional model of accounting for information users external to the firm as well as modern descriptive research. Examines institutional environment and impact of the organization on development of accounting theory and practice. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 316 . RESTRICTIONS: Accounting junior or senior status. Course Typically Offered: Fall and Spring General Education Objectives: GE4: Critically Evaluate Ethical Implications Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 316 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681584",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 413\u00a0-\u00a0Income Tax Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 413\u00a0-\u00a0Income Tax Accounting Credit(s): 3 INCOME TAX ACCOUNTING Component: Lecture Analysis of recent revenue acts; use of federal law and regulations todetermine tax liability. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 315 . RESTRICTIONS: Requires junior status and a grade of C- or better in ACCT 315 . Course Typically Offered: Fall and Spring General Education Objectives: GE3A: Work Collaboratively Across Cultures  GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 315 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681585",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 414\u00a0-\u00a0Advanced Federal Taxation",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 414\u00a0-\u00a0Advanced Federal Taxation Credit(s): 3 ADVANCED FEDERAL TAXATION Component: Lecture Advanced federal tax concepts including income taxation of corporations, partnerships, estates, and trusts as well as wealth transfer taxes (Estate and Gift Tax). Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 413 . Course Typically Offered: Spring General Education Objectives: GE1B: Analyze Arguments and Information   GE2B: Communicate Orally GE2C: Communicate Through Creative Expression  GE3B: Work Independently Across Cultures    GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 413 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681586",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 415\u00a0-\u00a0Advanced Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 415\u00a0-\u00a0Advanced Accounting Credit(s): 3 ADVANCED ACCOUNTING Component: Lecture Introduction to branch accounting, consolidations, partnerships, fund accounting for state and local governments, and accounting for international transactions. Other relevant topics may also be covered. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 316 . RESTRICTIONS: Requires senior status and a grade of C minus or better in ACCT 316 . Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 316 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684462",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 416\u00a0-\u00a0Fiduciary Income Tax",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 416\u00a0-\u00a0Fiduciary Income Tax Credit(s): 3 FIDUCIARY INCOME TAX This course will address the intricacies of Subchapter J of the Internal Revenue Code and the provisions that govern taxation of trusts and estates. \u00a0It will explore the tax consequences of trusts and estates and\u00a0entities managed by third parties such as trustees or executors on behalf of equitable owners such as income and remainder beneficiaries. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 313 or ACCT 413 , ACCT 352 or ACCT 350 and ACCT 450 . General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 313 or ACCT 413 , ACCT 352 or ACCT 350 and ACCT 450 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681587",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 417\u00a0-\u00a0Auditing",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 417\u00a0-\u00a0Auditing Credit(s): 3 AUDITING Component: Lecture Introduction to standards and procedures underlying contemporaryauditing. Topics include ethics, legal liability, internal control, auditevidence, audit reports, statistical sampling, the audit of computerizedsystems, operational auditing, other engagements and services. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 316 . RESTRICTIONS: Requires senior status and a grade of C- or better in ACCT 316 . Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally   GE3B: Work Independently Across Cultures Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 316 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682627",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 418\u00a0-\u00a0Estate Planning",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 418\u00a0-\u00a0Estate Planning Credit(s): 3 ESTATE PLANNING Component: Lecture Focuses on the efficient conservation and transfer of wealth. Studies the legal, tax, financial, and non-financial aspects of this financial planning process, covering topics such as trusts, wills, probate, advance directives, gift planning, wealth transfers, and related taxes. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 350 or ACCT 352 . Course Typically Offered: Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 350 or ACCT 352 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684656",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 420\u00a0-\u00a0Theory of External Reporting and Applications",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 420\u00a0-\u00a0Theory of External Reporting and Applications Credit(s): 3 THEORY OF EXTERNAL REPORTING Component: Lecture Study of contemporary models of accounting for information users external to the firm. Includes an examination of the institutional environment and the impact of the institutions on the development of accounting theory and practices. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 315 Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally    GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 315 Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally    GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)"
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681588",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 425\u00a0-\u00a0Strategic Information Systems and Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 425\u00a0-\u00a0Strategic Information Systems and Accounting Credit(s): 3 STRATEGIC INFO SYSTEMS & ACCTG Component: Lecture Explores the role of accounting and information systems in accomplishing thestrategic goals of the corporation. Students exposed to accountinginformation from large data bases, enterprise-wide computing environments andcases and projects related to strategic problem solving across functionalareas of business. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 302 and ACCT 316 . RESTRICTIONS: Accounting majors only. Capstone: Classroom course Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 302 and ACCT 316 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684659",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 433\u00a0-\u00a0Internal Auditing",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 433\u00a0-\u00a0Internal Auditing Credit(s): 3 INTERNAL AUDITING Component: Lecture Covers internal audit from a broad perspective and the important role in today\u2019s companies. Topics\u00a0include:\u00a0Governance, Ethics, Business Processes, Risk Assessments, Controls, and Information Technology. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Course Typically Offered: Fall General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally    GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685469",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 444\u00a0-\u00a0Financial Analysis using Big Data",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 444\u00a0-\u00a0Financial Analysis using Big Data Credit(s): 3 FINANCIAL ANALYSIS & BIG DATA Component: Lecture This course introduces students to the sources of financial accounting data for a large sample of firms and the methods and tools to analyze the data. Topics include the analyses of balance sheets, income statements, cash flow statements, return on capital, relative valuation ratios, and academic research on stock market trading anomalies. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 207 and A ACCT 315 Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing     GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 207 and A ACCT 315 Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing     GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)"
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685618",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 447\u00a0-\u00a0Digital Transformation",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 447\u00a0-\u00a0Digital Transformation Credit(s): 3 DIGITAL TRANSFORMATION Component: Lecture The course aims to help understand how to accelerate efforts at transforming businesses processes digitally. Robotic Process Automation can automate business workflows especially those that are repetitive and manual, to improve efficiency. Students will build their own business process using RPA platforms. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with MISY 447 . PREREQ: MISY 261 Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MISY 261 Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)"
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684461",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 450\u00a0-\u00a0Legal Issues of Trust and Fiduciary Entities",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 450\u00a0-\u00a0Legal Issues of Trust and Fiduciary Entities Credit(s): 3 LEG ISS OF TRU & FID ENTITIES Familiarize students with legal issues and ethical responsibilities of professionals in the trust management field. Examines intestacy, wills as fiduciary entities, trusts as a will substitute, various types of trusts, aspects of trust management including trust creation, management, modification, and termination. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 352 or ACCT 350 . Course Typically Offered: Fall General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 352 or ACCT 350 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683882",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 457\u00a0-\u00a0Legal Issues for Entrepreneurs",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 457\u00a0-\u00a0Legal Issues for Entrepreneurs Credit(s): 3 LEGAL ISSUES FOR ENTREPRENEURS Component: Lecture Explores important legal issues faced by entrepreneurs as they put their ideas into action. Topics are sequenced to mirror the entrepreneurial process, beginning with pre-startup issues like partnership agreements and intellectual property, continuing to entity formation, governance and ownership issues, and ending with emerging growth and exit transactions. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with ENTR 457 . University Breadth: Social and Behavioral Sciences College of Engineering Breadth: EG PREP: COE Pro & Career Prep Req General Education Objectives: GE2A: Communicate Effectively in Writing Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681589",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 466\u00a0-\u00a0Independent Study",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 466\u00a0-\u00a0Independent Study Credit(s): 1-6 INDEPENDENT STUDY Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683881",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 467\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 467\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681581",
+      "department_hint": "ACCT",
+      "raw_header": "ACCT 483\u00a0-\u00a0Introduction to International Accounting",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) ACCT 483\u00a0-\u00a0Introduction to International Accounting Credit(s): 3 INTRO INTERNATIONAL ACCT Component: Lecture Describes the functions of international accounting; foreign currency transactions, financial statement translation, inflation, auditing and taxation. Current issues are covered as appropriate. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: ACCT 207 . ACCT 315 Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information   GE2B: Communicate Orally  GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: ACCT 207 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681240",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 101\u00a0-\u00a0Physical Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 101\u00a0-\u00a0Physical Science Credit(s): 4 PHYSICAL SCIENCE Component: Lecture Structure, processes and concepts of the physical world. Focus is physical sciences topics presented to a general science class consisting of non-science majors. Laws and theories of the physical world are presented and applied to applications, including motion, gravity, energy, waves, light, electricity including photoelectricity, and magnetism. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Requires high school algebra. For non-science students with no physics or chemistry background. Not for physics or chemistry major credit. Students who received credit in PHYS 201 or PHYS 207 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab General Education Objectives: GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681241",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 102\u00a0-\u00a0Physical Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 102\u00a0-\u00a0Physical Science Credit(s): 4 PHYSICAL SCIENCE Component: Lecture The structure, processes and concepts of the physical world. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Requires high school algebra. For non-science students with no physics or chemistry background. Not for physics or chemistry major credit. Students who received credit in PHYS 202 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Course Typically Offered: Verify offering with Dept General Education Objectives: GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681242",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 103\u00a0-\u00a0Concepts of Science and Technology",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 103\u00a0-\u00a0Concepts of Science and Technology Credit(s): 3 CONCEPTS OF SCIEN & TECHNOLOGY Component: Lecture Introduction to some of the fundamental science concepts underpinning hightechnology, emphasizing everyday devices and practical experience, for thedevelopment of scientific and computer literacy of non-science majors. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Requires high school algebra. Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683249",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 105\u00a0-\u00a0Science on the Scene",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 105\u00a0-\u00a0Science on the Scene Credit(s): 4 SCIENCE ON THE SCENE Component: Lecture An investigative look at local environments where topics such as microbiology, chemistry, ecology, and plant and soil sciences converge. Students will learn the basics of research, survey, and experimental design in the context of local ecosystems. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Requirement Designations: Discovery Learning Experience General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683243",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 107\u00a0-\u00a0Snack Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 107\u00a0-\u00a0Snack Science Credit(s): 4 SNACK SCIENCE Component: Laboratory An overview of topics from introductory biology, chemistry, and physics focusing on their applications to food and cooking. Emphasis will be placed on the use of the scientific method as a critical thinking tool through the use of laboratory experiments and problem based learning. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: May be crosslisted with ANFS 107 . University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Course Typically Offered: Winter General Education Objectives: GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683244",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 109\u00a0-\u00a0Art of Botany",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 109\u00a0-\u00a0Art of Botany Credit(s): 4 ART OF BOTANY Component: Independent Study An introduction to how plants are intimately linked with the visual arts through exploration of their aesthetic value and the biological, chemical, and physical properties of plant-derived compounds and materials used as artistic media. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Course Typically Offered: Summer General Education Objectives: GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683245",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 111\u00a0-\u00a0Revolutionary Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 111\u00a0-\u00a0Revolutionary Science Credit(s): 4 REVOLUTIONARY SCIENCE Component: Lecture Student-centered exploration of six of the most revolutionary scientific controversies and resulting theories that changed our lives and the future of the human race forever. Students\u2019 exploration will be encouraged through activities such as reading primary literature and debates as well as hands-on laboratory investigations. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Requirement Designations: Discovery Learning Experience Course Typically Offered: Summer General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information          GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683248",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 115\u00a0-\u00a0Origami Science Fablab/Makerspace",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 115\u00a0-\u00a0Origami Science Fablab/Makerspace Credit(s): 4 ORIGAMI FABLAB/MAKERSPACE Component: Lecture Learn origami and its application in science and technology. Expressions, using origami, of select concepts and methods in Mathematics, Computer Science, Physics, Biology, and Chemistry will be engaged in the classroom. Students will create structures, write about them, and present them in a gallery. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: May be crosslisted with PHYS 115 . University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Course Typically Offered: Summer General Education Objectives: GE2A: Communicate Effectively in Writing  GE2C: Communicate Through Creative Expression GE3A: Work Collaboratively Across Cultures     GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683246",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 117\u00a0-\u00a0Citizen Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 117\u00a0-\u00a0Citizen Science Credit(s): 4 CITIZEN SCIENCE Component: Laboratory Engages diverse participants on local, regional, national, and global scales in the collection, interpretation, and use of scientific data on a particular scientific problem. We will engage students in a variety of citizen science projects including at least one of their own. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Requirement Designations: Discovery Learning Experience Course Typically Offered: Winter General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=683247",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 119\u00a0-\u00a0Transforming Solar Energy",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 119\u00a0-\u00a0Transforming Solar Energy Credit(s): 4 TRANSFORMING SOLAR ENERGY Component: Lecture Lab- and project-focused exploration of solar energy and its uses. Biology, chemistry and physics concepts are introduced in context, leading to critical analysis of efficiency and economics of different technologies. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab Requirement Designations: Discovery Learning Experience Sustainability Sustainability Connections Course Typically Offered: Winter General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685024",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 130\u00a0-\u00a0The Science of Learning for Peer Mentors",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 130\u00a0-\u00a0The Science of Learning for Peer Mentors Credit(s): 1 SCI LEARNING FOR PEER MENTORS Component: Discussion This course is designed for students serving as Undergraduate TA\u2019s in a STEM course and who are interested in the science behind learning in the STEM disciplines. This course will help you integrate educational theory, pedagogy, and practice. It will touch on theoretical issues in conceptual development, conceptual change, collaborative learning and students\u2019 conceptions of various topics in science, as well as practical issues encountered in facilitating learning, engaging in formative assessment, and responsive teaching. Repeatable for Credit: N Allowed Units: 1 Multiple Term Enrollment: N Grading Basis: Student Option Requirement Designations: Discovery Learning Experience Course Typically Offered: Fall General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing  GE2C: Communicate Through Creative Expression GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures GE4: Critically Evaluate Ethical Implications GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681243",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 166\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 166\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684304",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 167\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 167\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=682739",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 210\u00a0-\u00a0Science of Color Phenomena",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 210\u00a0-\u00a0Science of Color Phenomena Credit(s): 4 SCIENCE OF COLOR PHENOMENA Component: Lecture Introduction to basic physical and chemical principles which describe nature of light and the phenomena of color. Targeted for non-science majors who seek a descriptive understanding of scientific principles underlying formation of color phenomena found in nature and works of art. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with ARTC 210 and CHEM 210 . PREREQ: High school chemistry and algebra. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GRP D LAB: A&S Math, Nat Sci & Tech w Lab General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: High school chemistry and algebra."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685031",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 230\u00a0-\u00a0Discipline-based Leadership and Mentoring",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 230\u00a0-\u00a0Discipline-based Leadership and Mentoring Credit(s): 1 DISCIPLINE-BASED LEADERSHIP Component: Lecture This course is designed to build practical peer leadership and mentoring skills, while providing a forum for evaluating and reflecting on personal experiences among a group of peers who challenge and learn from each other as they explore leadership. Class activities are designed to develop critical thinking around student development issues and provide strategies for integrating discussions of diversity, ethics, social justice, community, and civic responsibility into leadership experiences. Repeatable for Credit: N Allowed Units: 1 Multiple Term Enrollment: N Grading Basis: Pass/Not Pass PREREQ: SCEN 130 . Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally GE2C: Communicate Through Creative Expression GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: SCEN 130 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681244",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 266\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 266\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684305",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 267\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 267\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685502",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 310\u00a0-\u00a0Exploring Science in Context",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 310\u00a0-\u00a0Exploring Science in Context Credit(s): 3 EXPLORING SCIENCE IN CONTEXT Component: Lecture Science and scientists are part of a living, breathing world and the straightforward discoveries that are presented in textbooks often have remarkable backstories. This course will explore a specific scientific discovery and the events that shaped it. Specific scientific topics will vary by semester. Repeatable for Credit: Y Allowed Units: 6 Multiple Term Enrollment: N Grading Basis: Student Option University Breadth: History and Cultural Change College of Arts and Sciences Breadth: GROUP B: A&S History & Cultural Change Course Typically Offered: Winter General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally GE2C: Communicate Through Creative Expression GE3A: Work Collaboratively Across Cultures Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685029",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 330\u00a0-\u00a0Practicum in Peer Mentoring",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 330\u00a0-\u00a0Practicum in Peer Mentoring Credit(s): 1-2 PRACTICUM IN PEER MENTORING Component: Practicum The practicum experience provides students the opportunity to apply and integrate knowledge acquired through their coursework. This experience engages learners in direct experience as leader, supported by focused reflection in order to increase their knowledge, develop skills, clarify values, and develop their capacity to contribute to their discipline and the educational community. Repeatable for Credit: Y Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Pass/Not Pass PREREQ: SCEN 130 or SCEN 230 . COREQ: A student may take this course concurrently with SCEN 130 or SCEN 230 . Course Typically Offered: Fall and Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally  GE3A: Work Collaboratively Across Cultures GE3B: Work Independently Across Cultures Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: SCEN 130 or SCEN 230 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681245",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 340\u00a0-\u00a0Advanced Science for Teachers",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 340\u00a0-\u00a0Advanced Science for Teachers Credit(s): 4 ADVANCED SCIENCE FOR TEACHERS Component: Lecture Provides advanced background study for students in the Elementary TeacherEducation Milford Program. Topics are drawn from physical, earth andbiological sciences and build on science courses previously taken in theprogram. The areas of science outlined in the State Science PerformanceIndicators are covered. Along with lecture/discussion, students have hands-onlaboratories (including the Smithsonian kits used by the District). Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option RESTRICTIONS: Offered to students in the Milford ETE program. Course Typically Offered: Verify offering with Dept General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681207",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 344\u00a0-\u00a0Science and Religion",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 344\u00a0-\u00a0Science and Religion Credit(s): 3 SCIENCE AND RELIGION Component: Lecture Examines the relationship between science and religion and focuses on: whether our current cosmological picture of the Big Bang allows for a Creator; the rationality of miracle-reports; whether the scientific image of humanity is compatible with a religious worldview; the biological evolution/creation debate. Repeatable for Credit: Y Allowed Units: 12 Multiple Term Enrollment: N Grading Basis: Student Option Crosslisted: Crosslisted with PHIL 344 . University Breadth: Creative Arts and Humanities College of Arts and Sciences Breadth: GROUP A: A&S Creative Arts & Humanities General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information      GE3B: Work Independently Across Cultures GE4: Critically Evaluate Ethical Implications Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681246",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 366\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 366\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-12 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684306",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 367\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 367\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681247",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 466\u00a0-\u00a0Independent Study",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 466\u00a0-\u00a0Independent Study Credit(s): 1-12 INDEPENDENT STUDY Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684307",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 467\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 467\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Lecture Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681248",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 491\u00a0-\u00a0Teaching Science in Secondary Schools",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 491\u00a0-\u00a0Teaching Science in Secondary Schools Credit(s): 4 TCHNG SCIENCE IN SECONDARY SC Component: Lecture Techniques, approaches and preparation for teaching science in high school andmiddle school. Laboratory meets one full morning per week in local highschools and middle schools for observation and initial teaching. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option COREQ: EDUC 420 for chemistry education and biology education majors. College of Engineering Breadth: EG PREP: COE Pro & Career Prep Req Course Typically Offered: Fall General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=681249",
+      "department_hint": "SCEN",
+      "raw_header": "SCEN 492\u00a0-\u00a0Student Teaching Seminar: Secondary Science",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) SCEN 492\u00a0-\u00a0Student Teaching Seminar: Secondary Science Credit(s): 3 STUDENT TCHNG SEM: SECND SCI Component: Lecture Methods, techniques and problems in student teaching in secondary schools andtheir solutions. Assertiveness, authority, management, strategies andteaching for understanding. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Pass/Not Pass COREQ: EDUC 400 Course Typically Offered: Fall General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680929",
+      "department_hint": "MATH",
+      "raw_header": "MATH 010\u00a0-\u00a0Intermediate Algebra",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 010\u00a0-\u00a0Intermediate Algebra Credit(s): 3 INTERMEDIATE ALGEBRA Component: Lecture This course prepares students with the skills necessary for pre-calculus and college mathematics and statistics.\u00a0Topics include solving equations (linear, rational, and quadratic) and inequalities, linear functions, systems of equations, and operations with polynomial, rational, and radical expressions. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Remedial PREREQ: Students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences. RESTRICTIONS: Requires arithmetic and Algebra I skills. MATH010 does not earn credit towards a degree. Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680930",
+      "department_hint": "MATH",
+      "raw_header": "MATH 113\u00a0-\u00a0Contemporary Mathematics",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 113\u00a0-\u00a0Contemporary Mathematics Credit(s): 3 CONTEMPORARY MATHEMATICS Component: Lecture Collection of topics that explore the application of mathematics in a variety of complex natural and business environments. Required topics include surveys, data collection and analysis, and basic probability. Four (or more) additional topics would be chosen from the following list: management science (Euler and Hamilton circuits, networks, digraphs, scheduling, etc.), social choice, finance, growth or decay, coding information, shape and form in nature and art, similar figures, logic, set theory, numeration systems, and measurement. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Level G required on the Math Placement Assessment. ANTIREQ: Students who received credit in MATH 114 , MATH 115 , MATH 117 , MATH 221 , MATH 222, MATH 231 , MATH 241 , MATH 242 , or MATH 243 are not eligible to take this course without permission. Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Level G required on the Math Placement Assessment."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680931",
+      "department_hint": "MATH",
+      "raw_header": "MATH 114\u00a0-\u00a0College Mathematics and Statistics",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 114\u00a0-\u00a0College Mathematics and Statistics Credit(s): 3 COLL MATHEMATICS & STATISTICS Component: Lecture Stresses mathematical concepts and algebraic skills with a strong emphasis on applications in the areas of management, life and social sciences. Topics include various function classes and models as well as statistics including descriptive statistics, probability, and regression. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences. ANTIREQ: Students who received credit in MATH 115 , MATH 117 , MATH 221 , MATH 222, MATH 231 , MATH 241 , MATH 242 , or MATH 243 are not eligible to take this course without permission. Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680932",
+      "department_hint": "MATH",
+      "raw_header": "MATH 115\u00a0-\u00a0Pre-Calculus",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 115\u00a0-\u00a0Pre-Calculus Credit(s): 3 PRE-CALCULUS Component: Lecture The various classes of functions and their graphs are explored. Functionclasses include linear, quadratic, polynomial, rational, exponential,logarithmic and trigonometric. Skills and concepts needed for calculus (MATH221) are emphasized. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences. ANTIREQ: Students who received credit in MATH 117 , MATH 221 , MATH 222, MATH 231 , MATH 241 , MATH 242 , or MATH 243 are not eligible to take this course without permission. Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680933",
+      "department_hint": "MATH",
+      "raw_header": "MATH 117\u00a0-\u00a0Pre-Calculus for Scientists and Engineers",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 117\u00a0-\u00a0Pre-Calculus for Scientists and Engineers Credit(s): 4 PRECALC FOR SCIENTISTS & ENGIN Component: Lecture Designed to prepare students for MATH241. All topics included in MATH115 arecovered, as well as additional topics in functions, trigonometry, linearsystems, and nonlinear systems. Other topics may be added at the discretion of the instructor. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Exam in accordance with current standards determined by the Department of Mathematical Sciences. See https://www.mathsci.udel.edu/courses-placement/ud-math-placement for more information. RESTRICTIONS: Students who received credit in MATH231, MATH241, MATH242, or MATH243 are not eligible to take this course without permission. Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Exam in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680935",
+      "department_hint": "MATH",
+      "raw_header": "MATH 166\u00a0-\u00a0SPECIAL PROBLEM",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 166\u00a0-\u00a0SPECIAL PROBLEM Credit(s): 1-3 SPECIAL PROBLEM Component: Independent Study Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option Course Typically Offered: Fall, Winter and Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684201",
+      "department_hint": "MATH",
+      "raw_header": "MATH 167\u00a0-\u00a0SEMINAR",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 167\u00a0-\u00a0SEMINAR Credit(s): 1-6 SEMINAR Component: Discussion Repeatable for Credit: Y Allowed Units: 99 Multiple Term Enrollment: Y Grading Basis: Student Option General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680936",
+      "department_hint": "MATH",
+      "raw_header": "MATH 201\u00a0-\u00a0Introduction to Statistical Methods I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 201\u00a0-\u00a0Introduction to Statistical Methods I Credit(s): 3 INTRO TO STATISTICAL METHODS I Component: Lecture Exploratory data analysis, basic probability, discrete and continuous distributions, sampling distributions and confidence intervals, and one- and two-sample hypothesis tests on means and proportions. Emphasis on applications in business and economics. Statistical computing is an integral part of this course. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: College algebra. RESTRICTIONS: Credit may be awarded for only one of STAT 200 , APEC 408, MATH201, and MATH 205 . University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: College algebra."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680937",
+      "department_hint": "MATH",
+      "raw_header": "MATH 202\u00a0-\u00a0Introduction to Statistical Methods II",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 202\u00a0-\u00a0Introduction to Statistical Methods II Credit(s): 3 INTRO TO STATISTCL METHODS II Component: Lecture Two-sample tests on means and proportions, chi-square analysis of contingency tables, completely randomized and randomized block designs, factorial experiments, analysis of variance, simple linear and multiple regression, model diagnostics, quality control, time series analysis. Emphasis on applications in business and economics. Statistical computing is an integral part of this course. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 201 . Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 201 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680938",
+      "department_hint": "MATH",
+      "raw_header": "MATH 205\u00a0-\u00a0Statistical Methods",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 205\u00a0-\u00a0Statistical Methods Credit(s): 4 STATISTICAL METHODS Component: Lecture Descriptive statistics, graphical displays, sampling, variation, normal distribution, estimation, hypothesis testing, one-way analysis of variance, simple linear regression and goodness of fit. Laboratory covers use of statistical packages on mainframe and microcomputers. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 210 or MATH 230 . Course Typically Offered: Fall and Spring General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 210 or MATH 230 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684395",
+      "department_hint": "MATH",
+      "raw_header": "MATH 208\u00a0-\u00a0Integrated Mathematics, Science and Computer Learning",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 208\u00a0-\u00a0Integrated Mathematics, Science and Computer Learning Credit(s): 3 MATH SCIENCE AND COMPUTERS Component: Lecture Integrate the learning of mathematics, science and computers. Use interactive computer programs and write computer programs for modeling and problem solving. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option COREQ: MATH 117 or MATH 241 or MATH 242 . RESTRICTIONS: Students planning to take higher level CISC courses should take CISC 106 or CISC 108 instead of MATH208. General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680939",
+      "department_hint": "MATH",
+      "raw_header": "MATH 210\u00a0-\u00a0Discrete Mathematics I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 210\u00a0-\u00a0Discrete Mathematics I Credit(s): 3 DISCRETE MATHEMATICS I Component: Lecture Elements of sets and logic. Relations, functions. Integers. Induction and recursion. Principles and techniques of counting. Graphs. Paths and circuits Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option COREQ: MATH 241 , MATH 242 , or MATH 232 . University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter and Spring General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively  GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680940",
+      "department_hint": "MATH",
+      "raw_header": "MATH 217\u00a0-\u00a0Algebra for Middle School Teachers",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 217\u00a0-\u00a0Algebra for Middle School Teachers Credit(s): 3 ALGEBRA: MIDDLE SCHOOL TEACHER Component: Lecture Examines algebraic concepts developed in the middle grades, including linearity; meanings and uses of variables; and the represention of situations using functions, graphs, and equations. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option Course Typically Offered: Fall General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": ""
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685178",
+      "department_hint": "MATH",
+      "raw_header": "MATH 219\u00a0-\u00a0Data Science I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 219\u00a0-\u00a0Data Science I Credit(s): 3 DATA SCIENCE I Component: Lecture Introduction to methods in data science. Describes the representation and exploration of data, classification, regression, clustering, and network science, with particular attention to mathematical formulations and foundations. Includes hands-on use of software tools and applications to real-world datasets. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 241 and CISC 106 . Course Typically Offered: Spring General Education Objectives: GE1A: Read Critically GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing GE2B: Communicate Orally     GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 241 and CISC 106 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680941",
+      "department_hint": "MATH",
+      "raw_header": "MATH 221\u00a0-\u00a0Calculus I",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 221\u00a0-\u00a0Calculus I Credit(s): 3 CALCULUS I Component: Lecture Topics include functions, graphing functions, limits, derivatives, exponential and logarithmic functions, integration, and techniques of integration. Business applications are emphasized. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 115 , or MATH 117 or an acceptable score (determined by the Department of Mathematical Sciences) on the Math Placement Assessment. ANTIREQ: Students who received credit in MATH 222 , MATH 232 , MATH 241 , MATH 242 , or MATH 243 \u00a0are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively  GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 115 , or MATH 117 or an acceptable score (determined by the Department of Mathematical Sciences) on the Math Placement Assessment."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680943",
+      "department_hint": "MATH",
+      "raw_header": "MATH 230\u00a0-\u00a0Finite Mathematics with Applications",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 230\u00a0-\u00a0Finite Mathematics with Applications Credit(s): 3 FINITE MATH WITH APPLICATIONS Component: Lecture Set theory, probability, optimization, linear programming and an introduction to matrix methods. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 221 RESTRICTIONS: For students in the behavioral, management and social sciences. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively  GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 221 RESTRICTIONS: For students in the behavioral, management and social sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684651",
+      "department_hint": "MATH",
+      "raw_header": "MATH 231\u00a0-\u00a0Integrated Calculus IA",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 231\u00a0-\u00a0Integrated Calculus IA Credit(s): 4 INTEGRATED CALCULUS IA Component: Lecture Calculus topics of limits, continuity, derivatives, and applications of derivatives are developed in the context of polynomial, rational,\u00a0exponential, and logarithmic function classes.\u00a0First semester of a two-semester course, partial coverage of MATH 241 topics. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences. ANTIREQ: Students who received credit in MATH 241 or MATH 242 or MATH 243 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally     GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Requires a grade of C- or better in MATH 010 or students must achieve an acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=684652",
+      "department_hint": "MATH",
+      "raw_header": "MATH 232\u00a0-\u00a0Integrated Calculus IB",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 232\u00a0-\u00a0Integrated Calculus IB Credit(s): 3 INTEGRATED CALCULUS IB Component: Lecture Calculus topics of integration in the context of polynomial, rational, exponential, and logarithmic function classes. Trigonometric functions introduced and followed with limits, derivatives, integrals, and applications in the context of trigonometric functions. Evaluation of limits by L\u2019Hospital\u2019s rule. Separable differential equations. Differential equations modeling exponential growth and decay. Second semester of a two-semester course. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Successful completion (D- or better) in MATH 231 . ANTIREQ: Students who received credit in MATH 241 , MATH 242 , or MATH 243 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation  GE2B: Communicate Orally     GE5A: Reason Quantitatively GE5B: Reason Computationally Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Successful completion (D- or better) in MATH 231 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680944",
+      "department_hint": "MATH",
+      "raw_header": "MATH 240\u00a0-\u00a0Geometry and Measurement for Middle School Teachers",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 240\u00a0-\u00a0Geometry and Measurement for Middle School Teachers Credit(s): 3 GEOMETRY: MIDDLE SCHOOL TEACHE Component: Lecture Explores geometry and measurement topics and how they are developed throughout the middle school curriculum. Topics include properties of 2D and 3D figures, coordinate geometry, transformations, measurement of length, area and volume, and fundamentals of a deductive system. Includes the use of technology. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: Grade of C- or higher in MATH 253 RESTRICTIONS: Open only to students pursuing middle school mathematics teaching certification. Course Typically Offered: Spring General Education Objectives: GE1B: Analyze Arguments and Information  GE2A: Communicate Effectively in Writing GE2B: Communicate Orally  GE3A: Work Collaboratively Across Cultures     GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: Grade of C- or higher in MATH 253 RESTRICTIONS: Open only to students pursuing middle school mathematics teaching certification."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680945",
+      "department_hint": "MATH",
+      "raw_header": "MATH 241\u00a0-\u00a0Analytic Geometry and Calculus A",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 241\u00a0-\u00a0Analytic Geometry and Calculus A Credit(s): 4 ANALYTIC GEOMETRY & CALCULUS A Component: Lecture Functions, limits, continuity, derivatives. Polynomial, rational, exponential, logarithmic, trigonometric and inverse trigonometric functions. Evaluation of limits by L\u2019Hospital\u2019s rule. Definite and indefinite integrals and the Fundamental Theorem of Calculus. Separable differential equations. ODE models leading to exponential growth and decay. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 117 or acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences. ANTIREQ: Students who received credit in MATH 242 or MATH 243 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively  GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 117 or acceptable score on the Math Placement Assessment in accordance with current standards determined by the Department of Mathematical Sciences."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680946",
+      "department_hint": "MATH",
+      "raw_header": "MATH 242\u00a0-\u00a0Analytic Geometry and Calculus B",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 242\u00a0-\u00a0Analytic Geometry and Calculus B Credit(s): 4 ANALYTIC GEOMETRY & CALCULUS B Component: Lecture Brief review of MATH 241 ; applications of integration; integration techniques; parametric curves; polar coordinates; infinite sequences and series. Includes use of computers to perform symbolic, numerical and graphical analysis. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 241 or MATH 232 . ANTIREQ: Students who received credit in MATH 243 are not eligible to take this course without permission. University Breadth: Mathematics, Natural Sciences and Technology College of Arts and Sciences Breadth: GROUP D: A&S Math, Nat Sci & Technology Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 241 or MATH 232 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680947",
+      "department_hint": "MATH",
+      "raw_header": "MATH 243\u00a0-\u00a0Analytic Geometry and Calculus C",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 243\u00a0-\u00a0Analytic Geometry and Calculus C Credit(s): 4 ANALYTIC GEOMETRY & CALCULUS C Component: Lecture Vectors, operations on vectors, velocity and acceleration, partial derivatives, directional derivatives, optimization of functions of two or more variables, integration over two and three dimensional regions, line integrals, Green\u2019s Theorem, surface integrals, the Divergence theorem. Includes use of computers to perform symbolic, numerical and graphical analysis. Repeatable for Credit: N Allowed Units: 4 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 242 . Course Typically Offered: Fall, Winter, Spring, Summer General Education Objectives: GE1B: Analyze Arguments and Information        GE5A: Reason Quantitatively GE5B: Reason Computationally GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 242 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=680948",
+      "department_hint": "MATH",
+      "raw_header": "MATH 245\u00a0-\u00a0An Introduction to Proof",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 245\u00a0-\u00a0An Introduction to Proof Credit(s): 3 AN INTRODUCTION TO PROOF Component: Lecture Basic set operations, relations, equivalence relations, functions, inverse functions, cardinality, order properties of real numbers, least upper bound, greatest lower bound, completeness axiom, topology of reals, complex numbers. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 210 and MATH 242 . Course Typically Offered: Fall and Spring General Education Objectives: GE1B: Analyze Arguments and Information GE1C: Engage in Constructive Ideation GE2A: Communicate Effectively in Writing      GE5A: Reason Quantitatively  GE5C: Reason Scientifically Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 210 and MATH 242 ."
+    },
+    {
+      "source_url": "https://catalog.udel.edu/preview_course_nopop.php?catoid=94&coid=685281",
+      "department_hint": "MATH",
+      "raw_header": "MATH 247\u00a0-\u00a0Introduction to Actuarial Mathematics",
+      "raw_body": "HELP 2025-2026 Undergraduate Catalog Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window) MATH 247\u00a0-\u00a0Introduction to Actuarial Mathematics Credit(s): 3 INTRO TO ACTUARIAL MATHEMATICS Component: Lecture Explores fundamental concepts of financial mathematics with actuarial applications. Topics include the time value of money, continuous and varying annuities with non-contingent payments, loans, bonds, and asset liability management. Repeatable for Credit: N Allowed Units: 3 Multiple Term Enrollment: N Grading Basis: Student Option PREREQ: MATH 242 Course Typically Offered: Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)",
+      "raw_prerequisites": "PREREQ: MATH 242 Course Typically Offered: Spring General Education Objectives: Back to Top | Print-Friendly Page (opens a new window) Facebook this Page (opens a new window) Tweet this Page (opens a new window)"
+    }
+  ]
+}

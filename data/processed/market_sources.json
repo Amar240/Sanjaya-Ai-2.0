@@ -1,0 +1,290 @@
+[
+  {
+    "source_id": "SRC_BLS_ACTUARIES",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Actuaries",
+    "url": "https://www.bls.gov/ooh/math/actuaries.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_COMPUTER_RESEARCH_SCIENTISTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Computer and Information Research Scientists",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Computer Systems Analysts",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_DATABASE_ADMINS_ARCHITECTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Database Administrators and Architects",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_DATA_SCIENTISTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Data Scientists",
+    "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_FINANCIAL_ANALYSTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Financial Analysts",
+    "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_FINANCIAL_EXAMINERS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Financial Examiners",
+    "url": "https://www.bls.gov/ooh/business-and-financial/financial-examiners.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Health Information Technologists and Medical Registrars",
+    "url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_INFOSEC_ANALYSTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Information Security Analysts",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_LOGISTICIANS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Logisticians",
+    "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_MARKET_RESEARCH_ANALYSTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Market Research Analysts",
+    "url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_MATHEMATICIANS_STATISTICIANS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Mathematicians and Statisticians",
+    "url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_NETWORK_ARCHITECTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Computer Network Architects",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Operations Research Analysts",
+    "url": "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_SOFTWARE_DEVELOPERS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Software Developers, Quality Assurance Analysts, and Testers",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_BLS_WEB_DEVELOPERS_DESIGNERS",
+    "provider": "U.S. Bureau of Labor Statistics",
+    "type": "occupation_outlook",
+    "title": "Web Developers and Digital Designers",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_LINKEDIN_FASTEST_GROWING_JOBS_2025",
+    "provider": "LinkedIn",
+    "type": "labor_market_report",
+    "title": "Fastest Growing Jobs and AI roles",
+    "url": "https://www.linkedin.com/pulse/linkedin-jobs-rise-2025-25-fastest-growing-jobs-us-linkedin-news-v5xve/",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_NIST_NICE_FRAMEWORK",
+    "provider": "NIST NICE",
+    "type": "framework",
+    "title": "NICE Framework Resource Center",
+    "url": "https://www.nist.gov/nice/framework",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_ONET_ACTUARIES",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Actuaries (15-2011.00)",
+    "url": "https://www.onetonline.org/link/summary/15-2011.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Bioinformatics Scientists (19-1029.01)",
+    "url": "https://www.onetonline.org/link/summary/19-1029.01",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_ONET_COMPUTER_RESEARCH_SCIENTISTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Computer and Information Research Scientists (15-1221.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1221.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_COMPUTER_SYSTEMS_ANALYSTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Computer Systems Analysts (15-1211.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1211.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_DATABASE_ARCHITECTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Database Architects (15-1243.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1243.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_DATA_SCIENTISTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Data Scientists (15-2051.00)",
+    "url": "https://www.onetonline.org/link/summary/15-2051.00",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_ONET_FINANCIAL_RISK_SPECIALISTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Financial Risk Specialists (13-2054.00)",
+    "url": "https://www.onetonline.org/link/summary/13-2054.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Health Informatics Specialists (15-1211.01)",
+    "url": "https://www.onetonline.org/link/summary/15-1211.01",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_INFOSEC_ANALYSTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Information Security Analysts (15-1212.00)",
+    "url": "https://www.onetonline.org/link/details/15-1212.00",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_ONET_LOGISTICIANS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Logisticians (13-1081.00)",
+    "url": "https://www.onetonline.org/link/summary/13-1081.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_MARKET_RESEARCH_ANALYSTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Market Research Analysts and Marketing Specialists (13-1161.00)",
+    "url": "https://www.onetonline.org/link/summary/13-1161.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_NETWORK_ARCHITECTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Computer Network Architects (15-1241.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1241.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_OPERATIONS_RESEARCH_ANALYSTS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Operations Research Analysts (15-2031.00)",
+    "url": "https://www.onetonline.org/link/summary/15-2031.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_SOFTWARE_DEVELOPERS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Software Developers (15-1252.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1252.00",
+    "retrieved_on": "2026-02-17"
+  },
+  {
+    "source_id": "SRC_ONET_STATISTICIANS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Statisticians (15-2041.00)",
+    "url": "https://www.onetonline.org/link/summary/15-2041.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_ONET_WEB_DEVELOPERS",
+    "provider": "O*NET OnLine",
+    "type": "occupation_profile",
+    "title": "Web Developers (15-1254.00)",
+    "url": "https://www.onetonline.org/link/summary/15-1254.00",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_WEF_FASTEST_GROWING_JOBS_2025",
+    "provider": "World Economic Forum",
+    "type": "labor_market_report",
+    "title": "Future of Jobs Report 2025: Fastest-growing and declining jobs",
+    "url": "https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-the-fastest-growing-and-declining-jobs/",
+    "retrieved_on": "2026-02-18"
+  },
+  {
+    "source_id": "SRC_WEF_FUTURE_OF_JOBS_2025",
+    "provider": "World Economic Forum",
+    "type": "labor_market_report",
+    "title": "The Future of Jobs Report 2025",
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest.com/",
+    "retrieved_on": "2026-02-18"
+  }
+]

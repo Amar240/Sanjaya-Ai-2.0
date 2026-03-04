@@ -1,0 +1,410 @@
+[
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "title": "Quant / Risk Analyst",
+    "domain": "Finance",
+    "skill_bands": {
+      "domain_weight": 0.6,
+      "tech_weight": 0.4
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_FIN_MARKETS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_RISK_ANALYTICS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_RISK_MGMT",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_PYTHON",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_SQL",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_STATISTICS",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_OPTIMIZATION",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_SQL",
+        "reason": "High-ROI bridge skill for translating finance questions into data queries."
+      },
+      {
+        "skill_id": "SK_PYTHON",
+        "reason": "Core implementation skill for risk modeling and automation."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "title": "FinTech Engineer",
+    "domain": "Finance",
+    "skill_bands": {
+      "domain_weight": 0.55,
+      "tech_weight": 0.45
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_FIN_MARKETS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_CORP_FINANCE",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_RISK_ANALYTICS",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_APIS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_BACKEND_DEV",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_SQL",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_ML_FUND",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_APIS",
+        "reason": "Essential for integrating payment, compliance, and trading services."
+      },
+      {
+        "skill_id": "SK_SQL",
+        "reason": "Required to work confidently with transactional finance data."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "title": "Bioinformatics Scientist",
+    "domain": "Biology",
+    "skill_bands": {
+      "domain_weight": 0.6,
+      "tech_weight": 0.4
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_BIO_FUND",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_GENOMICS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_BIO_STATS",
+        "importance": 5
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_PYTHON",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_SQL",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_ML_FUND",
+        "importance": 3
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_PYTHON",
+        "reason": "Primary language for sequence processing and reproducible analysis."
+      },
+      {
+        "skill_id": "SK_SQL",
+        "reason": "Improves ability to query clinical and lab datasets at scale."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "title": "Health Informatics Analyst",
+    "domain": "Healthcare",
+    "skill_bands": {
+      "domain_weight": 0.6,
+      "tech_weight": 0.4
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_BIO_FUND",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_BUSINESS_ANALYSIS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_RISK_MGMT",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_SQL",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_DB_DESIGN",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_BI_TOOLS",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "importance": 4
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_SQL",
+        "reason": "High-ROI skill for EHR and operations reporting workflows."
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "reason": "Improves communication of patient and operations insights."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+    "title": "Supply Chain Analytics Specialist",
+    "domain": "Operations",
+    "skill_bands": {
+      "domain_weight": 0.6,
+      "tech_weight": 0.4
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_BUSINESS_ANALYSIS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_OPTIMIZATION",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_RISK_MGMT",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_SQL",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_STATISTICS",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_PYTHON",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_SQL",
+        "reason": "Core for inventory and logistics data exploration."
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "reason": "Crucial for communicating flow bottlenecks to business teams."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+    "title": "Market Research Analyst",
+    "domain": "Marketing",
+    "skill_bands": {
+      "domain_weight": 0.65,
+      "tech_weight": 0.35
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_BUSINESS_ANALYSIS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_EXPERIMENTATION",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_STATISTICS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_SQL",
+        "importance": 3
+      },
+      {
+        "skill_id": "SK_PYTHON",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_STATISTICS",
+        "reason": "Directly improves reliability of survey and experiment insights."
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "reason": "Supports clear storytelling to non-technical stakeholders."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_AI_PRODUCT_MANAGER",
+    "title": "AI Product Manager",
+    "domain": "Product & Strategy",
+    "skill_bands": {
+      "domain_weight": 0.65,
+      "tech_weight": 0.35
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_BUSINESS_ANALYSIS",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_RISK_MGMT",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_AI_ETHICS",
+        "importance": 4
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_ML_FUND",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_GENAI_BASICS",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "importance": 3
+      },
+      {
+        "skill_id": "SK_APIS",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_GENAI_BASICS",
+        "reason": "Helps scope AI features realistically with engineering teams."
+      },
+      {
+        "skill_id": "SK_DATA_VIZ",
+        "reason": "Improves decision quality in product review cycles."
+      }
+    ],
+    "evidence_sources": []
+  },
+  {
+    "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+    "title": "Digital Forensics Analyst",
+    "domain": "Cybersecurity & Investigation",
+    "skill_bands": {
+      "domain_weight": 0.55,
+      "tech_weight": 0.45
+    },
+    "domain_skills": [
+      {
+        "skill_id": "SK_RISK_MGMT",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_INCIDENT_RESPONSE",
+        "importance": 5
+      }
+    ],
+    "tech_skills": [
+      {
+        "skill_id": "SK_SECURITY_FUND",
+        "importance": 5
+      },
+      {
+        "skill_id": "SK_NETWORK_SECURITY",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_CRYPTO",
+        "importance": 4
+      },
+      {
+        "skill_id": "SK_PYTHON",
+        "importance": 3
+      }
+    ],
+    "unlock_skills": [
+      {
+        "skill_id": "SK_INCIDENT_RESPONSE",
+        "reason": "Primary operational skill for triage and evidence workflows."
+      },
+      {
+        "skill_id": "SK_PYTHON",
+        "reason": "Speeds up automation of forensic parsing and reporting tasks."
+      }
+    ],
+    "evidence_sources": []
+  }
+]

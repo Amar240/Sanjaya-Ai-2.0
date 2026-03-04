@@ -1,0 +1,2501 @@
+{
+  "summary": {
+    "total_role_skill_rows": 249,
+    "changed_rows": 31,
+    "increased_rows": 28,
+    "decreased_rows": 3,
+    "unchanged_rows": 218
+  },
+  "rows": [
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.93,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_OPTIMIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_RISK_ANALYTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_FIN_ACCOUNTING",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ACTUARIAL_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_GENAI_BASICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.87,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_MODEL_EVAL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_MLOPS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.86,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_ENGINEER",
+      "skill_id": "SK_AI_ETHICS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": 0.78,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_GENAI_BASICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_AI_ETHICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_APIS",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_PRODUCT_MANAGER",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_LINEAR_ALG",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_MODEL_EVAL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_OPTIMIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_AI_RESEARCH_SCIENTIST",
+      "skill_id": "SK_AI_ETHICS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_SQL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_DB_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_ETL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_DATA_WAREHOUSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.84,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_BI_TOOLS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ANALYTICS_ENGINEER",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_BIO_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_GENOMICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_BIO_STATS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.88,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_SQL",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.93,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_DEVOPS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.84,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_CONTAINERIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_LINUX",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_NETWORKS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_ENGINEER",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_NETWORK_SECURITY",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_APP_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_DEVOPS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_CONTAINERIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CLOUD_SECURITY_ENGINEER",
+      "skill_id": "SK_LINUX",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_SYSTEMS_DESIGN",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_APIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_DB_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_NETWORKS",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_COMPUTER_SYSTEMS_ANALYST",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.96,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_NETWORKS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_NETWORK_SECURITY",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_APP_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_CRYPTO",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_GRC",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_CYBERSECURITY_ANALYST",
+      "skill_id": "SK_LINUX",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_DB_DESIGN",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_SQL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.9,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_DATA_WAREHOUSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_ETL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATABASE_ARCHITECT",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 5,
+      "new_importance": 4,
+      "delta": -1,
+      "evidence_max_confidence": 0.86,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_BI_TOOLS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ANALYST",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_SQL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_DB_DESIGN",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.93,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_ETL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_DATA_WAREHOUSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.85,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_DISTRIBUTED_DATA",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_ENGINEER",
+      "skill_id": "SK_DEVOPS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_FEATURE_ENGINEERING",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_MODEL_EVAL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DATA_SCIENTIST",
+      "skill_id": "SK_MLOPS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_DEVOPS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_CONTAINERIZATION",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.86,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_LINUX",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_VERSION_CONTROL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DEVOPS_ENGINEER",
+      "skill_id": "SK_TESTING",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_NETWORK_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_APP_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_LINUX",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_CRYPTO",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_DIGITAL_FORENSICS_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_RISK_ANALYTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_FIN_MARKETS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINANCIAL_RISK_SPECIALIST",
+      "skill_id": "SK_FIN_ACCOUNTING",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_FIN_MARKETS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.9,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_RISK_ANALYTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_CORP_FINANCE",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.84,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_FINTECH_ENGINEER",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_DB_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_BI_TOOLS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_MARKET_RESEARCH_ANALYST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_ML_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.95,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_FEATURE_ENGINEERING",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_MODEL_EVAL",
+      "old_importance": 5,
+      "new_importance": 4,
+      "delta": -1,
+      "evidence_max_confidence": 0.9,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_MLOPS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.84,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_LINEAR_ALG",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_SQL",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_ML_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_NETWORKS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.96,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_NETWORK_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.86,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_LINUX",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_SYSTEMS_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_NETWORK_ARCHITECT",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_OPTIMIZATION",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_OPERATIONS_RESEARCH_ANALYST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_GRC",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_APP_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_CRYPTO",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_PRIVACY_ENGINEER",
+      "skill_id": "SK_AI_ETHICS",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_FIN_MARKETS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.92,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_RISK_ANALYTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_OPTIMIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.86,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_QUANT_RISK_ANALYST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_SECURITY_FUND",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_APP_SECURITY",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.9,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_NETWORK_SECURITY",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_CRYPTO",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_LINUX",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_GRC",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SECURITY_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_DEVOPS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_LINUX",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_NETWORKS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_SYSTEMS_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.85,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_INCIDENT_RESPONSE",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.87,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_TESTING",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SITE_RELIABILITY_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_ALGO_DS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.9,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_OOP",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 5,
+      "new_importance": 4,
+      "delta": -1,
+      "evidence_max_confidence": 0.88,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_VERSION_CONTROL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_TESTING",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.84,
+      "evidence_source_count": 1,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_SYSTEMS_DESIGN",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_SOFTWARE_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_PROBABILITY",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.94,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_LINEAR_ALG",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_CALCULUS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_SQL",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_STATISTICIAN",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_STATISTICS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_OPTIMIZATION",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_SQL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_DATA_VIZ",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_BUSINESS_ANALYSIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": 0.89,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_RISK_MGMT",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_EXPERIMENTATION",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_SUPPLY_CHAIN_ANALYTICS_SPECIALIST",
+      "skill_id": "SK_PYTHON",
+      "old_importance": 3,
+      "new_importance": 4,
+      "delta": 1,
+      "evidence_max_confidence": 0.83,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_FRONTEND_DEV",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.91,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_BACKEND_DEV",
+      "old_importance": 5,
+      "new_importance": 5,
+      "delta": 0,
+      "evidence_max_confidence": 0.88,
+      "evidence_source_count": 2,
+      "method": "evidence_blend"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_APIS",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_TESTING",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_VERSION_CONTROL",
+      "old_importance": 4,
+      "new_importance": 4,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_CLOUD",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    },
+    {
+      "role_id": "ROLE_WEB_APPLICATION_ENGINEER",
+      "skill_id": "SK_OOP",
+      "old_importance": 3,
+      "new_importance": 3,
+      "delta": 0,
+      "evidence_max_confidence": null,
+      "evidence_source_count": 0,
+      "method": "no_evidence_keep_current"
+    }
+  ]
+}

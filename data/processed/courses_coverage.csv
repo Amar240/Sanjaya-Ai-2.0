@@ -1,0 +1,696 @@
+course_id,title,department,level,credits
+ACCT-166,SPECIAL PROBLEM,ACCT,UG,3
+ACCT-200,Survey of Accounting,ACCT,UG,3
+ACCT-201,The Accounting Experience,ACCT,UG,3
+ACCT-207,Accounting I,ACCT,UG,3
+ACCT-208,Accounting II,ACCT,UG,3
+ACCT-235,Community Audit,ACCT,UG,3
+ACCT-266,SPECIAL PROBLEM,ACCT,UG,3
+ACCT-267,SEMINAR,ACCT,UG,3
+ACCT-302,Accounting Information Systems,ACCT,UG,3
+ACCT-305,Information Security and Risk Management,ACCT,UG,3
+ACCT-313,Taxation for Business and Investment Planning,ACCT,UG,3
+ACCT-315,Intermediate Accounting I,ACCT,UG,3
+ACCT-316,Intermediate Accounting II,ACCT,UG,3
+ACCT-320,Professional Ethics and Responsibility,ACCT,UG,3
+ACCT-327,Cost Accounting,ACCT,UG,3
+ACCT-350,Business Law I,ACCT,UG,3
+ACCT-351,Business Law II,ACCT,UG,3
+ACCT-352,Law and Social Issues in Business,ACCT,UG,3
+ACCT-363,Service Learning and Earned Income Tax Credit,ACCT,UG,3
+ACCT-364,Accounting in Practice,ACCT,UG,3
+ACCT-366,Independent Study,ACCT,UG,3
+ACCT-367,SEMINAR,ACCT,UG,3
+ACCT-395,Seminar: International Accounting,ACCT,UG,3
+ACCT-402,Big Data Technologies,ACCT,UG,3
+ACCT-405,Current Issues in Management Information Systems,ACCT,UG,3
+ACCT-410,Theory of External Reporting,ACCT,UG,3
+ACCT-413,Income Tax Accounting,ACCT,UG,3
+ACCT-414,Advanced Federal Taxation,ACCT,UG,3
+ACCT-415,Advanced Accounting,ACCT,UG,3
+ACCT-416,Fiduciary Income Tax,ACCT,UG,3
+ACCT-417,Auditing,ACCT,UG,3
+ACCT-418,Estate Planning,ACCT,UG,3
+ACCT-420,Theory of External Reporting and Applications,ACCT,UG,3
+ACCT-425,Strategic Information Systems and Accounting,ACCT,UG,3
+ACCT-433,Internal Auditing,ACCT,UG,3
+ACCT-516,Seminar-Intermediate Topics,ACCT,GR,3
+ACCT-566,Special Problem,ACCT,GR,3
+ACCT-567,Seminar,ACCT,GR,3
+ACCT-600,Financial Reporting and Analysis,ACCT,GR,3
+ACCT-601,Management Accounting and Control,ACCT,GR,3
+ACCT-602,Big Data Technologies,ACCT,GR,3
+ACCT-604,Database Design and Implementation,ACCT,GR,3
+ACCT-605,Current Issues In Emerging Technologies,ACCT,GR,3
+ACCT-606,"Object-oriented Systems Analysis, Design and Implementation",ACCT,GR,3
+ACCT-610,Financial Reporting I,ACCT,GR,3
+ACCT-611,Financial Reporting II,ACCT,GR,3
+ACCT-612,Financial Reporting III,ACCT,GR,3
+ACCT-613,Federal Taxation of Income and Property Transactions,ACCT,GR,3
+ACCT-614,Advanced Federal Taxation,ACCT,GR,3
+ACCT-615,Advanced Financial Reporting,ACCT,GR,3
+ACCT-617,"Auditing, Ethics, and Professional Responsibility",ACCT,GR,3
+ACCT-618,Estate Planning,ACCT,GR,3
+ACCT-620,Theory of External Reporting and Applications,ACCT,GR,3
+ACCT-625,Financial Statement Analysis,ACCT,GR,3
+ACCT-633,Internal Auditing,ACCT,GR,3
+ACCT-636,Advanced Topics in Auditing,ACCT,GR,3
+ACCT-644,Financial Analysis Using Big Data,ACCT,GR,3
+ACCT-647,Digital Transformation,ACCT,GR,3
+ACCT-653,Business Law for Accountants,ACCT,GR,3
+ACCT-657,Legal Issues for Entrepreneurs,ACCT,GR,3
+ACCT-666,SPECIAL PROBLEM,ACCT,GR,3
+ACCT-667,SEMINAR,ACCT,GR,3
+ACCT-680,Enterprise Resource Planning Systems,ACCT,GR,3
+ACCT-683,International Accounting,ACCT,GR,3
+ACCT-810,Theory of External Reporting,ACCT,GR,3
+ACCT-817,Information Technologies Audit,ACCT,GR,3
+ACCT-840,Contemporary Issues in Accounting,ACCT,GR,3
+ACCT-866,SPECIAL PROBLEM,ACCT,GR,3
+ACCT-867,SEMINAR,ACCT,GR,3
+ACCT-868,Research,ACCT,GR,3
+BINF-566,Special Problem,BINF,GR,3
+BINF-601,Introduction to Bio Data Sciences,BINF,GR,3
+BINF-605,Introduction to Biostatistics with Biomedical Applications,BINF,GR,3
+BINF-610,Applied Machine Learning,BINF,GR,3
+BINF-620,Big Data Analytics in Healthcare,BINF,GR,3
+BINF-640,Databases for Bioinformatics,BINF,GR,3
+BINF-644,Bioinformatics,BINF,GR,3
+BINF-650,Protein Modifications,BINF,GR,3
+BINF-666,Special Problem,BINF,GR,3
+BINF-667,SEMINAR,BINF,GR,3
+BINF-684,Introduction to Machine Learning,BINF,GR,3
+BINF-685,Modeling and Simulation for Bioinformatics Systems,BINF,GR,3
+BINF-689,Topics: Artificial Intelligence,BINF,GR,3
+BINF-690,Programming for Bioinformatics,BINF,GR,3
+BINF-694,Systems Biology I,BINF,GR,3
+BINF-695,Computational System Biology,BINF,GR,3
+BINF-815,"Ethics, Business and Communication",BINF,GR,3
+BINF-816,Systems Biology of Cells in Engineered Environments,BINF,GR,3
+BINF-864,Internship,BINF,GR,3
+BINF-865,Seminar,BINF,GR,3
+BINF-866,SPECIAL PROBLEM,BINF,GR,3
+BINF-867,Seminar,BINF,GR,3
+BINF-868,Research,BINF,GR,3
+BINF-869,Master’s Thesis,BINF,GR,3
+BINF-964,Pre-Candidacy Study,BINF,GR,3
+BINF-969,Doctoral Dissertation,BINF,GR,3
+BISC-100,Freshman Seminar,BISC,UG,3
+BISC-103,Principles of Biology,BISC,UG,3
+BISC-104,Principles of Biology with Laboratory,BISC,UG,3
+BISC-105,Human Heredity and Development,BISC,UG,3
+BISC-106,Elementary Human Physiology,BISC,UG,3
+BISC-107,Elementary Evolutionary Ecology,BISC,UG,3
+BISC-110,"Viruses, Genes and Cancer",BISC,UG,3
+BISC-113,General Biology Laboratory,BISC,UG,3
+BISC-115,Human Heredity and Development Laboratory,BISC,UG,3
+BISC-116,Elementary Human Physiology Laboratory,BISC,UG,3
+BISC-117,Elementary Evolutionary Ecology Laboratory,BISC,UG,3
+BISC-127,Environments and Cultures in Conflict,BISC,UG,3
+BISC-152,Biology of Human Sexuality,BISC,UG,3
+BISC-166,SPECIAL PROBLEM,BISC,UG,3
+BISC-167,SEMINAR,BISC,UG,3
+BISC-171,Microbiology in Modern Society,BISC,UG,3
+BISC-195,Biological Evolution,BISC,UG,3
+BISC-205,Biology for Health Sciences,BISC,UG,3
+BISC-207,Introductory Biology I,BISC,UG,3
+BISC-208,Introductory Biology II,BISC,UG,3
+BISC-217,Introductory Biology I Laboratory,BISC,UG,3
+BISC-218,Introductory Biology II Laboratory,BISC,UG,3
+BISC-266,SPECIAL PROBLEM,BISC,UG,3
+BISC-267,SEMINAR,BISC,UG,3
+BISC-276,Human Physiology,BISC,UG,3
+BISC-300,Introduction to Microbiology,BISC,UG,3
+BISC-302,General Ecology,BISC,UG,3
+BISC-303,Concepts in Genetics and Molecular Biology,BISC,UG,3
+BISC-305,Cell Biology,BISC,UG,3
+BISC-306,General Physiology,BISC,UG,3
+BISC-310,Introduction to Microbiology Laboratory,BISC,UG,3
+BISC-321,Environmental Biology,BISC,UG,3
+BISC-366,Independent Study,BISC,UG,3
+BISC-367,SEMINAR,BISC,UG,3
+BISC-400,Special Topics in Biology,BISC,UG,3
+BISC-566,SPECIAL PROBLEM,BISC,GR,3
+BISC-567,SEMINAR,BISC,GR,3
+BISC-602,Molecular Biology of Animal Cells,BISC,GR,3
+BISC-603,Introduction to Laboratory Instruction,BISC,GR,3
+BISC-605,Advanced Mammalian Physiology,BISC,GR,3
+BISC-606,Advanced Mammalian Physiology II,BISC,GR,3
+BISC-609,Molecular Biology of the Cell,BISC,GR,3
+BISC-610,Endocrine Physiology,BISC,GR,3
+BISC-612,Advanced Cell Biology,BISC,GR,3
+BISC-614,Topics in Development & Cancer,BISC,GR,3
+BISC-615,Developmental Biology,BISC,GR,3
+BISC-625,Cancer Biology,BISC,GR,3
+BISC-626,Advanced Neuroanatomy,BISC,GR,3
+BISC-627,Advanced Neurophysiology,BISC,GR,3
+BISC-632,Making Science Make Sense,BISC,GR,3
+BISC-635,Population Ecology,BISC,GR,3
+BISC-639,Developmental Neurobiology,BISC,GR,3
+BISC-643,Biological data analysis,BISC,GR,3
+BISC-650,Protein Structure in Cell Biology,BISC,GR,3
+BISC-654,Biochemical Genetics,BISC,GR,3
+BISC-656,Evolutionary Genetics,BISC,GR,3
+BISC-666,SPECIAL PROBLEM,BISC,GR,3
+BISC-667,SEMINAR,BISC,GR,3
+BISC-671,Cellular and Molecular Immunology,BISC,GR,3
+BISC-675,Cardiovascular Physiology,BISC,GR,3
+BISC-679,Virology,BISC,GR,3
+BISC-682,Bacterial Pathogens: Molecular Mechanisms,BISC,GR,3
+BISC-685,Microbial Genetics,BISC,GR,3
+BISC-690,Fundamentals of Pharmacology,BISC,GR,3
+BISC-693,Human Genetics,BISC,GR,3
+BISC-697,Evolutionary Bioinformatics,BISC,GR,3
+BISC-699,Neurogenetics of Behavior,BISC,GR,3
+BISC-815,"Ethics, Business and Communication",BISC,GR,3
+BISC-816,Systems Biology of Cells in Engineered Environments,BISC,GR,3
+BISC-822,Teaching Experience,BISC,GR,3
+BUAD-067,Seminar,BUAD,UG,3
+BUAD-100,Introduction to Business,BUAD,UG,3
+BUAD-110,Basics of Business,BUAD,UG,3
+BUAD-150,Business Basics for Entrepreneurs,BUAD,UG,3
+BUAD-166,SPECIAL PROBLEM,BUAD,UG,3
+BUAD-167,SEMINAR,BUAD,UG,3
+BUAD-210,Managerial Professionalism,BUAD,UG,3
+BUAD-266,SPECIAL PROBLEM,BUAD,UG,3
+BUAD-267,SEMINAR,BUAD,UG,3
+BUAD-301,Introduction to Marketing,BUAD,UG,3
+BUAD-302,Marketing Research,BUAD,UG,3
+BUAD-306,Introduction to Operations Management,BUAD,UG,3
+BUAD-309,Organizational Behavior,BUAD,UG,3
+BUAD-310,Developing your Managerial Persona,BUAD,UG,3
+BUAD-317,Spa/Wellness Management&Entrepreneurship,BUAD,UG,3
+BUAD-318,Special Topics in Marketing,BUAD,UG,3
+BUAD-345,Decision Analytics and Visualization,BUAD,UG,3
+BUAD-346,Analytical Decision Making,BUAD,UG,3
+BUAD-350,Introduction to Entrepreneurship,BUAD,UG,3
+BUAD-351,Entrepreneurial Marketing,BUAD,UG,3
+BUAD-355,Ecotourism Entrepreneurship,BUAD,UG,3
+BUAD-363,Entrepreneurship in Practice: Internship,BUAD,UG,3
+BUAD-364,Business Administration in Practice,BUAD,UG,3
+BUAD-366,Independent Study,BUAD,UG,3
+BUAD-367,SEMINAR,BUAD,UG,3
+BUAD-383,Seminar on International Business,BUAD,UG,3
+BUAD-384,GLOBALIZATION AND BUSINESS,BUAD,UG,3
+BUAD-386,Managing the Global Enterprise,BUAD,UG,3
+BUAD-391,Seminar on International Management,BUAD,UG,3
+BUAD-393,Seminar on International Marketing Management,BUAD,UG,3
+BUAD-394,Seminar on International Operations Management,BUAD,UG,3
+BUAD-410,Launching Your Managerial Career,BUAD,UG,3
+BUAD-414,Navigating Global Dynamics: Perspectives and Principles,BUAD,UG,3
+BUAD-415,Navigating Global Dynamics: Practices and Processes,BUAD,UG,3
+BUAD-421,Human Resource Management,BUAD,UG,3
+BUAD-566,SPECIAL PROBLEM,BUAD,GR,3
+BUAD-567,SEMINAR,BUAD,GR,3
+BUAD-611,Globalization and Business,BUAD,GR,3
+BUAD-620,Fundamentals of Analytics,BUAD,GR,3
+BUAD-621,Decision Analytics and Visualization,BUAD,GR,3
+BUAD-622,Optimization and Spreadsheet Modelling,BUAD,GR,3
+BUAD-625,Business Analytics Capstone,BUAD,GR,3
+BUAD-631,Operations Management and Management Science,BUAD,GR,3
+BUAD-640,Ethical Issues in Domestic and Global Business Environments,BUAD,GR,3
+BUAD-641,Managing the Global Enterprise,BUAD,GR,3
+BUAD-643,Special Topics in Global Business,BUAD,GR,3
+BUAD-648,Navigating Global Dynamics: Perspectives and Principles,BUAD,GR,3
+BUAD-651,Generative AI for Business Analytics,BUAD,GR,3
+BUAD-664,Internship,BUAD,GR,3
+BUAD-666,SPECIAL PROBLEM,BUAD,GR,3
+BUAD-667,SEMINAR,BUAD,GR,3
+BUAD-670,"Managing People, Teams, and Organizations",BUAD,GR,3
+BUAD-671,Managing for Creativity and Innovation,BUAD,GR,3
+BUAD-672,Strategic Leadership and Change,BUAD,GR,3
+BUAD-673,Advanced Topics in Leadership and Teams,BUAD,GR,3
+BUAD-674,Selected Topics in Management and Leadership,BUAD,GR,3
+BUAD-677,Skills for Change Agents,BUAD,GR,3
+BUAD-678,Leading Across Boundaries,BUAD,GR,3
+BUAD-679,Negotiation and Conflict Resolution,BUAD,GR,3
+BUAD-680,Marketing Management,BUAD,GR,3
+BUAD-681,Research Methods for Marketing Decisions,BUAD,GR,3
+BUAD-682,International Marketing Management,BUAD,GR,3
+BUAD-683,Product and Price Management,BUAD,GR,3
+BUAD-684,Special Topics in Marketing,BUAD,GR,3
+BUAD-685,Marketing Channels,BUAD,GR,3
+BUAD-686,Advertising Strategy,BUAD,GR,3
+BUAD-687,Buyer Behavior,BUAD,GR,3
+BUAD-688,Advanced Marketing Management and Strategy Seminar,BUAD,GR,3
+BUAD-689,Industrial Marketing,BUAD,GR,3
+BUAD-690,Corporate Strategy,BUAD,GR,3
+CHEM-100,Chemistry and Human Environment,CHEM,UG,3
+CHEM-101,General Chemistry,CHEM,UG,3
+CHEM-102,General Chemistry,CHEM,UG,3
+CHEM-103,General Chemistry,CHEM,UG,3
+CHEM-104,General Chemistry,CHEM,UG,3
+CHEM-106,Elementary Bioorganic Chemistry,CHEM,UG,3
+CHEM-107,General Chemistry For Life Sciences I,CHEM,UG,3
+CHEM-108,General Chemistry for Life Sciences II,CHEM,UG,3
+CHEM-111,General Chemistry,CHEM,UG,3
+CHEM-112,General Chemistry,CHEM,UG,3
+CHEM-115,Introduction to Chemical Sciences,CHEM,UG,3
+CHEM-120,Quantitative Chemistry,CHEM,UG,3
+CHEM-131,General Chemistry Laboratory,CHEM,UG,3
+CHEM-132,General Chemistry Laboratory,CHEM,UG,3
+CHEM-133,General Chemistry Laboratory,CHEM,UG,3
+CHEM-134,General Chemistry Laboratory,CHEM,UG,3
+CHEM-164,Introduction to the Department of Chemistry and Biochemistry,CHEM,UG,3
+CHEM-166,Special Problem,CHEM,UG,3
+CHEM-167,SEMINAR,CHEM,UG,3
+CHEM-210,Science of Color Phenomena,CHEM,UG,3
+CHEM-213,Elementary Organic Chemistry,CHEM,UG,3
+CHEM-214,Elementary Biochemistry,CHEM,UG,3
+CHEM-215,Elementary Organic Chemistry Laboratory,CHEM,UG,3
+CHEM-216,Elementary Biochemistry Laboratory,CHEM,UG,3
+CHEM-220,Analytical Chemistry I,CHEM,UG,3
+CHEM-221,Analytical Chemistry Laboratory I,CHEM,UG,3
+CHEM-266,SPECIAL PROBLEM,CHEM,UG,3
+CHEM-267,SEMINAR,CHEM,UG,3
+CHEM-321,Organic Chemistry I,CHEM,UG,3
+CHEM-322,Organic Chemistry II,CHEM,UG,3
+CHEM-325,Organic Chemistry Laboratory I,CHEM,UG,3
+CHEM-326,Organic Chemistry Laboratory II,CHEM,UG,3
+CHEM-331,Organic Chemistry,CHEM,UG,3
+CHEM-332,Organic Chemistry,CHEM,UG,3
+CHEM-333,Organic Chemistry Majors Laboratory I,CHEM,UG,3
+CHEM-527,Introductory Biochemistry,CHEM,GR,3
+CHEM-566,SPECIAL PROBLEM,CHEM,GR,3
+CHEM-567,SEMINAR,CHEM,GR,3
+CHEM-601,Introduction to Laboratory Instruction,CHEM,GR,3
+CHEM-603,Practical NMR Spectroscopy,CHEM,GR,3
+CHEM-604,Practical Mass Spectrometry,CHEM,GR,3
+CHEM-605,Spectroscopy of Organic Compounds,CHEM,GR,3
+CHEM-606,Introduction to Research at the Chemistry/Biology Interface,CHEM,GR,3
+CHEM-608,Environmental Soil Chemistry,CHEM,GR,3
+CHEM-620,Analytical Spectroscopy,CHEM,GR,3
+CHEM-621,Chemical Separations,CHEM,GR,3
+CHEM-622,Electroanalytical Chemistry,CHEM,GR,3
+CHEM-623,Chemometrics,CHEM,GR,3
+CHEM-624,Principles of Mass Spectrometry,CHEM,GR,3
+CHEM-625,Heterogeneous Atmospheric Chemistry,CHEM,GR,3
+CHEM-628,Chemical Sensors,CHEM,GR,3
+CHEM-629,Surface Chemistry and Analysis,CHEM,GR,3
+CHEM-633,Advanced Organic Chemistry: Physical,CHEM,GR,3
+CHEM-634,Advanced Organic Chemistry: Synthesis and Reactivity,CHEM,GR,3
+CHEM-635,Organic Reactivity and Total Synthesis,CHEM,GR,3
+CHEM-636,Chemical Biology and Bioorganic Chemistry,CHEM,GR,3
+CHEM-637,Practical Molecular Spectroscopy,CHEM,GR,3
+CHEM-641,Biochemistry,CHEM,GR,3
+CHEM-642,Biochemistry,CHEM,GR,3
+CHEM-643,Advanced Biochemistry,CHEM,GR,3
+CHEM-644,Mechanisms of Enzyme Catalysis,CHEM,GR,3
+CHEM-645,Protein Structure and Function,CHEM,GR,3
+CHEM-646,DNA-Protein Interactions,CHEM,GR,3
+CHEM-647,Mechanisms of Protein Function and Signaling,CHEM,GR,3
+CHEM-648,Protein Assemblies and Molecular Machines,CHEM,GR,3
+CHEM-649,Molecular Biophysics,CHEM,GR,3
+CHEM-650,Protein Structure in Cell Biology,CHEM,GR,3
+CHEM-651,Advanced Inorganic Chemistry I,CHEM,GR,3
+CHEM-652,Organometallic Chemistry,CHEM,GR,3
+CHEM-653,Bioinorganic Chemistry,CHEM,GR,3
+CISC-101,Principles of Computing,CISC,UG,3
+CISC-103,Introduction to Computer Science with Web Applications,CISC,UG,3
+CISC-104,Introduction to Programming in Games,CISC,UG,3
+CISC-106,General Computer Science for Engineers,CISC,UG,3
+CISC-108,Introduction to Computer Science I,CISC,UG,3
+CISC-166,SPECIAL PROBLEM,CISC,UG,3
+CISC-167,SEMINAR,CISC,UG,3
+CISC-181,Introduction to Computer Science II,CISC,UG,3
+CISC-187,Vertically Integrated Projects I,CISC,UG,3
+CISC-204,Introduction to Game Development,CISC,UG,3
+CISC-210,Introduction to Systems Programming,CISC,UG,3
+CISC-220,Data Structures,CISC,UG,3
+CISC-250,Business Telecommunication Networks,CISC,UG,3
+CISC-260,Machine Organization and Assembly Language,CISC,UG,3
+CISC-266,SPECIAL PROBLEM,CISC,UG,3
+CISC-267,SEMINAR,CISC,UG,3
+CISC-275,Introduction to Software Engineering,CISC,UG,3
+CISC-287,Vertically Integrated Projects II,CISC,UG,3
+CISC-303,Automata Theory,CISC,UG,3
+CISC-304,Logic for Programming,CISC,UG,3
+CISC-320,Introduction to Algorithms,CISC,UG,3
+CISC-334,Development of Assistive Technology,CISC,UG,3
+CISC-355,"Computers, Ethics and Society",CISC,UG,3
+CISC-356,Intellectual Property in the Digital Age,CISC,UG,3
+CISC-357,Engaging Youth in Computing,CISC,UG,3
+CISC-358,Introduction to Computer Science Research,CISC,UG,3
+CISC-360,Computer Architecture,CISC,UG,3
+CISC-361,Operating Systems,CISC,UG,3
+CISC-362,Cloud Computing and Big Data,CISC,UG,3
+CISC-366,Independent Study,CISC,UG,3
+CISC-367,SEMINAR,CISC,UG,3
+CISC-372,Parallel Computing,CISC,UG,3
+CISC-374,Educational Game Development,CISC,UG,3
+CISC-375,DevOps & Software Engineering,CISC,UG,3
+CISC-387,Vertically Integrated Projects III,CISC,UG,3
+CISC-567,SEMINAR,CISC,GR,3
+CISC-601,Elements of the Theory of Computation,CISC,GR,3
+CISC-604,Logic in Computer Science,CISC,GR,3
+CISC-605,Computer Science Principles,CISC,GR,3
+CISC-606,Foundations in Programming,CISC,GR,3
+CISC-611,Software Process Management,CISC,GR,3
+CISC-612,Software Design,CISC,GR,3
+CISC-613,Software Requirements Engineering,CISC,GR,3
+CISC-614,Formal Methods in Software Engineering,CISC,GR,3
+CISC-615,Software Testing and Maintenance,CISC,GR,3
+CISC-621,Algorithm Design and Analysis,CISC,GR,3
+CISC-636,Computational Biology and Bioinformatics,CISC,GR,3
+CISC-637,Database Systems,CISC,GR,3
+CISC-640,Computer Graphics,CISC,GR,3
+CISC-642,Introduction to Computer Vision,CISC,GR,3
+CISC-649,Topics in Computer Applications,CISC,GR,3
+CISC-650,Computer Networks II,CISC,GR,3
+CISC-653,Simulation of Computer Networks,CISC,GR,3
+CISC-655,Communication Skills for CS Researchers,CISC,GR,3
+CISC-659,"Topics in Communications, Distributed Computing and Networks",CISC,GR,3
+CISC-662,Computer Systems: Architecture,CISC,GR,3
+CISC-663,Operating Systems,CISC,GR,3
+CISC-664,Introduction to Network Security,CISC,GR,3
+CISC-665,Introduction to Cybersecurity,CISC,GR,3
+CISC-666,SPECIAL PROBLEM,CISC,GR,3
+CISC-667,SEMINAR,CISC,GR,3
+CISC-669,Computer Security Principles and Practice,CISC,GR,3
+CISC-672,Compiler Construction,CISC,GR,3
+CISC-675,Software Engineering Principles and Practices,CISC,GR,3
+CISC-681,Artificial Intelligence,CISC,GR,3
+CISC-682,Introduction to Human-Computer Interaction,CISC,GR,3
+CISC-683,Introduction to Data Mining,CISC,GR,3
+CISC-684,Introduction to Machine Learning,CISC,GR,3
+CISC-685,Modeling and Simulation for Bioinformatics Systems,CISC,GR,3
+CISC-686,Introduction to Multi-Agent Systems,CISC,GR,3
+ECON-100,Economic Issues and Policies,ECON,UG,3
+ECON-101,Introduction to Microeconomics,ECON,UG,3
+ECON-102,Civics and Economics for Teachers,ECON,UG,3
+ECON-103,Introduction to Macroeconomics,ECON,UG,3
+ECON-166,SPECIAL PROBLEM,ECON,UG,3
+ECON-167,SEMINAR,ECON,UG,3
+ECON-251,Managerial Economics,ECON,UG,3
+ECON-255,Intermed. Microeconomics Public Policy,ECON,UG,3
+ECON-266,SPECIAL PROBLEM,ECON,UG,3
+ECON-267,SEMINAR,ECON,UG,3
+ECON-300,Intermediate Microeconomic Theory without Calculus,ECON,UG,3
+ECON-301,Intermediate Microeconomic Theory with Calculus,ECON,UG,3
+ECON-303,Intermediate Macroeconomic Theory without Calculus,ECON,UG,3
+ECON-304,Intermediate Macroeconomic Theory with Calculus,ECON,UG,3
+ECON-306,Data Analysis for Economics and Business,ECON,UG,3
+ECON-308,Banking and Monetary Policy,ECON,UG,3
+ECON-311,Economics of Developing Countries,ECON,UG,3
+ECON-315,Economic History of Colonial America,ECON,UG,3
+ECON-316,Economic History of the United States,ECON,UG,3
+ECON-317,Latin American Economics,ECON,UG,3
+ECON-320,Energy Economics,ECON,UG,3
+ECON-321,Economics for the Elementary Classroom,ECON,UG,3
+ECON-332,Economics of Government Spending and Taxation,ECON,UG,3
+ECON-340,International Economics,ECON,UG,3
+ECON-342,Studies in Intl Economics,ECON,UG,3
+ECON-343,Environmental Economics,ECON,UG,3
+ECON-360,Government Regulation of Business,ECON,UG,3
+ECON-364,Economics in Practice,ECON,UG,3
+ECON-366,Independent Study,ECON,UG,3
+ECON-367,SEMINAR,ECON,UG,3
+ECON-370,Economics of Artificial Intelligence,ECON,UG,3
+ECON-381,Economics of Human Resources,ECON,UG,3
+ECON-385,Women and the Economy,ECON,UG,3
+ECON-393,Urban Economics,ECON,UG,3
+ECON-406,Economics of Information and Uncertainty,ECON,UG,3
+ECON-530,Application of Mathematics in Economics,ECON,GR,3
+ECON-566,SPECIAL PROBLEM,ECON,GR,3
+ECON-567,SEMINAR,ECON,GR,3
+ECON-603,Economic Analysis for Business Policy,ECON,GR,3
+ECON-606,Microeconomics For Secondary Educators,ECON,GR,3
+ECON-622,Applied Econometrics I,ECON,GR,3
+ECON-626,Generative AI for Data Visualization,ECON,GR,3
+ECON-666,SPECIAL PROBLEM,ECON,GR,3
+ECON-667,SEMINAR,ECON,GR,3
+ECON-668,Research,ECON,GR,3
+ECON-670,Benefit-Cost Analysis,ECON,GR,3
+ECON-671,Microeconomics for Economic Educators,ECON,GR,3
+ECON-672,Macroeconomics for Economic Educators,ECON,GR,3
+ECON-674,Curriculum Strategies for Economic Educators,ECON,GR,3
+ECON-675,Economics of Natural Resources,ECON,GR,3
+ECON-676,Environmental Economics,ECON,GR,3
+ECON-677,Practicum in Economic Education,ECON,GR,3
+ECON-678,Monetary and International Trade Theories for Economic Educators,ECON,GR,3
+ECON-679,Contemporary Issues for Economic Educators,ECON,GR,3
+ECON-811,Microeconomic Theory I,ECON,GR,3
+ECON-812,Macroeconomic Theory I,ECON,GR,3
+ECON-813,Microeconomic Theory II,ECON,GR,3
+ECON-814,Macroeconomic Theory II,ECON,GR,3
+ECON-820,Economics of Education Policy,ECON,GR,3
+ECON-822,Econometric Theory I,ECON,GR,3
+ECON-823,Econometric Theory II,ECON,GR,3
+ECON-824,Econometrics of Cross-Section and Panel Data,ECON,GR,3
+ECON-825,Time-series Econometrics,ECON,GR,3
+ECON-826,Topics In Dynamic Modeling,ECON,GR,3
+ECON-829,Economic Education Curricula,ECON,GR,3
+ECON-841,International Trade and Development,ECON,GR,3
+ECON-845,Development Economics,ECON,GR,3
+ECON-846,Topics in Development Economics,ECON,GR,3
+ECON-850,Dissertation Workshop,ECON,GR,3
+ECON-852,Monetary Economics,ECON,GR,3
+FINC-100,Financial Literacy for Life,FINC,UG,3
+FINC-120,Investment Club,FINC,UG,3
+FINC-166,SPECIAL PROBLEM,FINC,UG,3
+FINC-167,SEMINAR,FINC,UG,3
+FINC-200,Fundamentals of Finance,FINC,UG,3
+FINC-266,Special Problem,FINC,UG,3
+FINC-267,SEMINAR,FINC,UG,3
+FINC-311,Principles of Finance,FINC,UG,3
+FINC-312,Intermediate Financial Management,FINC,UG,3
+FINC-314,Investments,FINC,UG,3
+FINC-317,Real Estate Finance,FINC,UG,3
+FINC-320,Principles of Financial Planning,FINC,UG,3
+FINC-321,Insurance Planning,FINC,UG,3
+FINC-322,Retirement Planning,FINC,UG,3
+FINC-330,Fundamentals of Fintech,FINC,UG,3
+FINC-354,Special Topics in Finance,FINC,UG,3
+FINC-364,Finance in Practice,FINC,UG,3
+FINC-366,Independent Study,FINC,UG,3
+FINC-367,SEMINAR,FINC,UG,3
+FINC-392,Seminar on International Financial Management,FINC,UG,3
+FINC-409,Fixed Income Securities,FINC,UG,3
+FINC-412,Capital Markets & Financial Institutions,FINC,UG,3
+FINC-413,Capstone: Advanced Corporate Finance,FINC,UG,3
+FINC-414,Bank Management,FINC,UG,3
+FINC-415,International Finance,FINC,UG,3
+FINC-416,Derivative Securities and Risk Management,FINC,UG,3
+FINC-417,Real Estate Finance,FINC,UG,3
+FINC-418,Seminar in Corporate Governance,FINC,UG,3
+FINC-419,Financial Modeling and Valuation,FINC,UG,3
+FINC-420,Meet The Market,FINC,UG,3
+FINC-425,Financial Plan Development,FINC,UG,3
+FINC-426,Trust Management Symposium,FINC,UG,3
+FINC-430,Fintech and Data Science for Finance,FINC,UG,3
+FINC-439,Current Topics in Fintech,FINC,UG,3
+FINC-459,Startup Finance & Raising Capital for Entrepreneurs,FINC,UG,3
+FINC-567,SEMINAR,FINC,GR,3
+FINC-609,Fixed Income Securities,FINC,GR,3
+FINC-612,Capital Markets & Financial Institutions,FINC,GR,3
+FINC-615,International Finance,FINC,GR,3
+FINC-616,Derivative Securities and Risk Management,FINC,GR,3
+FINC-619,Financial Modeling and Valuation,FINC,GR,3
+FINC-620,Meet The Market,FINC,GR,3
+FINC-630,Fintech and Data Science for Finance,FINC,GR,3
+FINC-642,Foundations of Financial Economics and Machine Learning,FINC,GR,3
+FINC-650,Financial Management,FINC,GR,3
+FINC-651,Corporate Financial Analysis,FINC,GR,3
+FINC-652,Investment Analysis and Portfolio Management,FINC,GR,3
+FINC-653,Seminar in Finance,FINC,GR,3
+FINC-654,Special Topics in Finance,FINC,GR,3
+FINC-658,Corporate Governance,FINC,GR,3
+FINC-659,Startup Finance & Raising Capital for Entrepreneurs,FINC,GR,3
+FINC-666,SPECIAL PROBLEM,FINC,GR,3
+FINC-667,SEMINAR,FINC,GR,3
+FINC-670,Theory of Financial Decision Making,FINC,GR,3
+FINC-671,Workshop in Finance: Seminar,FINC,GR,3
+FINC-672,Financial Data Analytics,FINC,GR,3
+FINC-841,Financial Services Markets,FINC,GR,3
+FINC-842,Financial Economics and Machine Learning,FINC,GR,3
+FINC-866,Special Problem,FINC,GR,3
+FINC-867,SEMINAR,FINC,GR,3
+FINC-868,RESEARCH,FINC,GR,3
+MATH-010,Intermediate Algebra,MATH,UG,3
+MATH-113,Contemporary Mathematics,MATH,UG,3
+MATH-114,College Mathematics and Statistics,MATH,UG,3
+MATH-115,Pre-Calculus,MATH,UG,3
+MATH-117,Pre-Calculus for Scientists and Engineers,MATH,UG,3
+MATH-166,SPECIAL PROBLEM,MATH,UG,3
+MATH-167,SEMINAR,MATH,UG,3
+MATH-201,Introduction to Statistical Methods I,MATH,UG,3
+MATH-202,Introduction to Statistical Methods II,MATH,UG,3
+MATH-205,Statistical Methods,MATH,UG,3
+MATH-208,"Integrated Mathematics, Science and Computer Learning",MATH,UG,3
+MATH-210,Discrete Mathematics I,MATH,UG,3
+MATH-217,Algebra for Middle School Teachers,MATH,UG,3
+MATH-219,Data Science I,MATH,UG,3
+MATH-221,Calculus I,MATH,UG,3
+MATH-230,Finite Mathematics with Applications,MATH,UG,3
+MATH-231,Integrated Calculus IA,MATH,UG,3
+MATH-232,Integrated Calculus IB,MATH,UG,3
+MATH-240,Geometry and Measurement for Middle School Teachers,MATH,UG,3
+MATH-241,Analytic Geometry and Calculus A,MATH,UG,3
+MATH-242,Analytic Geometry and Calculus B,MATH,UG,3
+MATH-243,Analytic Geometry and Calculus C,MATH,UG,3
+MATH-245,An Introduction to Proof,MATH,UG,3
+MATH-247,Introduction to Actuarial Mathematics,MATH,UG,3
+MATH-251,Mathematics for K-8 Teachers: Number and Operations,MATH,UG,3
+MATH-252,Mathematics for K-8 Teachers: Rational Numbers and Probability,MATH,UG,3
+MATH-253,"Mathematics for K-8 Teachers: Geometry, Algebra and Measurement",MATH,UG,3
+MATH-260,Integrative Seminar,MATH,UG,3
+MATH-266,SPECIAL PROBLEM,MATH,UG,3
+MATH-267,SEMINAR,MATH,UG,3
+MATH-279,Problem Solving Strategies,MATH,UG,3
+MATH-302,Ordinary Differential Equations,MATH,UG,3
+MATH-305,"Applied Mathematics for Biomed, Chem and Biomol Engg",MATH,UG,3
+MATH-308,Historical Development of Mathematical Concepts and Ideas,MATH,UG,3
+MATH-315,Discrete Mathematics II,MATH,UG,3
+MATH-503,Advanced Calculus and Nonlinear Dynamics,MATH,GR,3
+MATH-508,Introduction to Complex Variables and Applications,MATH,GR,3
+MATH-512,Contemporary Applications of Mathematics,MATH,GR,3
+MATH-518,"Mathematical Models, Modeling, and Applications",MATH,GR,3
+MATH-529,Fundamentals of Optimization,MATH,GR,3
+MATH-530,Application of Mathematics in Economics,MATH,GR,3
+MATH-535,Introduction to Partial Differential Equations,MATH,GR,3
+MATH-540,College Geometry: A Historical Approach,MATH,GR,3
+MATH-549,Coding Theory and Cryptography,MATH,GR,3
+MATH-566,SPECIAL PROBLEM,MATH,GR,3
+MATH-567,SEMINAR,MATH,GR,3
+MATH-600,Fundamentals of Real Analysis,MATH,GR,3
+MATH-602,"Measure, Integration and Complex Variables",MATH,GR,3
+MATH-611,Introduction to Numerical Discretization,MATH,GR,3
+MATH-612,Computational Methods for Equation Solving and Function Min,MATH,GR,3
+MATH-616,Modeling in Applied Mathematics,MATH,GR,3
+MATH-617,Techniques of Applied Mathematics,MATH,GR,3
+MATH-620,Introduction to Mathematical Finance,MATH,GR,3
+MATH-630,Probability Theory and Applications,MATH,GR,3
+MATH-631,Introduction to Stochastic Processes,MATH,GR,3
+MATH-637,Mathematical Techniques in Data Science,MATH,GR,3
+MATH-650,Algebra I,MATH,GR,3
+MATH-660,Introduction to Systems Biology,MATH,GR,3
+MATH-666,SPECIAL PROBLEM,MATH,GR,3
+MATH-667,SEMINAR,MATH,GR,3
+MATH-668,Seminars-Colloquia,MATH,GR,3
+MATH-672,Vector Spaces,MATH,GR,3
+MATH-688,Combinatorics and Graph Theory I,MATH,GR,3
+MATH-806,Functional Analysis,MATH,GR,3
+MATH-810,Asymptotic and Perturbation Methods,MATH,GR,3
+MATH-817,Introduction to Numerical Methods for Partial Differential Equations,MATH,GR,3
+MATH-829,Topics in Mathematics,MATH,GR,3
+MATH-835,Evolutionary Partial Differential Equations,MATH,GR,3
+MATH-836,Elliptic Partial Differential Equations,MATH,GR,3
+MATH-838,Finite Element and Boundary Element Methods,MATH,GR,3
+MISY-160,Business Computing Fundamentals,MISY,UG,3
+MISY-166,SPECIAL PROBLEM,MISY,UG,3
+MISY-225,Introduction to Programming,MISY,UG,3
+MISY-250,Data Communication and Network Infrastructure,MISY,UG,3
+MISY-261,Introduction to Management Information Systems,MISY,UG,3
+MISY-262,Fundamentals of Business Analytics,MISY,UG,3
+MISY-266,SPECIAL PROBLEM,MISY,UG,3
+MISY-267,Seminar,MISY,UG,3
+MISY-305,Information Security and Risk Management,MISY,UG,3
+MISY-330,Database Management,MISY,UG,3
+MISY-331,Machine Learning for Business,MISY,UG,3
+MISY-350,Business Application Development,MISY,UG,3
+MISY-360,Agile Development and User Experience,MISY,UG,3
+MISY-364,Management Information Systems in Practice,MISY,UG,3
+MISY-366,Independent Study,MISY,UG,3
+MISY-367,SEMINAR,MISY,UG,3
+MISY-402,Big Data Technologies,MISY,UG,3
+MISY-403,Cybersecurity Management,MISY,UG,3
+MISY-405,Current Issues in Management Information Systems,MISY,UG,3
+MISY-407,Data-Driven Causal Inference,MISY,UG,3
+MISY-408,Data & Analytics,MISY,UG,3
+MISY-427,Information Technology and Organizational Effectiveness,MISY,UG,3
+MISY-430,Analyzing and Designing IT Solutions,MISY,UG,3
+MISY-431,MIS Capstone: IT Project Management,MISY,UG,3
+MISY-432,MIS Capstone: Projects,MISY,UG,3
+MISY-435,Advanced Data Technologies,MISY,UG,3
+MISY-436,Unstructured Data Analytics,MISY,UG,3
+MISY-441,Data Mining for Business Analytics,MISY,UG,3
+MISY-445,Business Analytics Capstone,MISY,UG,3
+MISY-447,Digital Transformation,MISY,UG,3
+MISY-448,Business Intelligence and Analytics,MISY,UG,3
+MISY-450,Enterprise Architecture,MISY,UG,3
+MISY-455,Ethics in Technology Management,MISY,UG,3
+MISY-465,Introduction to Cybersecurity,MISY,UG,3
+MISY-466,Independent Study,MISY,UG,3
+MISY-603,Cybersecurity Management,MISY,GR,3
+MISY-604,Database Design and Implementation,MISY,GR,3
+MISY-605,Current Issues In Emerging Technologies,MISY,GR,3
+MISY-606,"Object-oriented Systems Analysis, Design and Implementation",MISY,GR,3
+MISY-607,Data-Driven Causal Inference,MISY,GR,3
+MISY-608,Data and Analytics,MISY,GR,3
+MISY-610,Telecommunications and Networking,MISY,GR,3
+MISY-615,Enterprise Architecture and Business Strategy,MISY,GR,3
+MISY-625,Business Analytics Capstone,MISY,GR,3
+MISY-627,Information Technology and Organizational Effectiveness,MISY,GR,3
+MISY-630,Analyzing and Designing IT Solutions,MISY,GR,3
+MISY-635,Visual Analytics,MISY,GR,3
+MISY-636,Unstructured Data Analytics,MISY,GR,3
+MISY-640,Project Management and Costing,MISY,GR,3
+MISY-641,Data Mining for Business Analytics,MISY,GR,3
+MISY-647,Digital Transformation,MISY,GR,3
+MISY-648,Business Intelligence and Analytics,MISY,GR,3
+MISY-650,Security and Control,MISY,GR,3
+MISY-655,Ethics in Technology Management,MISY,GR,3
+MISY-662,Fundamentals of Business Analytics,MISY,GR,3
+MISY-665,Introduction to Cybersecurity,MISY,GR,3
+MISY-666,Special Problem,MISY,GR,3
+MISY-667,SEMINAR,MISY,GR,3
+MISY-670,Introduction to Generative AI,MISY,GR,3
+MISY-675,Dashboard Design and Storytelling,MISY,GR,3
+MISY-680,Enterprise Resource Planning Systems,MISY,GR,3
+MISY-685,Introduction to Business Programming,MISY,GR,3
+MISY-686,SAS for Business Analytics,MISY,GR,3
+MISY-831,Enterprise Information Systems,MISY,GR,3
+MISY-866,SPECIAL PROBLEM,MISY,GR,3
+MISY-867,SEMINAR,MISY,GR,3
+STAT-166,SPECIAL PROBLEM,STAT,UG,3
+STAT-167,SEMINAR,STAT,UG,3
+STAT-200,Basic Statistical Practice,STAT,UG,3
+STAT-266,Special Problem,STAT,UG,3
+STAT-267,SEMINAR,STAT,UG,3
+STAT-366,Independent Study,STAT,UG,3
+STAT-367,SEMINAR,STAT,UG,3
+STAT-408,Statistical Research Methods,STAT,UG,3
+STAT-409,Regression and Experimental Design,STAT,UG,3
+STAT-464,Internship,STAT,UG,3
+STAT-466,Independent Study,STAT,UG,3
+STAT-467,SEMINAR,STAT,UG,3
+STAT-468,Senior Research Project,STAT,UG,3
+STAT-470,Probability Theory in Statistics,STAT,UG,3
+STAT-471,Mathematical Statistics,STAT,UG,3
+STAT-474,Statistical Programming,STAT,UG,3
+STAT-475,Environmental Statistics,STAT,UG,3
+STAT-566,SPECIAL PROBLEM,STAT,GR,3
+STAT-567,SEMINAR,STAT,GR,3
+STAT-601,Probability Theory for Operations Research and Statistics,STAT,GR,3
+STAT-602,Mathematical Statistics,STAT,GR,3
+STAT-603,Statistical Computing and Optimization,STAT,GR,3
+STAT-608,Statistical Research Methods,STAT,GR,3
+STAT-609,Regression and Experimental Design,STAT,GR,3
+STAT-611,Regression Analysis,STAT,GR,3
+STAT-612,Advanced Regression Techniques,STAT,GR,3
+STAT-613,Applied Multivariate Statistics,STAT,GR,3
+STAT-615,Design and Analysis of Experiments,STAT,GR,3
+STAT-616,Advanced Design of Experiments,STAT,GR,3
+STAT-617,Multivariate Methods and Statistical Learning,STAT,GR,3
+STAT-619,Time Series Analysis,STAT,GR,3
+STAT-621,Survival Analysis,STAT,GR,3
+STAT-622,Statistical Network Analysis,STAT,GR,3
+STAT-631,Introduction to Python,STAT,GR,3
+STAT-632,Introduction to JMP Software,STAT,GR,3
+STAT-633,Math Review for Statistics,STAT,GR,3
+STAT-634,Introduction to R,STAT,GR,3
+STAT-640,Statistical Consulting,STAT,GR,3
+STAT-641,Professional Statistical Practice,STAT,GR,3
+STAT-656,Biostatistics,STAT,GR,3
+STAT-657,Statistics for Earth Sciences,STAT,GR,3
+STAT-659,Spatial Statistics,STAT,GR,3
+STAT-664,Statistics Internship,STAT,GR,3
+STAT-666,Independent Study,STAT,GR,3
+STAT-667,SEMINAR,STAT,GR,3
+STAT-668,Research Project,STAT,GR,3
+STAT-669,Masters Thesis,STAT,GR,3
+STAT-670,Probability Theory in Statistics,STAT,GR,3
+STAT-671,Mathematical Statistics,STAT,GR,3
+STAT-672,Python and Database Management,STAT,GR,3
+STAT-673,Econometrics and Statistics for Economics Research,STAT,GR,3
+STAT-674,Applied Data Base Management,STAT,GR,3

@@ -1,0 +1,632 @@
+[
+  {
+    "skill_id": "SK_PYTHON",
+    "name": "Python Programming",
+    "aliases": [
+      "python",
+      "py"
+    ],
+    "category": "Programming",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_JAVA",
+    "name": "Java Programming",
+    "aliases": [
+      "java"
+    ],
+    "category": "Programming",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_CPP",
+    "name": "C/C++ Programming",
+    "aliases": [
+      "c++",
+      "cpp"
+    ],
+    "category": "Programming",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_SQL",
+    "name": "SQL",
+    "aliases": [
+      "structured query language"
+    ],
+    "category": "Data",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ]
+  },
+  {
+    "skill_id": "SK_DB_DESIGN",
+    "name": "Database Design",
+    "aliases": [
+      "data modeling",
+      "schema design"
+    ],
+    "category": "Data Engineering",
+    "source_refs": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ]
+  },
+  {
+    "skill_id": "SK_ETL",
+    "name": "ETL Pipelines",
+    "aliases": [
+      "data pipelines",
+      "elt"
+    ],
+    "category": "Data Engineering",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ]
+  },
+  {
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "name": "Data Warehousing",
+    "aliases": [
+      "warehouse",
+      "analytics warehouse"
+    ],
+    "category": "Data Engineering",
+    "source_refs": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS"
+    ]
+  },
+  {
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "name": "Distributed Data Processing",
+    "aliases": [
+      "spark",
+      "distributed data"
+    ],
+    "category": "Data Engineering",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_APIS",
+    "name": "API Design and Integration",
+    "aliases": [
+      "rest api",
+      "http api"
+    ],
+    "category": "Software Engineering",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_BACKEND_DEV",
+    "name": "Backend Development",
+    "aliases": [
+      "server-side development"
+    ],
+    "category": "Software Engineering",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_FRONTEND_DEV",
+    "name": "Frontend Development",
+    "aliases": [
+      "ui development"
+    ],
+    "category": "Software Engineering",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_VERSION_CONTROL",
+    "name": "Version Control",
+    "aliases": [
+      "git",
+      "source control"
+    ],
+    "category": "Software Engineering",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_TESTING",
+    "name": "Software Testing",
+    "aliases": [
+      "unit testing",
+      "integration testing"
+    ],
+    "category": "Software Engineering",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_OOP",
+    "name": "Object-Oriented Programming",
+    "aliases": [
+      "oop"
+    ],
+    "category": "Computer Science Fundamentals",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_ALGO_DS",
+    "name": "Data Structures and Algorithms",
+    "aliases": [
+      "dsa",
+      "algorithms"
+    ],
+    "category": "Computer Science Fundamentals",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_OS",
+    "name": "Operating Systems",
+    "aliases": [
+      "operating systems"
+    ],
+    "category": "Computer Science Fundamentals",
+    "source_refs": [
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_NETWORKS",
+    "name": "Computer Networks",
+    "aliases": [
+      "networking",
+      "tcp/ip"
+    ],
+    "category": "Computer Science Fundamentals",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "name": "Systems Design",
+    "aliases": [
+      "system architecture",
+      "scalable architecture"
+    ],
+    "category": "Computer Science Fundamentals",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_CLOUD",
+    "name": "Cloud Fundamentals",
+    "aliases": [
+      "cloud platforms",
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "category": "Cloud and DevOps",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_DEVOPS",
+    "name": "DevOps Practices",
+    "aliases": [
+      "ci/cd",
+      "deployment automation"
+    ],
+    "category": "Cloud and DevOps",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_CONTAINERIZATION",
+    "name": "Containerization",
+    "aliases": [
+      "docker",
+      "kubernetes",
+      "containers"
+    ],
+    "category": "Cloud and DevOps",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_LINUX",
+    "name": "Linux and Command Line",
+    "aliases": [
+      "unix shell",
+      "bash",
+      "linux",
+      "operating systems"
+    ],
+    "category": "Cloud and DevOps",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_STATISTICS",
+    "name": "Statistics",
+    "aliases": [
+      "statistical analysis",
+      "inference"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_PROBABILITY",
+    "name": "Probability",
+    "aliases": [
+      "probability theory"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_LINEAR_ALG",
+    "name": "Linear Algebra",
+    "aliases": [
+      "matrices",
+      "vectors"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_CALCULUS",
+    "name": "Calculus",
+    "aliases": [
+      "differential calculus",
+      "integral calculus"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_OPTIMIZATION",
+    "name": "Optimization",
+    "aliases": [
+      "mathematical optimization"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_EXPERIMENTATION",
+    "name": "Experiment Design",
+    "aliases": [
+      "a/b testing",
+      "experimental design"
+    ],
+    "category": "Math and Analytics",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_DATA_VIZ",
+    "name": "Data Visualization",
+    "aliases": [
+      "dashboarding",
+      "visual analytics"
+    ],
+    "category": "Analytics",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_BI_TOOLS",
+    "name": "Business Intelligence Tools",
+    "aliases": [
+      "bi tools",
+      "dashboards"
+    ],
+    "category": "Analytics",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "name": "Business Analysis",
+    "aliases": [
+      "requirements analysis"
+    ],
+    "category": "Analytics",
+    "source_refs": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_ML_FUND",
+    "name": "Machine Learning Fundamentals",
+    "aliases": [
+      "supervised learning",
+      "unsupervised learning"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "name": "Feature Engineering",
+    "aliases": [
+      "feature preprocessing",
+      "feature selection"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_MODEL_EVAL",
+    "name": "Model Evaluation",
+    "aliases": [
+      "validation metrics",
+      "model metrics"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_ONET_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_MLOPS",
+    "name": "MLOps",
+    "aliases": [
+      "model deployment",
+      "model monitoring"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_BLS_SOFTWARE_DEVELOPERS"
+    ]
+  },
+  {
+    "skill_id": "SK_AI_ETHICS",
+    "name": "AI Ethics and Responsible AI",
+    "aliases": [
+      "responsible ai",
+      "ai governance"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_GENAI_BASICS",
+    "name": "Generative AI Basics",
+    "aliases": [
+      "llm fundamentals",
+      "prompting"
+    ],
+    "category": "Machine Learning",
+    "source_refs": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_SECURITY_FUND",
+    "name": "Cybersecurity Fundamentals",
+    "aliases": [
+      "infosec basics",
+      "security basics"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_NETWORK_SECURITY",
+    "name": "Network Security",
+    "aliases": [
+      "firewalls",
+      "secure networking"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_APP_SECURITY",
+    "name": "Application Security",
+    "aliases": [
+      "secure coding",
+      "owasp"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_CRYPTO",
+    "name": "Cryptography Basics",
+    "aliases": [
+      "encryption",
+      "public key cryptography"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "name": "Incident Response",
+    "aliases": [
+      "incident handling",
+      "soc operations"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_ONET_INFOSEC_ANALYSTS",
+      "SRC_NIST_NICE_FRAMEWORK"
+    ]
+  },
+  {
+    "skill_id": "SK_RISK_MGMT",
+    "name": "Risk Management",
+    "aliases": [
+      "security risk",
+      "enterprise risk"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_BLS_FINANCIAL_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_GRC",
+    "name": "Governance, Risk, and Compliance",
+    "aliases": [
+      "grc",
+      "compliance frameworks"
+    ],
+    "category": "Cybersecurity",
+    "source_refs": [
+      "SRC_NIST_NICE_FRAMEWORK",
+      "SRC_BLS_INFOSEC_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_FIN_MARKETS",
+    "name": "Financial Markets",
+    "aliases": [
+      "market structure",
+      "capital markets"
+    ],
+    "category": "Fusion Domain: Finance",
+    "source_refs": [
+      "SRC_BLS_FINANCIAL_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "name": "Financial Accounting",
+    "aliases": [
+      "financial statements",
+      "accounting principles"
+    ],
+    "category": "Fusion Domain: Finance",
+    "source_refs": [
+      "SRC_BLS_FINANCIAL_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_CORP_FINANCE",
+    "name": "Corporate Finance",
+    "aliases": [
+      "valuation",
+      "capital budgeting"
+    ],
+    "category": "Fusion Domain: Finance",
+    "source_refs": [
+      "SRC_BLS_FINANCIAL_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_RISK_ANALYTICS",
+    "name": "Risk Analytics",
+    "aliases": [
+      "market risk analytics",
+      "credit risk analytics"
+    ],
+    "category": "Fusion Domain: Finance",
+    "source_refs": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ]
+  },
+  {
+    "skill_id": "SK_BIO_FUND",
+    "name": "Biology Fundamentals",
+    "aliases": [
+      "molecular biology",
+      "cell biology"
+    ],
+    "category": "Fusion Domain: Biology",
+    "source_refs": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_GENOMICS",
+    "name": "Genomics and Sequence Analysis",
+    "aliases": [
+      "sequence analysis",
+      "genomic pipelines"
+    ],
+    "category": "Fusion Domain: Biology",
+    "source_refs": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS"
+    ]
+  },
+  {
+    "skill_id": "SK_BIO_STATS",
+    "name": "Biostatistics",
+    "aliases": [
+      "bio statistics"
+    ],
+    "category": "Fusion Domain: Biology",
+    "source_refs": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+      "SRC_BLS_DATA_SCIENTISTS"
+    ]
+  }
+]

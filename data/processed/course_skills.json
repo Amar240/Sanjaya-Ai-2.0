@@ -1,0 +1,3112 @@
+[
+  {
+    "course_id": "ACCT-200",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-207",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-305",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-305",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-305",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-305",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-305",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-315",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-316",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-364",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-402",
+    "skill_id": "SK_ETL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-405",
+    "skill_id": "SK_ETL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-405",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-444",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "ACCT-444",
+    "skill_id": "SK_ETL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-444",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-447",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-483",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-516",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-600",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-602",
+    "skill_id": "SK_ETL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-604",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-604",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-604",
+    "skill_id": "SK_ETL",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-604",
+    "skill_id": "SK_SQL",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-606",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-606",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-610",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "ACCT-610",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-611",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-612",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-615",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-617",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-625",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "ACCT-636",
+    "skill_id": "SK_STATISTICS",
+    "strength": 3
+  },
+  {
+    "course_id": "ACCT-644",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "ACCT-644",
+    "skill_id": "SK_ETL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-644",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 5
+  },
+  {
+    "course_id": "ACCT-647",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "ACCT-683",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-601",
+    "skill_id": "SK_AI_ETHICS",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-605",
+    "skill_id": "SK_BIO_STATS",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-605",
+    "skill_id": "SK_STATISTICS",
+    "strength": 3
+  },
+  {
+    "course_id": "BINF-610",
+    "skill_id": "SK_GENAI_BASICS",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-610",
+    "skill_id": "SK_ML_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "BINF-620",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-620",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-620",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "BINF-640",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-640",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-640",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-640",
+    "skill_id": "SK_SQL",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-644",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "BINF-684",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "BINF-684",
+    "skill_id": "SK_GENAI_BASICS",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-684",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-684",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-684",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "BINF-685",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-690",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "BINF-694",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-695",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-695",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-815",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-815",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "strength": 1
+  },
+  {
+    "course_id": "BINF-816",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BINF-816",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "strength": 1
+  },
+  {
+    "course_id": "BISC-115",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-205",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "BISC-207",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-217",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-217",
+    "skill_id": "SK_GENOMICS",
+    "strength": 3
+  },
+  {
+    "course_id": "BISC-218",
+    "skill_id": "SK_GENOMICS",
+    "strength": 3
+  },
+  {
+    "course_id": "BISC-303",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "BISC-305",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-401",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "BISC-602",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "BISC-609",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "BISC-612",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-615",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-625",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-639",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-643",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-650",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-679",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-697",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "BISC-815",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-816",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "BISC-822",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-345",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 4
+  },
+  {
+    "course_id": "BUAD-345",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-414",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-620",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-620",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "BUAD-620",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "BUAD-621",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 4
+  },
+  {
+    "course_id": "BUAD-621",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-622",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 4
+  },
+  {
+    "course_id": "BUAD-622",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "BUAD-625",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-648",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-651",
+    "skill_id": "SK_AI_ETHICS",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-651",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "BUAD-664",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "BUAD-682",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-101",
+    "skill_id": "SK_CLOUD",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-103",
+    "skill_id": "SK_CLOUD",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-111",
+    "skill_id": "SK_CLOUD",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-120",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CHEM-120",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-457",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-527",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CHEM-603",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-605",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-606",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "CHEM-620",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-623",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-623",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-623",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-623",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-636",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CHEM-637",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-642",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-645",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-649",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CHEM-650",
+    "skill_id": "SK_BIO_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "CHEM-652",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CIEG-315",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "CIEG-315",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 4
+  },
+  {
+    "course_id": "CIEG-315",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-101",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-103",
+    "skill_id": "SK_JAVA",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-103",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-104",
+    "skill_id": "SK_PYTHON",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-106",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-108",
+    "skill_id": "SK_OOP",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-108",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-181",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-181",
+    "skill_id": "SK_OOP",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-181",
+    "skill_id": "SK_PYTHON",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-204",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-210",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-210",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-210",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-220",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-250",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-250",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-250",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-250",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-260",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-260",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_FRONTEND_DEV",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_TESTING",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-275",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-303",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-303",
+    "skill_id": "SK_LINUX",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-303",
+    "skill_id": "SK_NETWORKS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-303",
+    "skill_id": "SK_OS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-304",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-320",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-320",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-356",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-356",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-358",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-360",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-360",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-361",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-361",
+    "skill_id": "SK_LINUX",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-361",
+    "skill_id": "SK_OS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-362",
+    "skill_id": "SK_APIS",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-362",
+    "skill_id": "SK_CLOUD",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-362",
+    "skill_id": "SK_CONTAINERIZATION",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-362",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-362",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-372",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-372",
+    "skill_id": "SK_CPP",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-372",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-374",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-375",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-375",
+    "skill_id": "SK_TESTING",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-410",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-414",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-414",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-414",
+    "skill_id": "SK_MLOPS",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-414",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-415",
+    "skill_id": "SK_DEVOPS",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-415",
+    "skill_id": "SK_TESTING",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-436",
+    "skill_id": "SK_GENOMICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-437",
+    "skill_id": "SK_SQL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-442",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-450",
+    "skill_id": "SK_NETWORKS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-450",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-450",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-450",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-605",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-605",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-606",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-611",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-613",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-613",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-613",
+    "skill_id": "SK_GENOMICS",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-614",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-614",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-614",
+    "skill_id": "SK_MLOPS",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-614",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-615",
+    "skill_id": "SK_DEVOPS",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-615",
+    "skill_id": "SK_TESTING",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-621",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-636",
+    "skill_id": "SK_GENOMICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-637",
+    "skill_id": "SK_SQL",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-642",
+    "skill_id": "SK_FEATURE_ENGINEERING",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_LINUX",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_NETWORKS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_OS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-650",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-653",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-653",
+    "skill_id": "SK_NETWORKS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-662",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-663",
+    "skill_id": "SK_LINUX",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-663",
+    "skill_id": "SK_OS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-664",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-664",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-664",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-665",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-665",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-665",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_LINUX",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_NETWORKS",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-669",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-672",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_APIS",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 3
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_DEVOPS",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-675",
+    "skill_id": "SK_TESTING",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-682",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-682",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-682",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-683",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-683",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-684",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-684",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-684",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-684",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "CISC-685",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "CISC-686",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 1
+  },
+  {
+    "course_id": "CISC-686",
+    "skill_id": "SK_OOP",
+    "strength": 2
+  },
+  {
+    "course_id": "CISC-686",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-101",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-251",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-300",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "ECON-300",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-301",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "ECON-301",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-303",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "ECON-304",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "ECON-306",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 1
+  },
+  {
+    "course_id": "ECON-306",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-317",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-343",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-370",
+    "skill_id": "SK_GENAI_BASICS",
+    "strength": 1
+  },
+  {
+    "course_id": "ECON-381",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-626",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-676",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-811",
+    "skill_id": "SK_OOP",
+    "strength": 1
+  },
+  {
+    "course_id": "ECON-814",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 5
+  },
+  {
+    "course_id": "ECON-826",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 4
+  },
+  {
+    "course_id": "ECON-845",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "ECON-846",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-200",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-200",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-311",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-314",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-317",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-320",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-320",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-321",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-322",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 1
+  },
+  {
+    "course_id": "FINC-354",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-354",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-409",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-412",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-413",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-413",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-413",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-415",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-415",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-416",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-417",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-419",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-430",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-430",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-459",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-609",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-612",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-615",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-615",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-616",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-619",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-630",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-630",
+    "skill_id": "SK_PYTHON",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-642",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "FINC-642",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-642",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-650",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-650",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-651",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-652",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-654",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-654",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-659",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 4
+  },
+  {
+    "course_id": "FINC-670",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-670",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-671",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 5
+  },
+  {
+    "course_id": "FINC-672",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 1
+  },
+  {
+    "course_id": "FINC-672",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-672",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-672",
+    "skill_id": "SK_RISK_ANALYTICS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-841",
+    "skill_id": "SK_FIN_MARKETS",
+    "strength": 2
+  },
+  {
+    "course_id": "FINC-842",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-010",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-010",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-010",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-113",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-114",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-114",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-114",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-114",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-115",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-115",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-117",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-117",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-201",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-201",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-201",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-202",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-202",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-202",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-205",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-205",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-219",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-221",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-221",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-230",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-230",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-231",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-231",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-232",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-232",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-232",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-240",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-241",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-241",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-242",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-242",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-243",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-243",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-243",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-243",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-252",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-252",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-253",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-302",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-305",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-342",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-349",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-350",
+    "skill_id": "SK_CLOUD",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-350",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-351",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 3
+  },
+  {
+    "course_id": "MATH-353",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 3
+  },
+  {
+    "course_id": "MATH-401",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-426",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-450",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-450",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-450",
+    "skill_id": "SK_TESTING",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-503",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-503",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-508",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MATH-529",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-549",
+    "skill_id": "SK_CRYPTO",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-611",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-612",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-612",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-616",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-617",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-630",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-630",
+    "skill_id": "SK_CLOUD",
+    "strength": 2
+  },
+  {
+    "course_id": "MATH-630",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-630",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-637",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "MATH-660",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-160",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-225",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-225",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-225",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-225",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-250",
+    "skill_id": "SK_NETWORKS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-250",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-261",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-261",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-262",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-262",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_GRC",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-305",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-330",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-330",
+    "skill_id": "SK_SQL",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-331",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-331",
+    "skill_id": "SK_ML_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-350",
+    "skill_id": "SK_OOP",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-350",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-402",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-403",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-403",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-403",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-405",
+    "skill_id": "SK_APIS",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-405",
+    "skill_id": "SK_CONTAINERIZATION",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-405",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-405",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-407",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-407",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-407",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-407",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-407",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-408",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-408",
+    "skill_id": "SK_ML_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-430",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-430",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-435",
+    "skill_id": "SK_DISTRIBUTED_DATA",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-435",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-435",
+    "skill_id": "SK_OOP",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-436",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-436",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-441",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-445",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-447",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-448",
+    "skill_id": "SK_BI_TOOLS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-448",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-448",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-450",
+    "skill_id": "SK_CLOUD",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-450",
+    "skill_id": "SK_CONTAINERIZATION",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-450",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-450",
+    "skill_id": "SK_GRC",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-450",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_GRC",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_NETWORKS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-455",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-465",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-465",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-465",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-603",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-603",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-603",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-604",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-604",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-604",
+    "skill_id": "SK_ETL",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-604",
+    "skill_id": "SK_SQL",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-606",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-606",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-606",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-607",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-607",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-607",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-607",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-607",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-608",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-608",
+    "skill_id": "SK_ML_FUND",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-610",
+    "skill_id": "SK_NETWORKS",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-610",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-615",
+    "skill_id": "SK_CLOUD",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-615",
+    "skill_id": "SK_CONTAINERIZATION",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-615",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-625",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-630",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-630",
+    "skill_id": "SK_SYSTEMS_DESIGN",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-635",
+    "skill_id": "SK_BI_TOOLS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-635",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-635",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-636",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-636",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-636",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-641",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-647",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-648",
+    "skill_id": "SK_BI_TOOLS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-648",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-648",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-650",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-650",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-650",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_GRC",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_INCIDENT_RESPONSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_NETWORKS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_RISK_MGMT",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-655",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-662",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-662",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-665",
+    "skill_id": "SK_APP_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-665",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 5
+  },
+  {
+    "course_id": "MISY-665",
+    "skill_id": "SK_SECURITY_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-670",
+    "skill_id": "SK_AI_ETHICS",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-675",
+    "skill_id": "SK_APIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-675",
+    "skill_id": "SK_BI_TOOLS",
+    "strength": 4
+  },
+  {
+    "course_id": "MISY-675",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-675",
+    "skill_id": "SK_ETL",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-685",
+    "skill_id": "SK_DATA_VIZ",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-685",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-685",
+    "skill_id": "SK_FIN_ACCOUNTING",
+    "strength": 3
+  },
+  {
+    "course_id": "MISY-685",
+    "skill_id": "SK_PYTHON",
+    "strength": 1
+  },
+  {
+    "course_id": "MISY-686",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "MISY-686",
+    "skill_id": "SK_DATA_WAREHOUSE",
+    "strength": 2
+  },
+  {
+    "course_id": "SCEN-101",
+    "skill_id": "SK_CLOUD",
+    "strength": 1
+  },
+  {
+    "course_id": "SCEN-105",
+    "skill_id": "SK_EXPERIMENTATION",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-200",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-200",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-200",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-408",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-408",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-408",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-408",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-409",
+    "skill_id": "SK_EXPERIMENTATION",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-464",
+    "skill_id": "SK_CORP_FINANCE",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-464",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-464",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-468",
+    "skill_id": "SK_AI_ETHICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-468",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-470",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-470",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-471",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-471",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-475",
+    "skill_id": "SK_DB_DESIGN",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-475",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-475",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-475",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-601",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-601",
+    "skill_id": "SK_CPP",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-601",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-601",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-602",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_ALGO_DS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_CPP",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_GENAI_BASICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_ML_FUND",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_OPTIMIZATION",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-603",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-608",
+    "skill_id": "SK_BACKEND_DEV",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-608",
+    "skill_id": "SK_BUSINESS_ANALYSIS",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-608",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-608",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-609",
+    "skill_id": "SK_EXPERIMENTATION",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-611",
+    "skill_id": "SK_EXPERIMENTATION",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-611",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-613",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-617",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-617",
+    "skill_id": "SK_ML_FUND",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-617",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-619",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-621",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-621",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-622",
+    "skill_id": "SK_NETWORK_SECURITY",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-622",
+    "skill_id": "SK_STATISTICS",
+    "strength": 1
+  },
+  {
+    "course_id": "STAT-631",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-631",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-632",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-633",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-633",
+    "skill_id": "SK_LINEAR_ALG",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-633",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-633",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-634",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-641",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-656",
+    "skill_id": "SK_BIO_STATS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-656",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-656",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-656",
+    "skill_id": "SK_VERSION_CONTROL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-657",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-657",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-659",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 2
+  },
+  {
+    "course_id": "STAT-659",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-664",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-668",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-670",
+    "skill_id": "SK_CALCULUS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-670",
+    "skill_id": "SK_PROBABILITY",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-670",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-671",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-671",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-672",
+    "skill_id": "SK_PYTHON",
+    "strength": 5
+  },
+  {
+    "course_id": "STAT-672",
+    "skill_id": "SK_STATISTICS",
+    "strength": 4
+  },
+  {
+    "course_id": "STAT-673",
+    "skill_id": "SK_MODEL_EVAL",
+    "strength": 3
+  },
+  {
+    "course_id": "STAT-673",
+    "skill_id": "SK_STATISTICS",
+    "strength": 5
+  }
+]

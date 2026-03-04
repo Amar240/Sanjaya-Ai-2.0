@@ -1,0 +1,188 @@
+[
+  {
+    "role_id": "ROLE_AI_ENGINEER",
+    "role_title": "AI Engineer",
+    "typical_tasks": [
+      "Build and maintain ML-enabled application services",
+      "Deploy model inference pipelines and monitor production performance",
+      "Work with software and data teams to translate model outputs into product features"
+    ],
+    "salary_usd": {
+      "p25": 109000,
+      "median": 145000,
+      "p75": 182000,
+      "notes": "USA range estimates synthesized from BLS software/data occupations and O*NET task profiles."
+    },
+    "sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_ONET_SOFTWARE_DEVELOPERS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "last_updated": "2026-02-20"
+  },
+  {
+    "role_id": "ROLE_BIOINFORMATICS_SCIENTIST",
+    "role_title": "Bioinformatics Scientist",
+    "typical_tasks": [
+      "Process genomic and clinical datasets for biological interpretation",
+      "Build reproducible pipelines for sequence and omics analysis",
+      "Partner with lab teams to validate computational findings"
+    ],
+    "salary_usd": {
+      "p25": 82000,
+      "median": 118000,
+      "p75": 149000,
+      "notes": "USA ranges based on O*NET bioinformatics and data scientist market references."
+    },
+    "sources": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "last_updated": "2026-02-28"
+  },
+  {
+    "role_id": "ROLE_CYBERSECURITY_ANALYST",
+    "role_title": "Cybersecurity Analyst",
+    "typical_tasks": [
+      "Monitor systems for security incidents and coordinate response",
+      "Assess vulnerabilities and recommend controls",
+      "Maintain security tooling, policy alignment, and incident documentation"
+    ],
+    "salary_usd": {
+      "p25": 81000,
+      "median": 121000,
+      "p75": 157000,
+      "notes": "USA salary ranges from BLS information security analysts and O*NET references."
+    },
+    "sources": [
+      "SRC_BLS_INFOSEC_ANALYSTS",
+      "SRC_ONET_INFOSEC_ANALYSTS"
+    ],
+    "last_updated": "2026-02-20"
+  },
+  {
+    "role_id": "ROLE_DATA_ENGINEER",
+    "role_title": "Data Engineer",
+    "typical_tasks": [
+      "Design, build, and operate reliable ETL/ELT data pipelines",
+      "Model and optimize warehouse/lakehouse schemas for analytics use cases",
+      "Implement data quality checks and lineage for production datasets"
+    ],
+    "salary_usd": {
+      "p25": 98000,
+      "median": 132000,
+      "p75": 165000,
+      "notes": "USA range estimates based on BLS database/data scientist occupations and O*NET profiles."
+    },
+    "sources": [
+      "SRC_BLS_DATABASE_ADMINS_ARCHITECTS",
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_ONET_DATABASE_ARCHITECTS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "last_updated": "2026-02-20"
+  },
+  {
+    "role_id": "ROLE_DATA_SCIENTIST",
+    "role_title": "Data Scientist",
+    "typical_tasks": [
+      "Analyze structured and unstructured data to identify patterns",
+      "Build and evaluate predictive models for business/operations decisions",
+      "Communicate findings through visuals and written recommendations"
+    ],
+    "salary_usd": {
+      "p25": 86000,
+      "median": 117000,
+      "p75": 154000,
+      "notes": "USA salary ranges from BLS and O*NET references."
+    },
+    "sources": [
+      "SRC_BLS_DATA_SCIENTISTS",
+      "SRC_ONET_DATA_SCIENTISTS"
+    ],
+    "last_updated": "2026-02-20"
+  },
+  {
+    "role_id": "ROLE_FINTECH_ENGINEER",
+    "role_title": "FinTech Engineer",
+    "typical_tasks": [
+      "Build secure financial data APIs and transaction services",
+      "Design risk-aware analytics workflows for lending/payments",
+      "Collaborate with product, compliance, and engineering teams on regulated releases"
+    ],
+    "salary_usd": {
+      "p25": 98000,
+      "median": 136000,
+      "p75": 178000,
+      "notes": "USA salary ranges from BLS finance/software occupations and O*NET profiles."
+    },
+    "sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025"
+    ],
+    "last_updated": "2026-02-28"
+  },
+  {
+    "role_id": "ROLE_HEALTH_INFORMATICS_ANALYST",
+    "role_title": "Health Informatics Analyst",
+    "typical_tasks": [
+      "Analyze clinical/operational data for care quality improvement",
+      "Design healthcare reporting models and data governance controls",
+      "Support security and compliance for health information workflows"
+    ],
+    "salary_usd": {
+      "p25": 76000,
+      "median": 108000,
+      "p75": 138000,
+      "notes": "USA ranges based on BLS health information technologists and related O*NET sources."
+    },
+    "sources": [
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS",
+      "SRC_BLS_COMPUTER_SYSTEMS_ANALYSTS"
+    ],
+    "last_updated": "2026-02-28"
+  },
+  {
+    "role_id": "ROLE_QUANT_RISK_ANALYST",
+    "role_title": "Quant / Risk Analyst",
+    "typical_tasks": [
+      "Build statistical risk models for portfolios and operations",
+      "Run scenario analysis and stress tests for decision support",
+      "Translate quantitative findings into policy and business recommendations"
+    ],
+    "salary_usd": {
+      "p25": 88000,
+      "median": 124000,
+      "p75": 161000,
+      "notes": "USA salary ranges from BLS financial analyst and operations research sources."
+    },
+    "sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS"
+    ],
+    "last_updated": "2026-02-28"
+  },
+  {
+    "role_id": "ROLE_SOFTWARE_ENGINEER",
+    "role_title": "Software Engineer",
+    "typical_tasks": [
+      "Develop, test, and maintain software applications",
+      "Review architecture and code quality across services",
+      "Collaborate in release planning and production support"
+    ],
+    "salary_usd": {
+      "p25": 89000,
+      "median": 131000,
+      "p75": 168000,
+      "notes": "USA salary ranges from BLS and O*NET software developer sources."
+    },
+    "sources": [
+      "SRC_BLS_SOFTWARE_DEVELOPERS",
+      "SRC_ONET_SOFTWARE_DEVELOPERS"
+    ],
+    "last_updated": "2026-02-20"
+  }
+]

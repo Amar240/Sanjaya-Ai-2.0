@@ -1,0 +1,60 @@
+[
+  {
+    "fusion_pack_id": "FUSION_PACK_FINANCE_DATA_USA",
+    "title": "Finance + Data/CS Catalyst",
+    "domain_a": "Finance",
+    "domain_b": "Data and Computer Science",
+    "target_roles": [
+      "ROLE_FINTECH_ENGINEER",
+      "ROLE_QUANT_RISK_ANALYST",
+      "ROLE_DATA_SCIENTIST"
+    ],
+    "unlock_skills": [
+      "SK_FIN_MARKETS",
+      "SK_RISK_ANALYTICS",
+      "SK_SQL",
+      "SK_PYTHON",
+      "SK_DATA_VIZ"
+    ],
+    "starter_projects": [
+      "PT_SK_FIN_MARKETS_BEGINNER_001",
+      "PT_SK_RISK_ANALYTICS_BEGINNER_001",
+      "PT_SK_SQL_BEGINNER_001",
+      "PT_SK_PYTHON_BEGINNER_001"
+    ],
+    "evidence_sources": [
+      "SRC_BLS_FINANCIAL_ANALYSTS",
+      "SRC_BLS_OPERATIONS_RESEARCH_ANALYSTS",
+      "SRC_WEF_FASTEST_GROWING_JOBS_2025"
+    ]
+  },
+  {
+    "fusion_pack_id": "FUSION_PACK_BIO_CS_USA",
+    "title": "Biology + Data/CS Catalyst",
+    "domain_a": "Biology",
+    "domain_b": "Data and Computer Science",
+    "target_roles": [
+      "ROLE_BIOINFORMATICS_SCIENTIST",
+      "ROLE_HEALTH_INFORMATICS_ANALYST",
+      "ROLE_DATA_ENGINEER"
+    ],
+    "unlock_skills": [
+      "SK_GENOMICS",
+      "SK_BIO_STATS",
+      "SK_SQL",
+      "SK_PYTHON",
+      "SK_STATISTICS"
+    ],
+    "starter_projects": [
+      "PT_SK_GENOMICS_BEGINNER_001",
+      "PT_SK_BIO_STATS_BEGINNER_001",
+      "PT_SK_SQL_BEGINNER_001",
+      "PT_SK_PYTHON_BEGINNER_001"
+    ],
+    "evidence_sources": [
+      "SRC_ONET_BIOINFORMATICS_SCIENTISTS",
+      "SRC_BLS_HEALTH_INFO_TECHNOLOGISTS",
+      "SRC_ONET_HEALTH_INFORMATICS_SPECIALISTS"
+    ]
+  }
+]
