@@ -198,17 +198,6 @@ cd backend
 pytest -q
 ```
 
-## Screenshots
-
-Add real screenshots under `docs/images/`:
-
-- `roadmap.png` (plan generated, "Your path in 5 steps")
-- `skill_gaps_evidence.png` (skill gaps + evidence panel)
-
-README references:
-
-- `docs/images/roadmap.png`
-- `docs/images/skill_gaps_evidence.png`
 
 ## Additional docs
 
